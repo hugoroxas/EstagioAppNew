@@ -50,8 +50,6 @@ exports.principal = function(args) {
     // MAS NÃO FAZ MAL PORQUE
     // NÃO TENHO MAIS NADA PARA FAZER
 
-    // NÃO, SÓ POR ISSO ELIMINEI O TEU PIMBA
-
-    // É COM MUITA PENA MINHA QUE RESPONDO QUE NÃO TENHO TRABALHO PARA FAZER
+    // RECKT
 
 }
