@@ -1,0 +1,7 @@
+<Page loaded="principal">
+    <ActionBar title="Just Click" class="action-bar"></ActionBar>
+
+    <StackLayout orientation="vertical">
+        <Label text="Just Click" class="h1 text-center" />
+    </StackLayout>
+</Page>

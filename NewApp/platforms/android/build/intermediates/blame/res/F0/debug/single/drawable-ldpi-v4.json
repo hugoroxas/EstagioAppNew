@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\Users\\Administrador\\Fds\\AGORA\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\Users\\Hugo\\MobileApps\\projetoVazio\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\Users\\User\\Desktop\\NewApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    }
+]

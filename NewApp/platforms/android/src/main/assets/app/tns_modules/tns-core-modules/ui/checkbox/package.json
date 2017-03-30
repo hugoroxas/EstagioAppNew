@@ -1,0 +1,143 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-checkbox",
+        "scope": null,
+        "escapedName": "nativescript-checkbox",
+        "name": "nativescript-checkbox",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp"
+    ]
+  ],
+  "_from": "nativescript-checkbox@latest",
+  "_id": "nativescript-checkbox@1.2.6",
+  "_inCache": true,
+  "_location": "/nativescript-checkbox",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-checkbox-1.2.6.tgz_1486668436153_0.21135455556213856"
+  },
+  "_npmUser": {
+    "name": "triniwiz",
+    "email": "fortune.osei@yahoo.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-checkbox",
+    "scope": null,
+    "escapedName": "nativescript-checkbox",
+    "name": "nativescript-checkbox",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-checkbox/-/nativescript-checkbox-1.2.6.tgz",
+  "_shasum": "fbde51a7af7ee0775a1322af927c2618c0d3a15a",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-checkbox",
+  "_where": "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-checkbox/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nathan Walker",
+      "email": "walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    },
+    {
+      "name": "Steve McNiven-Scott",
+      "email": "steve@sitefinitysteve.com",
+      "url": "https://github.com/sitefinitysteve"
+    },
+    {
+      "name": "Osei Fortune",
+      "email": "fortune.osei@yahoo.com",
+      "url": "https://github.com/triniwiz"
+    }
+  ],
+  "dependencies": {},
+  "description": "NativeScript plugin for checkbox widget.",
+  "devDependencies": {
+    "tns-platform-declarations": "^2.0.0",
+    "typescript": "^1.8.10"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "fbde51a7af7ee0775a1322af927c2618c0d3a15a",
+    "tarball": "https://registry.npmjs.org/nativescript-checkbox/-/nativescript-checkbox-1.2.6.tgz"
+  },
+  "gitHead": "61da7465c9de0810ccd6ebe1469fa53579c0c9ad",
+  "homepage": "https://github.com/bradmartin/nativescript-checkbox",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "Material Design",
+    "CheckBox",
+    "bradmartin",
+    "thorum"
+  ],
+  "license": "MIT",
+  "main": "checkbox",
+  "maintainers": [
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    },
+    {
+      "name": "sitefinitysteve",
+      "email": "steve@sitefinitysteve.com"
+    },
+    {
+      "name": "triniwiz",
+      "email": "fortune.osei@yahoo.com"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "name": "nativescript-checkbox",
+  "nativescript": {
+    "platforms": {
+      "android": "2.4.0",
+      "ios": "2.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-checkbox.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "buildrun": "npm run build && cp -R checkbox.*.js demo/node_modules/nativescript-checkbox",
+    "copy.android": "cp -R checkbox.*.js demo/node_modules/nativescript-checkbox && cd demo && tns livesync android --watch",
+    "copy.ios": "cp -R checkbox.*.js demo/node_modules/nativescript-checkbox && cd demo && tns livesync ios --watch",
+    "debug.android": "npm run preparedemo && cd demo && tns debug android",
+    "debug.ios": "npm run preparedemo && cd demo && tns debug ios",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-checkbox && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "version": "1.2.6"
+}

@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-radiobutton",
+        "scope": null,
+        "escapedName": "nativescript-radiobutton",
+        "name": "nativescript-radiobutton",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp"
+    ]
+  ],
+  "_from": "nativescript-radiobutton@latest",
+  "_id": "nativescript-radiobutton@0.1.0",
+  "_inCache": true,
+  "_location": "/nativescript-radiobutton",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-radiobutton-0.1.0.tgz_1485962403406_0.2545286703389138"
+  },
+  "_npmUser": {
+    "name": "tunaweza",
+    "email": "npm@tunaweza.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-radiobutton",
+    "scope": null,
+    "escapedName": "nativescript-radiobutton",
+    "name": "nativescript-radiobutton",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-radiobutton/-/nativescript-radiobutton-0.1.0.tgz",
+  "_shasum": "0f74dd620423bea495805526b8206c697a62940c",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-radiobutton",
+  "_where": "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp",
+  "author": {
+    "name": "Tunaweza",
+    "email": "npm@tunaweza.com",
+    "url": "http://tunaweza.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Tunaweza/nativescript-radiobutton/issues"
+  },
+  "dependencies": {},
+  "description": "A plugin for nativescript that exposes the radiogroup and radiobutton native view elements.",
+  "devDependencies": {
+    "@angular/common": "2.4.3",
+    "@angular/compiler": "2.4.3",
+    "@angular/compiler-cli": "2.4.3",
+    "@angular/core": "2.4.3",
+    "nativescript-angular": "^1.3.0",
+    "tns-core-modules": "^2.4.4",
+    "tns-platform-declarations": "^2.0.0",
+    "typescript": "~2.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0f74dd620423bea495805526b8206c697a62940c",
+    "tarball": "https://registry.npmjs.org/nativescript-radiobutton/-/nativescript-radiobutton-0.1.0.tgz"
+  },
+  "gitHead": "20624cf2e9dea82a76a94c593e495aff0d4b5c88",
+  "homepage": "https://github.com/Tunaweza/nativescript-radiobutton#readme",
+  "license": "Apache 2.0",
+  "main": "radiogroup",
+  "maintainers": [
+    {
+      "name": "tunaweza",
+      "email": "npm@tunaweza.com"
+    }
+  ],
+  "name": "nativescript-radiobutton",
+  "nativescript": {
+    "platforms": {
+      "android": "2.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tunaweza/nativescript-radiobutton.git"
+  },
+  "scripts": {
+    "ngc": "ngc",
+    "prepublish": "npm run ngc"
+  },
+  "version": "0.1.0"
+}

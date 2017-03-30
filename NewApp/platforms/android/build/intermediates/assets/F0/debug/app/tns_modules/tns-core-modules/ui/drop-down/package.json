@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-drop-down",
+        "scope": null,
+        "escapedName": "nativescript-drop-down",
+        "name": "nativescript-drop-down",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp"
+    ]
+  ],
+  "_from": "nativescript-drop-down@latest",
+  "_id": "nativescript-drop-down@1.5.3",
+  "_inCache": true,
+  "_location": "/nativescript-drop-down",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-drop-down-1.5.3.tgz_1488126507838_0.4112700782716274"
+  },
+  "_npmUser": {
+    "name": "pstaev",
+    "email": "peter@tangrasoft.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-drop-down",
+    "scope": null,
+    "escapedName": "nativescript-drop-down",
+    "name": "nativescript-drop-down",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-drop-down/-/nativescript-drop-down-1.5.3.tgz",
+  "_shasum": "87e47a219c2977ab59bac907f0a3f6f3dedfdf32",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-drop-down",
+  "_where": "C:\\Users\\Miguel\\Documents\\GitHub\\testes\\NewApp",
+  "author": {
+    "name": "Peter Staev",
+    "email": "peter@tangrasoft.com"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterStaev/NativeScript-Drop-Down/issues"
+  },
+  "dependencies": {},
+  "description": "A NativeScript DropDown widget.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "87e47a219c2977ab59bac907f0a3f6f3dedfdf32",
+    "tarball": "https://registry.npmjs.org/nativescript-drop-down/-/nativescript-drop-down-1.5.3.tgz"
+  },
+  "homepage": "https://github.com/PeterStaev/NativeScript-Drop-Down#readme",
+  "keywords": [
+    "NativeScript",
+    "DropDown",
+    "Spinner",
+    "tangra"
+  ],
+  "license": "Apache-2.0",
+  "main": "drop-down",
+  "maintainers": [
+    {
+      "name": "pstaev",
+      "email": "peter.staev@gmail.com"
+    }
+  ],
+  "name": "nativescript-drop-down",
+  "nativescript": {
+    "category": "Interface",
+    "platforms": {
+      "ios": "2.3.0",
+      "android": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterStaev/NativeScript-Drop-Down.git"
+  },
+  "scripts": {},
+  "typings": "drop-down.d.ts",
+  "version": "1.5.3"
+}
