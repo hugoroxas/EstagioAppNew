@@ -44,4 +44,10 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
+    // ORA MUITO BOA TARDE
+    // ESTOU AQUI A PERDER O MEU TEMPO 
+    // A FAZER ESTES COMENTÁRIOS
+    // MAS NÃO FAZ MAL PORQUE
+    // NÃO TENHO MAIS NADA PARA FAZER
+
 }
