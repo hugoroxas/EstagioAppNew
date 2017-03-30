@@ -1,0 +1,11 @@
+demo/
+screens/
+app/
+.vscode/
+*.png
+*.log
+*.ts
+!index.d.ts
+!BEMCheckBox.d.ts
+tsconfig.json
+README.md
