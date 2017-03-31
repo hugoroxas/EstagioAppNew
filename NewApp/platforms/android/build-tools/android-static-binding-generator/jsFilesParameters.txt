@@ -1,1 +1,3 @@
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\app.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\menu.js
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\login-view\login.js
