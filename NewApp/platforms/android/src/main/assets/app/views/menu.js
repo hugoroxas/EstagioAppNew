@@ -6,7 +6,11 @@ var page;
 exports.principal = function(args) {
     page = args.object;
     //console.dump(page);
+
+    readJson();
+
     var stackLayout = new layoutModule.StackLayout();
+    
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
@@ -35,6 +39,7 @@ exports.principal = function(args) {
     btn5.text = "Logout";
     btn5.on(btnModule.Button.tapEvent, function(){
         alert("BUTTON 5");
+        
     })
 
     stackLayout.addChild(btn1);
@@ -44,4 +49,24 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
+}
+
+readJson = function() {
+    fetch("https://luisfranciscocode.000webhostapp.com/webservice.php?format=json").then(response => { 
+        return response.json();
+     })
+     .then(function (r) {
+        console.info("json chegou");    
+        var dataJson = r;
+        var numDataJson = Object.keys(dataJson).length;
+
+        console.info("Numer JSON: " + numDataJson);
+        console.info(JSON.stringify(dataJson[0].Fields.text)); 
+        console.info("---------------------------");
+        
+       // console.info(dataJson[0]);
+
+        // drawButtons(dataJson, numDataJson);
+
+	}); 
 }
