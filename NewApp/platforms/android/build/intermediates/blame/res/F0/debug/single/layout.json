@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\error_activity.xml",
-        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\debug\\res\\layout\\error_activity.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\error_activity.xml",
+        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\debug\\res\\layout\\error_activity.xml"
     },
     {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_list_menu_item_checkbox.xml",

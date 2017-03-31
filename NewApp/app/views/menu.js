@@ -7,7 +7,7 @@ exports.principal = function(args) {
     page = args.object;
     //console.dump(page);
 
-    readJson();
+
 
     var stackLayout = new layoutModule.StackLayout();
     
@@ -63,10 +63,6 @@ readJson = function() {
         console.info("Numer JSON: " + numDataJson);
         console.info(JSON.stringify(dataJson[0].Fields.text)); 
         console.info("---------------------------");
-        
-       // console.info(dataJson[0]);
-
-        // drawButtons(dataJson, numDataJson);
 
 	}); 
 }

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:3:2-35
 		INJECTED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\mai
 	android:name
 		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:19:19-61
 application
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:21:2-42:16
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:21:2-43:16
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
@@ -102,7 +102,9 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Administrador\Estag
 	android:name
 		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:22:3-49
 activity#com.tns.NativeScriptActivity
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:28:3-40:14
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:28:3-41:14
+	android:screenOrientation
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:33:4-40
 	android:label
 		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:30:4-49
 	android:configChanges
@@ -112,22 +114,22 @@ ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\mai
 	android:name
 		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:29:4-47
 meta-data#SET_THEME_ON_LAUNCH
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:34:4-87
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:35:4-87
 	android:resource
-		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:34:50-84
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:35:50-84
 	android:name
-		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:34:15-49
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:35:15-49
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:36:4-39:20
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:37:4-40:20
 action#android.intent.action.MAIN
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:37:5-57
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:38:5-57
 	android:name
-		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:37:13-54
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:38:13-54
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:38:5-65
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:39:5-65
 	android:name
-		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:38:15-62
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:39:15-62
 activity#com.tns.ErrorReportActivity
-ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:41:3-57
+ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:42:3-57
 	android:name
-		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:41:13-55
+		ADDED from C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:42:13-55
