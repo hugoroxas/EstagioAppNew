@@ -44,7 +44,6 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
-<<<<<<< HEAD
     // ORA MUITO BOA TARDE
     // ESTOU AQUI A PERDER O MEU TEMPO 
     // A FAZER ESTES COMENTÁRIOS
@@ -53,7 +52,5 @@ exports.principal = function(args) {
 
     // RECKT OKEH
 
-=======
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
->>>>>>> refs/remotes/origin/master
 }
