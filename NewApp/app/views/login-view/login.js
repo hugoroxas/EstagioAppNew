@@ -43,7 +43,7 @@ exports.load = function(args) {
         for ( i = 0 ; i < 3 ; i++ )
         {
             if(i == 1){
-            arrayColumn[i] = new layout.ItemSpec(175, layout.GridUnitType.pixel);
+            arrayColumn[i] = new layout.ItemSpec(300, layout.GridUnitType.pixel);
         } else {
                 arrayColumn[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
             }
