@@ -2,6 +2,7 @@ var http = require("http");
 var labelModule = require("ui/label");
 var buttonModule = require("ui/button");
 var textFieldModule = require("ui/text-field");
+var imageModule = require("ui/image");
 var layout = require("ui/layouts/grid-layout");
 var layout2 = require("ui/layouts/stack-layout");
 var localStorage = require("nativescript-localstorage");
@@ -10,10 +11,12 @@ var application = require("application");
 var labelNumber = 0;
 var buttonNumber = 0;
 var textFieldNumber = 0;
+var imageNumber = 0;
 var page;
 var labelArray = Array();
 var buttonArray = Array();
 var textFieldArray = Array();
+var imageArray = Array();
 
 exports.load = function(args) {
 
@@ -89,6 +92,17 @@ exports.load = function(args) {
                                 layout.GridLayout.setRow(textFieldArray[textFieldNumber], parseInt(myJSON[i].Fields.row_grid));
                                 newGridLayout.addChild(textFieldArray[textFieldNumber]);
                                 textFieldNumber++;
+                              
+                break;
+
+                case "image":  imageArray[imageNumber] = new imageModule.Image();
+                               imageArray[imageNumber].id = myJSON[i].Fields.id;
+                               imageArray[imageNumber].text = myJSON[i].Fields.text;
+                               imageArray[imageNumber].src = "~/views/login-view/Imagens/estagio.png";
+                               layout.GridLayout.setColumn(imageArray[imageNumber], parseInt(myJSON[i].Fields.column_grid));
+                               layout.GridLayout.setRow(imageArray[imageNumber], parseInt(myJSON[i].Fields.row_grid));
+                               newGridLayout.addChild(imageArray[imageNumber]);
+                               imageNumber++;
                               
                 break;
 
