@@ -8,7 +8,7 @@ button {
   text-decoration: none;
   width: 200px;
   height: 50px;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
   margin: auto;
 }
 
@@ -25,6 +25,7 @@ textfield {
     font-size: 30px;
     text-align: center;
     height: 80px;
-    width: 100px;
+    width: 150px;
+    margin-top: 35px;
 
 }

@@ -84,7 +84,7 @@ exports.load = function(args) {
 
                     case "textbox": fieldsArray[i] = new textFieldModule.TextField();
                                     fieldsArray[i].secure = true;
-                                    fieldsArray[i].length = "4";
+                                    fieldsArray[i].hint = "Inserir Pin";
                     break;
 
                     case "image":  fieldsArray[i] = new imageModule.Image();
@@ -201,6 +201,7 @@ exports.load = function(args) {
 
                 case "textbox": fieldsArray[i] = new textFieldModule.TextField();
                                 fieldsArray[i].secure = true;
+                                fieldsArray[i].hint = "Inserir Pin";
                 break;
 
                 case "image":  fieldsArray[i] = new imageModule.Image();
