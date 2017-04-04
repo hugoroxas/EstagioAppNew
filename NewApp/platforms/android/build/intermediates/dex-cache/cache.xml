@@ -2,81 +2,81 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_0beb68069c42e13f2743d76c935446f47d37de89.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_21c94ed64f57d31cb1169f61caea4fb45157cd45.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_e27450a66f262109c8709de3b10792818ee97bf2.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_3c97bb07dcad23db1e499cea0d01238053b4476e.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_0a8af0a9ee462f7620a0915484d4ce97ebd73dd9.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="632bf39700c28ba66c117628dab343126ef89551">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\NewApp-runtime-unspecified_3e82323c725c33bd8bcd3632bbd9a2be128f04ba.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_418a3d55a7eda52f9fa39eb7b6cb520f8156a449.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_4dda48e2bb5b3935a6513d448ed0abd482eaf070.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_9451b55516bfe9baf8c1bae1b0b60b2592b60e62.jar" />
-    </item>
-    <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_8953e5e8a0a942d8cc642e2908e2773971811ee0.jar" />
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_8b6814399afaead30fa75666a2f6809adbda8a31.jar" />
     </item>
     <item
-        jar="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jar="C:\Users\user\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_1da4cd4470d15c5a7e32434e79909e700aeed666.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_b8acd4482896ae45e3926a6e8c948ba4c3c0285a.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\User\Desktop\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_bf26c489c3a420b5f54b2b1619e4eacb9eef8b4a.jar" />
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_3c245ffa75f80cb5a91bd2615095d16c64448d3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_59e76d7a31664529e14cb1a127fc864b80c98320.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_4d814d05cfe7ae5ada959080b3258dc4839ebef5.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_c92ca684094b60b3bfc71d64b2bef08c4a36f923.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_dead1166572f8a9428b7b9a67fae29628d97316e.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\NewApp-runtime-unspecified_5e246c2e366201858e0d9d2dd6c5ed1c323cfcf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_1b6169be5e639aa79864d942d0411cdec9839fca.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_7149c07e31501d0bf9fc6fbca894182b425da0a2.jar" />
     </item>
 
 </items>
