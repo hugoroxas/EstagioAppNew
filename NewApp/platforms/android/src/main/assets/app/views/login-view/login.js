@@ -10,6 +10,9 @@ var application = require("application");
     application.cssFile = "login.css";
 var page;
 
+// Caso querem so por o navigate para o menu é só fazer CTLR + F
+// e procurarem navigate para ir mais rapido
+
 // --------------------------------------------- //
 
 exports.load = function(args) {
@@ -67,11 +70,12 @@ exports.load = function(args) {
                     case "button": fieldsArray[i] = new buttonModule.Button();
                                 fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
                                     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
-                                        if(r == "done"){
-                                        toast.makeText("Consegui camarada , yeeyye").show();
-                                    } else {
+                                        if(r == "rekt"){
                                         toast.makeText("Wasted").show();
-                                    }
+                                        } else {
+                                            toast.makeText("Seja bem-vindo " + r ).show();
+                                            // Naviga to frame blablabla ---
+                                        }
                                     }, function (e) {
                                         alert(e);
                                     });
@@ -79,6 +83,7 @@ exports.load = function(args) {
                     break;
 
                     case "textbox": fieldsArray[i] = new textFieldModule.TextField();
+                                    fieldsArray[i].secure = true;
                     break;
 
                     case "image":  fieldsArray[i] = new imageModule.Image();
@@ -180,10 +185,11 @@ exports.load = function(args) {
                 case "button": fieldsArray[i] = new buttonModule.Button();
                                fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
                                 http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
-                                    if(r == "done"){
-                                        toast.makeText("Consegui camarada , yeeyye").show();
-                                    } else {
+                                    if(r == "rekt"){
                                         toast.makeText("Wasted").show();
+                                    } else {
+                                        toast.makeText("Seja bem-vindo " + r ).show();
+                                        // Naviga to frame blablabla ---
                                     }
 
                                 }, function (e) {
@@ -193,6 +199,7 @@ exports.load = function(args) {
                 break;
 
                 case "textbox": fieldsArray[i] = new textFieldModule.TextField();
+                                fieldsArray[i].secure = true;
                 break;
 
                 case "image":  fieldsArray[i] = new imageModule.Image();
