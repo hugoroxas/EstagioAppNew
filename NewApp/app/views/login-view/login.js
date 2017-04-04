@@ -84,6 +84,7 @@ exports.load = function(args) {
 
                     case "textbox": fieldsArray[i] = new textFieldModule.TextField();
                                     fieldsArray[i].secure = true;
+                                    fieldsArray[i].length = "4";
                     break;
 
                     case "image":  fieldsArray[i] = new imageModule.Image();

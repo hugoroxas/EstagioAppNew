@@ -22,8 +22,9 @@ label {
 
 textfield {
 
-    border-width: 2;
-    height: 50px;
-    width: 60px;
+    font-size: 30px;
+    text-align: center;
+    height: 80px;
+    width: 100px;
 
 }
