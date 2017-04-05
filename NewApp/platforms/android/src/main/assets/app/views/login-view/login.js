@@ -61,31 +61,34 @@ exports.load = function(args) {
 
             }
 
+            // Leitura dos Fields do JSON
             for( i = 0 ; i < fieldsSize ; i++ ){
 
                 switch(localStorage.getItem("form_login_typeObject")[i])
                 {
-                
+                    // Verificar tipo do field para defenir properties especificas e criar o tipo
+                    // de field ( textbox , button ... ) , pois estam todos no array fieldsArray
+
                     case "label": fieldsArray[i] = new labelModule.Label();
                     break;
 
                     case "button": fieldsArray[i] = new buttonModule.Button();
-                                fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
-                                    http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
-                                        if(r == "rekt"){
-                                        toast.makeText("Wasted").show();
-                                    } else {
-                                        toast.makeText("Seja bem-vindo " + r ).show();
-                                        localStorage.setItem( "loggedUser" , r );
-                                        console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
-                                        var topmost = frameModule.topmost();
-                                        topmost.navigate("views/menu");
-                                        // navigate to frame blablabla ---
-                                    }
-                                    }, function (e) {
-                                        alert(e);
+                                    fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
+                                        http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
+                                            if(r == "rekt"){
+                                            toast.makeText("Wasted").show();
+                                        } else {
+                                            toast.makeText("Seja bem-vindo " + r ).show();
+                                            localStorage.setItem( "loggedUser" , r );
+                                            console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+                                            var topmost = frameModule.topmost();
+                                            topmost.navigate("views/menu");
+                                            // navigate to frame blablabla ---
+                                        }
+                                        }, function (e) {
+                                            alert(e);
+                                        });
                                     });
-                                });
                     break;
 
                     case "textbox": fieldsArray[i] = new textFieldModule.TextField();
@@ -126,6 +129,7 @@ exports.load = function(args) {
             newGridLayout.style.backgroundRepeat = localStorage.getItem("form_login_backgroundRepeat");
             page.content = newGridLayout;
 
+            return 0;
         }
 
     else {
@@ -276,6 +280,8 @@ exports.load = function(args) {
         localStorage.setItem( "form_login_linhaObject" , form_login_linhaObject );
         localStorage.setItem( "form_login_appVersion" , ok );
 
+        return 0;
+
 }, function (e) {
     alert(e);
 
@@ -288,6 +294,5 @@ exports.load = function(args) {
         alert(e);
 
     });
-
 
 }
