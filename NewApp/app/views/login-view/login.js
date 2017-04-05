@@ -1,4 +1,5 @@
 var http = require("http");
+var frameModule = require("ui/frame");
 var toast = require("nativescript-toast");
 var labelModule = require("ui/label");
 var buttonModule = require("ui/button");
@@ -72,10 +73,14 @@ exports.load = function(args) {
                                     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
                                         if(r == "rekt"){
                                         toast.makeText("Wasted").show();
-                                        } else {
-                                            toast.makeText("Seja bem-vindo " + r ).show();
-                                            // Naviga to frame blablabla ---
-                                        }
+                                    } else {
+                                        toast.makeText("Seja bem-vindo " + r ).show();
+                                        localStorage.setItem( "loggedUser" , r );
+                                        console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+                                        var topmost = frameModule.topmost();
+                                        topmost.navigate("views/menu");
+                                        // navigate to frame blablabla ---
+                                    }
                                     }, function (e) {
                                         alert(e);
                                     });
@@ -190,6 +195,8 @@ exports.load = function(args) {
                                         toast.makeText("Wasted").show();
                                     } else {
                                         toast.makeText("Seja bem-vindo " + r ).show();
+                                        localStorage.setItem( "loggedUser" , r );
+                                        console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
                                         // Naviga to frame blablabla ---
                                     }
 
