@@ -16,18 +16,31 @@ var page;
 
 // --------------------------------------------- //
 
-exports.load = function(args) {
-
-    // Vai confirmar a versao
-    page = args.object;
-    localStorage.removeItem("loggedUser");
+function checkVersion(){
 
     http.getString("https://luisfranciscocode.000webhostapp.com/verVersao.php?form=form_login")
     .then(function (r) {
 
-        if( localStorage.getItem( "form_login_appVersion" ) == r ){
+        if(localStorage.getItem("form_login_appVersion") >= r ){
 
-            console.log("foi buscar no localstorage");
+            localStorage.setItem("sameVersion" , true);
+
+        } else {
+
+            localStorage.setItem("sameVersion" , false);
+
+        }
+
+    }, function (e) {        
+        alert(e);
+
+    });
+
+}
+
+function loadLayout(){
+
+     console.log("foi buscar no localstorage");
 
             // Same version
 
@@ -129,12 +142,11 @@ exports.load = function(args) {
             newGridLayout.style.backgroundRepeat = localStorage.getItem("form_login_backgroundRepeat");
             page.content = newGridLayout;
 
-            return 0;
-        }
+}
 
-    else {
+function createLayout(page){
 
-        console.log("Foi buscar a newest versione");
+    console.log("Foi buscar a newest versione");
 
     // Get JSON
     http.getString("https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_login")
@@ -280,19 +292,29 @@ exports.load = function(args) {
         localStorage.setItem( "form_login_linhaObject" , form_login_linhaObject );
         localStorage.setItem( "form_login_appVersion" , ok );
 
-        return 0;
+    }, function (e) {
 
-}, function (e) {
-    alert(e);
+        alert(e)
+        
+    });
+}
 
-});
+exports.load = function(args) {
+
+    page = args.object;
+    checkVersion();
+    localStorage.removeItem("loggedUser");
+
+    if( localStorage.getItem("sameVersion") == true ){
+
+        loadLayout(page);
 
     }
 
-    }, function (e) {
-        
-        alert(e);
+    else {
 
-    });
+        createLayout(page);
+
+    }
 
 }
