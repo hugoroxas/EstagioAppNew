@@ -159,7 +159,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     //btn1.height = localStorage.getItem("elemento2ID_height"+i);
                     btn1.on(btnModule.Button.tapEvent, function(){
 
-                        
+                        page.getViewById("txt_sumario").dismissSoftInput();
                         datahoje_antes = new Date();
                         meu_year = datahoje_antes.getFullYear();
                         meu_month = datahoje_antes.getMonth()+1;
@@ -175,7 +175,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         console.log("txtfinal: " + txtfinal);
                         console.log("datafinal: " + datafinal);
 
-                        http.getString("https://luisfranciscocode.000webhostapp.com/adicionar_sumario.php?txt_sumario="+txtfinal+"&&lbl_data="+datafinal).then(function (r){
+                        http.getString("https://luisfranciscocode.000webhostapp.com/adicionar_sumario.php?lbl_data="+datafinal+"&&txt_sumario="+txtfinal).then(function (r){
                             console.log(r);
                         });
                         topmost.navigate("views/sumarios/sumarios");
@@ -186,6 +186,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     btn1.text = localStorage.getItem("elemento2ID_text"+i);
                     btn1.on(btnModule.Button.tapEvent, function(){
                         var topmost = frameModule.topmost();
+                        page.getViewById("txt_sumario").dismissSoftInput();
                         topmost.navigate("views/sumarios/sumarios");
                     });
                     stackLayout.addChild(btn1);
