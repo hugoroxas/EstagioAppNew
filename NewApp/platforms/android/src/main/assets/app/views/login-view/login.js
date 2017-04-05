@@ -20,6 +20,7 @@ exports.load = function(args) {
 
     // Vai confirmar a versao
     page = args.object;
+    localStorage.removeItem("loggedUser");
 
     http.getString("https://luisfranciscocode.000webhostapp.com/verVersao.php?form=form_login")
     .then(function (r) {
