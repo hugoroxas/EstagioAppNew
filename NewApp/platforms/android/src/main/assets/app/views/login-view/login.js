@@ -192,13 +192,15 @@ exports.load = function(args) {
                 case "button": fieldsArray[i] = new buttonModule.Button();
                                fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
                                 http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
-                                    if(r == "rekt"){
+                                        if(r == "rekt"){
                                         toast.makeText("Wasted").show();
                                     } else {
                                         toast.makeText("Seja bem-vindo " + r ).show();
                                         localStorage.setItem( "loggedUser" , r );
                                         console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
-                                        // Naviga to frame blablabla ---
+                                        var topmost = frameModule.topmost();
+                                        topmost.navigate("views/menu");
+                                        // navigate to frame blablabla ---
                                     }
 
                                 }, function (e) {
