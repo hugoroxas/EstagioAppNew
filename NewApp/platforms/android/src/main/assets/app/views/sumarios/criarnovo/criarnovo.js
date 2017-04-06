@@ -169,7 +169,8 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         page.getViewById("lbl_data").text = datahoje;
                         
 
-                        var txtfinal = page.getViewById("txt_sumario").text;
+                        var txtfinal_antes = page.getViewById("txt_sumario").text;
+                        var txtfinal = txtfinal_antes.replace(/ /g,"_");
                         var datafinal = datahoje;
 
                         console.log("txtfinal: " + txtfinal);

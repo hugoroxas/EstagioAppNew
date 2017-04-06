@@ -6,6 +6,7 @@ var listViewModule = require("ui/list-view");
 var buttonModule = require("ui/button");
 var localStorage = require("nativescript-localstorage");
 var Sqlite = require("nativescript-sqlite");
+var labelModule = require("ui/label");
 
 var topmost = frameModule.topmost();
 
@@ -169,14 +170,33 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             //conteudo = JSON.parse(r);
             //alert("TEXTO_SUMARIO: " + teste123);
             page.getViewById("lista_sumarios").items = [];
+            page.getViewById("lista_sumarios").rowHeight = 40;
+            
+            //page.getViewById("lista_sumarios").textWrap = true;
             //page.getViewById("lista_sumarios").items = [teste123[0].Fields.dia_sumario +": "+ teste123[0].Fields.texto_sumario];
             for(i=0;i<tamanho;i++){
-                page.getViewById("lista_sumarios").items.push(jsonfile2[i].Fields.dia_sumario +": "+ jsonfile2[i].Fields.texto_sumario);
+                //var lbl_meu = new labelModule.Label();
+                //lbl_meu.text = "123";
+                var txtfinal = jsonfile2[i].Fields.texto_sumario.replace(/_/g," ");
+                page.getViewById("lista_sumarios").items.push(jsonfile2[i].Fields.dia_sumario +": "+ txtfinal);
+                
+                //page.getViewById("lista_sumarios").items.push(lbl_meu);
             }
+
+            page.getViewById("lista_sumarios").on(listViewModule.ListView.itemTapEvent, function(args = listViewModule.itemEventData){
+                var tappedItemIndex = args.index;
+                console.log(tappedItemIndex);
+                var tappedItemView = args.view;
+                var lblteste = new labelModule.Label();
+                lblteste.text = "kappa";
+                //alert(lblteste);
+                var topmost = frameModule.topmost();
+                topmost.navigate("views/sumarios/ver_sumario/ver_sumario");
+            });
             //page.getViewById("lista_sumarios").items += [teste123[1].Fields.dia_sumario +": "+ teste123[1].Fields.texto_sumario];
             //console.dump(r);
             }, function (e) {
-            //// Argument (e) is Error!
+            //// Argument (e) is Error! 
             console.log(e);
             alert("Error: "+ e);
         });
