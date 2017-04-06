@@ -2,18 +2,18 @@
   "_args": [
     [
       {
-        "raw": "tns-core-modules",
+        "raw": "tns-core-modules@2.5.2",
         "scope": null,
         "escapedName": "tns-core-modules",
         "name": "tns-core-modules",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
+        "rawSpec": "2.5.2",
+        "spec": "2.5.2",
+        "type": "version"
       },
-      "C:\\Users\\Administrador\\Fds\\AGORA"
+      "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp"
     ]
   ],
-  "_from": "tns-core-modules@latest",
+  "_from": "tns-core-modules@2.5.2",
   "_id": "tns-core-modules@2.5.2",
   "_inCache": true,
   "_location": "/tns-core-modules",
@@ -29,13 +29,13 @@
   "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "tns-core-modules",
+    "raw": "tns-core-modules@2.5.2",
     "scope": null,
     "escapedName": "tns-core-modules",
     "name": "tns-core-modules",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
+    "rawSpec": "2.5.2",
+    "spec": "2.5.2",
+    "type": "version"
   },
   "_requiredBy": [
     "#USER",
@@ -44,8 +44,8 @@
   "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-2.5.2.tgz",
   "_shasum": "3240618ecc43d8cd7bcaef27afe0be24be47284b",
   "_shrinkwrap": null,
-  "_spec": "tns-core-modules",
-  "_where": "C:\\Users\\Administrador\\Fds\\AGORA",
+  "_spec": "tns-core-modules@2.5.2",
+  "_where": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp",
   "dependencies": {
     "tns-core-modules-widgets": "2.5.0"
   },
