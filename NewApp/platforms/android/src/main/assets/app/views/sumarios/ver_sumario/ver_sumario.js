@@ -125,21 +125,21 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     console.log(jsonfile[i].Fields.tap);
                     //stackLayout.addChild(btn1);
                 }else if(jsonfile[i].Fields.type == "Label"){
-                    /*
-                    var lbl_data = new labelModule.Label();
+                    
+                    var lbl_texto_sumario = new labelModule.Label();
                     localStorage.setItem("elemento3ID_type"+i, "label");
                     var lbl_id = jsonfile[i].Fields.id;
                     localStorage.setItem("elemento3ID_id"+i, lbl_id);
                     
                     
-                    if(lbl_id == "lbl_data"){
-                        lbl_data.text = datahoje;
+                    if(lbl_id == "lbl_txt_sumario"){
+                        lbl_texto_sumario.text = "meu sumario";
                         localStorage.setItem("elemento3ID_text"+i, lbl_id.text);
                         //lbl_data.id = jsonfile[i].Fields.id;
-                        stackLayout.addChild(lbl_data);
+                        stackLayout.addChild(lbl_texto_sumario);
                         //console.log("LABEL AQUI");
                     }
-                    */
+                    
                     localStorage.setItem("form_existe3", "true");
                     //topmost.navigate("views/sumarios/criarnovo/criarnovo");
                     //console.log(jsonfile[i].Fields.tap);
@@ -153,7 +153,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             alert("Error: "+ e);
         });
             }else{
-                for(i=0;i<6;i++){
+                for(i=0;i<100;i++){
                 var curr_obj = localStorage.getItem("elemento3ID_type"+i);
                 console.log("ELEMENTOID: " + curr_obj);
                 if(curr_obj == "button"){
@@ -212,7 +212,8 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     var lbl1 = new labelModule.Label();
                     lbl1.id = localStorage.getItem("elemento3ID_id"+i);
                     //lbl1.text = localStorage.getItem("elemento2ID_text"+i);
-                    lbl1.text = datahoje;
+                    lbl1.text = localStorage.getItem("to_show");
+                    lbl1.textWrap = true;
                     //txt1.items = localStorage.getItem("elemento2ID_items"+i);
                     stackLayout.addChild(lbl1);
                 }

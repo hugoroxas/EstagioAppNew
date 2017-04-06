@@ -7,6 +7,7 @@ var buttonModule = require("ui/button");
 var localStorage = require("nativescript-localstorage");
 var Sqlite = require("nativescript-sqlite");
 var labelModule = require("ui/label");
+var scrollViewModule = require("ui/scroll-view");
 
 var topmost = frameModule.topmost();
 
@@ -28,6 +29,10 @@ exports.principal = function(args) {
 
 
 //localStorage.clear();
+
+var scrollfinal = new scrollViewModule.ScrollView();
+scrollfinal.height = 600;
+scrollfinal.orientation = "vertical";
 
 if(formexists != "true"){
 
@@ -52,7 +57,23 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             for(i=0; i<tamanho; i++){
                 
                 console.log("MEU TYPE: "+ jsonfile[i].Fields.type);
-                if(jsonfile[i].Fields.type == "ListView"){
+
+                if(jsonfile[i].Fields.type == "ScrollView"){
+                    var scroll1 = new scrollViewModule.ScrollView();
+                    localStorage.setItem("elementoID_type"+i, jsonfile[i].Fields.type);
+                    localStorage.setItem("elementoID_id"+i, jsonfile[i].Fields.id);
+                    scroll1.height = 500;
+                    scroll1.id = jsonfile[i].Fields.id;
+                    //var kap = new labelModule.Label();
+                    //kap.text = "GNAHEI";
+                    console.log("GANHEI1");
+                    //scroll1.addChild(page.getViewById("lista_sumarios"));
+                    scroll1.content = page.getViewById("lista_sumarios");
+                    console.log("GANHEI2");
+                    //stackLayout.addChild(scroll1);
+                    console.log("GANHEI3");
+
+                }else if(jsonfile[i].Fields.type == "ListView"){
                     var lista1 = new listViewModule.ListView();
                     localStorage.setItem("elementoID_type"+i, "listview");
                     localStorage.setItem("elementoID_id"+i, "lista_sumarios");
@@ -66,18 +87,22 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     lista1.id = "lista_sumarios";
                     localStorage.setItem("elementoID_items"+i, lista1.items);
                     stackLayout.addChild(lista1);
+
                     
 
                 }else if(jsonfile[i].Fields.type == "Button"){
+                    //alert("asdfghjk");
                     //amount_btn = amount_btn+1;
                     var btn1 = new buttonModule.Button();
                     localStorage.setItem("elementoID_type"+i, "button");
                     var btnid = jsonfile[i].Fields.id;
                     localStorage.setItem("elementoID_id"+i, btnid);
+                    //alert("ADICIONAR SUMARIO BTN");
                     
                     if(btnid == "adicionarsumario"){
                     //localStorage.setItem("btnid", jsonfile[i].Fields.id);
                     //lista1.id = jsonfile[i].id;
+                    //alert("ADICIONAR SUMARIO BTN");
                     btn1.text = jsonfile[i].Fields.text;
                     localStorage.setItem("elementoID_text"+i, jsonfile[i].Fields.text);
                     //localStorage.setItem("btn_adicionarsumario_text", jsonfile[i].Fields.text);
@@ -128,10 +153,23 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
 
         }else{
             
-            for(i=0;i<6;i++){
+            for(i=0;i<100;i++){
                 var curr_obj = localStorage.getItem("elementoID_type"+i);
                 console.log("ELEMENTOID: " + curr_obj);
-                if(curr_obj == "button"){
+                if(curr_obj == "ScrollView"){
+                    var scroll1 = new scrollViewModule.ScrollView();
+                    scroll1.height = 500;
+                    scroll1.id = localStorage.getItem("elementoID_id"+i);
+                    var kap = new labelModule.Label();
+                    kap.text = "GNAHEI";
+                    console.log("GANHEI1");
+                    //scroll1.content = kap;
+                    //scroll1.content = page.getViewById("lista_sumarios");
+                    console.log("GANHEI2");
+                    //stackLayout.addChild(scroll1);
+                    console.log("GANHEI3");
+
+                }else if(curr_obj == "button"){
                     if(localStorage.getItem("elementoID_id"+i) == "adicionarsumario"){
                     var btn1 = new buttonModule.Button();
                     btn1.text = localStorage.getItem("elementoID_text"+i);
@@ -159,7 +197,8 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     stackLayout.addChild(lista1);
                 }
             }
-            page.content = stackLayout;
+            scrollfinal.content = stackLayout;
+            page.content = scrollfinal;
             //page.content= localStorage.getItem("pag_sumarios");
             
         }
@@ -170,29 +209,43 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             //conteudo = JSON.parse(r);
             //alert("TEXTO_SUMARIO: " + teste123);
             page.getViewById("lista_sumarios").items = [];
-            page.getViewById("lista_sumarios").rowHeight = 40;
+            page.getViewById("lista_sumarios").rowHeight = 150;
             
             //page.getViewById("lista_sumarios").textWrap = true;
             //page.getViewById("lista_sumarios").items = [teste123[0].Fields.dia_sumario +": "+ teste123[0].Fields.texto_sumario];
             for(i=0;i<tamanho;i++){
+                //alert("AQUI");
                 //var lbl_meu = new labelModule.Label();
                 //lbl_meu.text = "123";
                 var txtfinal = jsonfile2[i].Fields.texto_sumario.replace(/_/g," ");
                 page.getViewById("lista_sumarios").items.push(jsonfile2[i].Fields.dia_sumario +": "+ txtfinal);
+                //alert("AQU2");
+                
+                //alert("AQUI3");
                 
                 //page.getViewById("lista_sumarios").items.push(lbl_meu);
             }
+            
 
             page.getViewById("lista_sumarios").on(listViewModule.ListView.itemTapEvent, function(args = listViewModule.itemEventData){
                 var tappedItemIndex = args.index;
                 console.log(tappedItemIndex);
                 var tappedItemView = args.view;
-                var lblteste = new labelModule.Label();
-                lblteste.text = "kappa";
+                console.log(tappedItemView.text);
+                localStorage.setItem("to_show",tappedItemView.text);
+                //var lblteste = new labelModule.Label();
+                //lblteste.text = "qwertyui";
+
                 //alert(lblteste);
                 var topmost = frameModule.topmost();
                 topmost.navigate("views/sumarios/ver_sumario/ver_sumario");
             });
+            //alert("1");
+            //var finallayout = new layoutModule.StackLayout();
+            //finallayout.addChild(page.getViewById("lista_sumarios"));
+            scrollfinal.content = stackLayout;
+            page.content = scrollfinal;
+            //alert("2");
             //page.getViewById("lista_sumarios").items += [teste123[1].Fields.dia_sumario +": "+ teste123[1].Fields.texto_sumario];
             //console.dump(r);
             }, function (e) {

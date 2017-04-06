@@ -136,11 +136,12 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         stackLayout.addChild(lbl_data);
                         //console.log("LABEL AQUI");
                     }
-                    localStorage.setItem("form_existe2", "true");
-                    topmost.navigate("views/sumarios/criarnovo/criarnovo");
+                    
                     //console.log(jsonfile[i].Fields.tap);
                     //stackLayout.addChild(btn1);
                 }
+                localStorage.setItem("form_existe2", "true");
+                //topmost.navigate("views/sumarios/criarnovo/criarnovo");
             }
             }, function (e) {
             //// Argument (e) is Error!
@@ -148,7 +149,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             alert("Error: "+ e);
         });
             }else{
-                for(i=0;i<6;i++){
+                for(i=0;i<100;i++){
                 var curr_obj = localStorage.getItem("elemento2ID_type"+i);
                 console.log("ELEMENTOID: " + curr_obj);
                 if(curr_obj == "button"){
@@ -203,12 +204,14 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     //txt1.items = localStorage.getItem("elemento2ID_items"+i);
                     stackLayout.addChild(txt1);
                 }else if(curr_obj == "label"){
+                    if(localStorage.getItem("elemento2ID_id"+i) == "lbl_data"){
                     var lbl1 = new labelModule.Label();
                     lbl1.id = localStorage.getItem("elemento2ID_id"+i);
                     //lbl1.text = localStorage.getItem("elemento2ID_text"+i);
                     lbl1.text = datahoje;
                     //txt1.items = localStorage.getItem("elemento2ID_items"+i);
                     stackLayout.addChild(lbl1);
+                    }
                 }
                 
             }
