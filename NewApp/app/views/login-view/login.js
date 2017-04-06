@@ -81,7 +81,7 @@ function buttonTapEvent(){
     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text)
     .then(function (r) {
      
-        if(r == "rekt"){
+        if(r == "rekt"){ // Fails log in
 
             toast.makeText("PIN incorrecto , tente de novo").show();
 
