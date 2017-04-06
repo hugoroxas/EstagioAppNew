@@ -161,6 +161,7 @@ C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\asset
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar-common.js
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout.js
 =======
+<<<<<<< HEAD
 C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\app.js
 C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\nativescript-checkbox\checkbox.js
 C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\nativescript-drop-down\drop-down-common.js
@@ -350,3 +351,9 @@ C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\ap
 C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\menu-view\menu.js
 C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\presencas-view\presencas.js
 >>>>>>> refs/remotes/origin/LuisFuckingCode
+=======
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\app.js
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\menu.js
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\login-view\login.js
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
+>>>>>>> origin/master

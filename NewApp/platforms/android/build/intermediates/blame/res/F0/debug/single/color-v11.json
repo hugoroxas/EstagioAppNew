@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+=======
+        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
     }
 ]

@@ -54,7 +54,18 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
+<<<<<<< HEAD:NewApp/app/views/menu-view/menu.js
 <<<<<<< HEAD:NewApp/app/views/menu.js
+=======
+    // ORA MUITO BOA TARDE
+    // ESTOU AQUI A PERDER O MEU TEMPO 
+    // A FAZER ESTES COMENTÁRIOS
+    // MAS NÃO FAZ MAL PORQUE
+    // NÃO TENHO MAIS NADA PARA FAZER
+
+    // RECKT OKEH
+
+>>>>>>> origin/master:NewApp/platforms/android/src/main/assets/app/views/menu.js
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
 =======
 }

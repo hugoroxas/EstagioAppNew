@@ -14,7 +14,11 @@
       "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp"
 =======
       "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp"
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/LuisFuckingCode
+=======
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
+>>>>>>> origin/master
     ]
   ],
   "_from": "nativescript-localstorage@latest",
@@ -53,7 +57,11 @@
   "_where": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp",
 =======
   "_where": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp",
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/LuisFuckingCode
+=======
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
+>>>>>>> origin/master
   "author": {
     "name": "Nathanael Anderson",
     "email": "nathan@master-technology.com"
