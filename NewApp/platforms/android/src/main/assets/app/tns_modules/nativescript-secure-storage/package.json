@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-secure-storage",
+        "scope": null,
+        "escapedName": "nativescript-secure-storage",
+        "name": "nativescript-secure-storage",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrador\\EstagioAppNew\\NewApp"
+    ]
+  ],
+  "_from": "nativescript-secure-storage@latest",
+  "_id": "nativescript-secure-storage@2.1.0",
+  "_inCache": true,
+  "_location": "/nativescript-secure-storage",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-secure-storage-2.1.0.tgz_1482514966973_0.023278818232938647"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-secure-storage",
+    "scope": null,
+    "escapedName": "nativescript-secure-storage",
+    "name": "nativescript-secure-storage",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-secure-storage/-/nativescript-secure-storage-2.1.0.tgz",
+  "_shasum": "14ddade2efc5ddb35b8035aaadf956d0ad3fcf98",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-secure-storage",
+  "_where": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/nativescript-secure-storage/issues"
+  },
+  "dependencies": {},
+  "description": "Secure Storage NativeScript plugin",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^2.3.0",
+    "tns-platform-declarations": "^2.3.0",
+    "typescript": "^2.0.7"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "14ddade2efc5ddb35b8035aaadf956d0ad3fcf98",
+    "tarball": "https://registry.npmjs.org/nativescript-secure-storage/-/nativescript-secure-storage-2.1.0.tgz"
+  },
+  "gitHead": "7bd3a9f2c7c10649c94f560914cbcf1b2c76bd20",
+  "homepage": "https://github.com/EddyVerbruggen/nativescript-secure-storage",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "iOS",
+    "KeyChain",
+    "KeyStore",
+    "Secure Storage",
+    "Storage",
+    "SharedPreferences",
+    "Facebook conceal"
+  ],
+  "license": "MIT",
+  "main": "secure-storage",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "nativescript-secure-storage",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/nativescript-secure-storage.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "demo.ios.device": "npm run preparedemo && cd demo && tns run ios",
+    "postclone": "npm i && node scripts/postclone.js",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-secure-storage && tns plugin add .. && tns install",
+    "setup": "npm i && cd demo && npm i && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
+    "test.android": "cd demo && tns test android",
+    "test.ios": "cd demo && tns test ios --emulator",
+    "test.ios.device": "cd demo && tns test ios"
+  },
+  "typings": "index.d.ts",
+  "version": "2.1.0"
+}

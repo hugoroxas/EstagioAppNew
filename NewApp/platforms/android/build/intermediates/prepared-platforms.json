@@ -3,6 +3,10 @@
     "nativescript-drop-down": true,
     "nativescript-localstorage": true,
     "nativescript-radiobutton": true,
+<<<<<<< HEAD
+=======
+    "nativescript-secure-storage": true,
+>>>>>>> refs/remotes/origin/LuisFuckingCode
     "nativescript-sqlite": true,
     "nativescript-toast": true,
     "tns-core-modules": true,
