@@ -18,7 +18,10 @@ function checkVersion(){
     http.getString("https://luisfranciscocode.000webhostapp.com/verVersao.php?form=form_login")
     .then(function (r) {
 
-        if(localStorage.getItem("form_login_appVersion") >= r ){
+        var appVersion = parseInt(r);
+        var oldVersion = parseInt(localStorage.getItem("form_login_appVersion"));
+
+        if( oldVersion >= appVersion ){
 
             localStorage.setItem("sameVersion" , true);
 
@@ -29,7 +32,7 @@ function checkVersion(){
         }
 
     }, function (e) {        
-        alert(e);
+        toast.makeText("Sem acesso a internet").show();
 
     });
 
@@ -80,7 +83,7 @@ function buttonTapEvent(){
      
         if(r == "rekt"){
 
-            toast.makeText("Dados incorrectos , tente de novo").show();
+            toast.makeText("PIN incorrecto , tente de novo").show();
 
         } else {
 
@@ -95,7 +98,7 @@ function buttonTapEvent(){
 
     }, function (e) {
                                     
-        alert(e);
+        toast.makeText("Sem acesso a internet").show();
 
     });
 
@@ -108,7 +111,6 @@ function loadLayout(){
      console.log("foi buscar no localstorage");
 
      // Same version
-
 
      var fieldsSize = localStorage.getItem("form_login_typeObject").length;
      var fieldsArray = new Array();
