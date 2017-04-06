@@ -1,8 +1,5 @@
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
-var frameModule = require("ui/frame");
-
-var topmost = frameModule.topmost();
 
 var page;
 
@@ -13,8 +10,7 @@ exports.principal = function(args) {
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
-        var topmost = frameModule.topmost();
-        topmost.navigate("views/sumarios/sumarios");
+        alert("BUTTON 1");
     })
 
     var btn2 = new btnModule.Button();
@@ -47,5 +43,8 @@ exports.principal = function(args) {
     stackLayout.addChild(btn4);
     stackLayout.addChild(btn5);
     page.content = stackLayout;
+
+
+    // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
 
 }
