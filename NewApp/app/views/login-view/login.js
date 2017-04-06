@@ -14,7 +14,7 @@ var page;
 // ------------------------------------------------------------------------------------------ //
 
 function checkVersion(){
-
+// hole
     http.getString("https://luisfranciscocode.000webhostapp.com/verVersao.php?form=form_login")
     .then(function (r) {
 
