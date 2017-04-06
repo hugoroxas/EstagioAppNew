@@ -11,7 +11,10 @@ var application = require("application");
     application.cssFile = "login.css";
 var page;
 
-// ------------------------------------------------------------------------------------------ //
+// Caso querem so por o navigate para o menu é só fazer CTLR + F
+// e procurarem navigate para ir mais rapido
+
+// --------------------------------------------- //
 
 function checkVersion(){
 
@@ -35,153 +38,111 @@ function checkVersion(){
 
 }
 
-// ------------------------------------------------------------------------------------------ //
-
-function createColumns(newGridLayout , arrayColumn){
-
-    for ( i = 0 ; i < 3 ; i++ )
-    {
-        if(i == 1){
-
-            arrayColumn[i] = new layout.ItemSpec(300, layout.GridUnitType.pixel);
-
-        } else {
-
-            arrayColumn[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
-
-        }
-
-        newGridLayout.addColumn(arrayColumn[i]);
-
-    }
-
-}
-
-// ------------------------------------------------------------------------------------------ //
-
-function createRows(newGridLayout , arrayRow){
-
-    for ( i = 0 ; i < 3 ; i++ )
-    {
-
-        arrayRow[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
-        newGridLayout.addRow(arrayRow[i]);
-
-    }
-
-}
-
-// ------------------------------------------------------------------------------------------ //
-
-function buttonTapEvent(){
-
-    http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text)
-    .then(function (r) {
-     
-        if(r == "rekt"){
-
-            toast.makeText("Wasted").show();
-
-        } else {
-
-            toast.makeText("Seja bem-vindo " + r ).show();
-            localStorage.setItem( "loggedUser" , r );
-            console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
-            var topmost = frameModule.topmost();
-            topmost.navigate("views/menu");
-            // navigate to frame blablabla ---
-
-        }
-
-    }, function (e) {
-                                    
-        alert(e);
-
-    });
-
-}
-
-// ------------------------------------------------------------------------------------------ //
-
 function loadLayout(){
 
      console.log("foi buscar no localstorage");
 
-     // Same version
+            // Same version
 
-     var fieldsSize = localStorage.getItem("form_login_typeObject").length;
-     var fieldsArray = new Array();
-     var newGridLayout = new layout.GridLayout();
+            var fieldsSize = localStorage.getItem("form_login_typeObject").length;
+            var fieldsArray = new Array();
+            var newGridLayout = new layout.GridLayout();
 
-     var arrayColumn = Array(fieldsSize);
-     var arrayRow = Array(fieldsSize);
-    
-     // Create Columns && Create rows
+            var arrayColumn = Array(fieldsSize);
+            var arrayRow = Array(fieldsSize);
 
-     createColumns(newGridLayout , arrayColumn );
-     createRows(newGridLayout , arrayRow);
+            // Create Columns ( a primeira e a ultima sao autosize ,
+            // a do meio ( "1" ) é a que tem um tamanho especifico "pixel" )
 
-     // Leitura dos Fields do JSON
-     for( i = 0 ; i < fieldsSize ; i++ ){
-
-          switch(localStorage.getItem("form_login_typeObject")[i])
-          {
-              // Verificar tipo do field para defenir properties especificas e criar o tipo
-              // de field ( textbox , button ... ) , pois estam todos no array fieldsArray
-
-              case "label": fieldsArray[i] = new labelModule.Label();
-              break;
-
-              case "button": fieldsArray[i] = new buttonModule.Button();
-                             fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
-                             
-                                buttonTapEvent();
-
-                             });
-
-                break;
-
-                case "textbox": fieldsArray[i] = new textFieldModule.TextField();
-                                fieldsArray[i].secure = true;
-                                fieldsArray[i].hint = "Inserir Pin";
-                break;
-
-                case "image":  fieldsArray[i] = new imageModule.Image();
-                            fieldsArray[i].src = "~/views/login-view/Imagens/estagio.png";
-                break;
-
-                default:
-                break;
+            for ( i = 0 ; i < 3 ; i++ )
+            {
+                if(i == 1){
+                arrayColumn[i] = new layout.ItemSpec(300, layout.GridUnitType.pixel);
+            } else {
+                    arrayColumn[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
+                }
+                newGridLayout.addColumn(arrayColumn[i]);
 
             }
 
-            // Add all properties to the fields , propriedades em comum
+            // Create rows
+            for ( i = 0 ; i < 3 ; i++ )
+            {
 
-            fieldsArray[i].text = localStorage.getItem("form_login_textObject")[i];
-            fieldsArray[i].id = localStorage.getItem("form_login_idObject")[i];
-            fieldsArray[i].value = localStorage.getItem("form_login_valueObject")[i]
-            fieldsArray[i].list = localStorage.getItem("form_login_listObject")[i];
-            // fieldsArray[i].height = myJSON[i].Fields.height;
-            // fieldsArray[i].width = myJSON[i].Fields.width;
+                arrayRow[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
+                newGridLayout.addRow(arrayRow[i]);
+
+            }
+
+            // Leitura dos Fields do JSON
+            for( i = 0 ; i < fieldsSize ; i++ ){
+
+                switch(localStorage.getItem("form_login_typeObject")[i])
+                {
+                    // Verificar tipo do field para defenir properties especificas e criar o tipo
+                    // de field ( textbox , button ... ) , pois estam todos no array fieldsArray
+
+                    case "label": fieldsArray[i] = new labelModule.Label();
+                    break;
+
+                    case "button": fieldsArray[i] = new buttonModule.Button();
+                                    fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
+                                        http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
+                                            if(r == "rekt"){
+                                            toast.makeText("Wasted").show();
+                                        } else {
+                                            toast.makeText("Seja bem-vindo " + r ).show();
+                                            localStorage.setItem( "loggedUser" , r );
+                                            console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+                                            var topmost = frameModule.topmost();
+                                            topmost.navigate("views/menu");
+                                            // navigate to frame blablabla ---
+                                        }
+                                        }, function (e) {
+                                            alert(e);
+                                        });
+                                    });
+                    break;
+
+                    case "textbox": fieldsArray[i] = new textFieldModule.TextField();
+                                    fieldsArray[i].secure = true;
+                                    fieldsArray[i].hint = "Inserir Pin";
+                    break;
+
+                    case "image":  fieldsArray[i] = new imageModule.Image();
+                                fieldsArray[i].src = "~/views/login-view/Imagens/estagio.png";
+                    break;
+
+                    default:
+                    break;
+
+                }
+
+                // Add all properties to the fields , propriedades em comum
+
+                fieldsArray[i].text = localStorage.getItem("form_login_textObject")[i];
+                fieldsArray[i].id = localStorage.getItem("form_login_idObject")[i];
+                fieldsArray[i].value = localStorage.getItem("form_login_valueObject")[i]
+                fieldsArray[i].list = localStorage.getItem("form_login_listObject")[i];
+                // fieldsArray[i].height = myJSON[i].Fields.height;
+                // fieldsArray[i].width = myJSON[i].Fields.width;
 
 
-            // GridLayout stuff ( add , define location )
-            layout.GridLayout.setColumn(fieldsArray[i], parseInt(localStorage.getItem("form_login_colunaObject")[i]) );
-            layout.GridLayout.setRow(fieldsArray[i], parseInt(localStorage.getItem("form_login_linhaObject")[i]) );
-            newGridLayout.addChild(fieldsArray[i]);
-        }
+                // GridLayout stuff ( add , define location )
+                layout.GridLayout.setColumn(fieldsArray[i], parseInt(localStorage.getItem("form_login_colunaObject")[i]) );
+                layout.GridLayout.setRow(fieldsArray[i], parseInt(localStorage.getItem("form_login_linhaObject")[i]) );
+                newGridLayout.addChild(fieldsArray[i]);
+            }
 
-        i++;
-        
-        // Propriedades da layout
-        newGridLayout.backgroundImage = localStorage.getItem("form_login_backgroundImage");
-        newGridLayout.style.backgroundSize = localStorage.getItem("form_login_backgroundSize");
-        newGridLayout.style.backgroundRepeat = localStorage.getItem("form_login_backgroundRepeat");
-        page.content = newGridLayout;
+            i++;
+            
+            // Propriedades da layout
+            newGridLayout.backgroundImage = localStorage.getItem("form_login_backgroundImage");
+            newGridLayout.style.backgroundSize = localStorage.getItem("form_login_backgroundSize");
+            newGridLayout.style.backgroundRepeat = localStorage.getItem("form_login_backgroundRepeat");
+            page.content = newGridLayout;
 
 }
-
-// ------------------------------------------------------------------------------------------ //
 
 function createLayout(page){
 
@@ -208,29 +169,59 @@ function createLayout(page){
         var arrayColumn = Array(fieldsSize);
         var arrayRow = Array(fieldsSize);
 
-        // Create Columns && Create rows
+        // Create Columns ( a primeira e a ultima sao autosize ,
+        // a do meio ( "1" ) é a que tem um tamanho especifico "pixel" )
 
-        createColumns(newGridLayout , arrayColumn );
-        createRows(newGridLayout , arrayRow);
+        for ( i = 0 ; i < 3 ; i++ )
+        {
+            if(i == 1){
+            arrayColumn[i] = new layout.ItemSpec(300, layout.GridUnitType.pixel);
+        } else {
+                arrayColumn[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
+            }
+            newGridLayout.addColumn(arrayColumn[i]);
 
-        // Leitura dos Fields do JSON
+        }
 
-        for ( i = 0 ; i < fieldsSize - 1 ; i++ )
+        // Create rows
+         for ( i = 0 ; i < 3 ; i++ )
         {
 
-            // Verificar tipo do field 
-        
+            arrayRow[i] = new layout.ItemSpec(1, layout.GridUnitType.star);
+            newGridLayout.addRow(arrayRow[i]);
+
+        }
+
+        // Leitura dos Fields do JSON
+        for ( i = 0 ; i < fieldsSize - 1 ; i++ )
+        {
+            console.log(myJSON[i].Fields.type);
+
+            // Verificar tipo do field para defenir properties especificas e criar o tipo
+            // de field ( textbox , button ... ) , pois estam todos no array fieldsArray
             switch(myJSON[i].Fields.type)
             {
-            
+                
                 case "label": fieldsArray[i] = new labelModule.Label();
                 break;
 
                 case "button": fieldsArray[i] = new buttonModule.Button();
                                fieldsArray[i].on(buttonModule.Button.tapEvent , function(){
-                                   
-                                   buttonTapEvent();
+                                http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text).then(function (r) {
+                                        if(r == "rekt"){
+                                        toast.makeText("Wasted").show();
+                                    } else {
+                                        toast.makeText("Seja bem-vindo " + r ).show();
+                                        localStorage.setItem( "loggedUser" , r );
+                                        console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+                                        var topmost = frameModule.topmost();
+                                        topmost.navigate("views/menu");
+                                        // navigate to frame blablabla ---
+                                    }
 
+                                }, function (e) {
+                                    alert(e);
+                                });
                                });
                 break;
 
@@ -307,8 +298,6 @@ function createLayout(page){
         
     });
 }
-
-// ------------------------------------------------------------------------------------------ //
 
 exports.load = function(args) {
 
