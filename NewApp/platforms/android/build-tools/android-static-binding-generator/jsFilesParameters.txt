@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\absolute-layout\absolute-layout-common.js
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\text-base\text-base.js
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\converters.js
@@ -159,3 +160,8 @@ C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\asset
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\location\location-common.js
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar-common.js
 C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout.js
+=======
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\app.js
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\menu.js
+C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\login-view\login.js
+>>>>>>> refs/remotes/origin/Branch-do-Azeite

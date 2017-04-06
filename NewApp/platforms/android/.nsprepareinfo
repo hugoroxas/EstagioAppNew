@@ -1,11 +1,13 @@
 {
-<<<<<<< HEAD
 	"time": "Thu Apr 06 2017 16:48:36 GMT+0100 (Hora de Verão de GMT)",
-=======
 	"time": "Thu Apr 06 2017 16:02:26 GMT+0100 (Hora de Verão de GMT)",
->>>>>>> refs/remotes/origin/Ferrero
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Tue Apr 04 2017 09:29:30 GMT+0100 (Hora de Verão de GMT)"
+	"time": "Thu Apr 06 2017 10:52:26 GMT+0100 (Hora de Verão de GMT)",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"changesRequireBuildTime": "Fri Mar 31 2017 14:55:12 GMT+0100 (Hora de Verão de GMT)"
 }

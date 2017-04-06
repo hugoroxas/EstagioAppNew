@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-v21\\values-v21.xml",
+=======
+        "outputFile": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 94
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -31,7 +39,11 @@
                     "endOffset": 311
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -51,7 +63,11 @@
                     "endOffset": 402
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +86,11 @@
                     "endOffset": 505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +109,11 @@
                     "endOffset": 608
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +132,11 @@
                     "endOffset": 713
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +155,11 @@
                     "endOffset": 820
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +178,11 @@
                     "endOffset": 929
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +201,11 @@
                     "endOffset": 1038
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +224,11 @@
                     "endOffset": 1147
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +247,11 @@
                     "endOffset": 1256
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +270,11 @@
                     "endOffset": 1365
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +293,11 @@
                     "endOffset": 1472
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +316,11 @@
                     "endOffset": 1575
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +339,11 @@
                     "endOffset": 1694
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -299,7 +363,11 @@
                     "endOffset": 1849
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -320,7 +388,11 @@
                     "endOffset": 2004
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +412,11 @@
                     "endOffset": 2109
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -359,7 +435,11 @@
                     "endOffset": 2230
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -378,7 +458,11 @@
                     "endOffset": 2331
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -398,7 +482,11 @@
                     "endOffset": 2478
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -419,7 +507,11 @@
                     "endOffset": 2619
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -439,7 +531,11 @@
                     "endOffset": 2722
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -458,7 +554,11 @@
                     "endOffset": 2841
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -477,7 +577,11 @@
                     "endOffset": 2948
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -496,7 +600,11 @@
                     "endOffset": 3051
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -516,7 +624,11 @@
                     "endOffset": 3206
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -537,7 +649,11 @@
                     "endOffset": 3377
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -558,7 +674,11 @@
                     "endOffset": 3526
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -579,7 +699,11 @@
                     "endOffset": 3691
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +724,11 @@
                     "endOffset": 3848
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -621,7 +749,11 @@
                     "endOffset": 3999
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -641,7 +773,11 @@
                     "endOffset": 4118
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -661,7 +797,11 @@
                     "endOffset": 4267
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -682,7 +822,11 @@
                     "endOffset": 4416
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -702,7 +846,11 @@
                     "endOffset": 4528
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -721,7 +869,11 @@
                     "endOffset": 4675
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -741,7 +893,11 @@
                     "endOffset": 4828
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -762,7 +918,11 @@
                     "endOffset": 4975
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -782,7 +942,11 @@
                     "endOffset": 5050
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -801,7 +965,11 @@
                     "endOffset": 5139
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -820,7 +988,11 @@
                     "endOffset": 5226
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -839,7 +1011,11 @@
                     "endOffset": 5327
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -859,7 +1035,11 @@
                     "endOffset": 8395
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -880,7 +1060,11 @@
                     "endOffset": 8581
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -901,7 +1085,11 @@
                     "endOffset": 11661
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -922,7 +1110,11 @@
                     "endOffset": 11859
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -943,7 +1135,11 @@
                     "endOffset": 11982
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -964,7 +1160,11 @@
                     "endOffset": 12105
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -985,7 +1185,11 @@
                     "endOffset": 12218
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1006,7 +1210,11 @@
                     "endOffset": 12401
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1027,7 +1235,11 @@
                     "endOffset": 12532
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1048,7 +1260,11 @@
                     "endOffset": 12733
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1068,7 +1284,11 @@
                     "endOffset": 12822
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1087,7 +1307,11 @@
                     "endOffset": 12933
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1106,7 +1330,11 @@
                     "endOffset": 13060
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1125,7 +1353,11 @@
                     "endOffset": 13161
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1144,7 +1376,11 @@
                     "endOffset": 13256
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1163,7 +1399,11 @@
                     "endOffset": 13379
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1182,7 +1422,11 @@
                     "endOffset": 13508
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1201,7 +1445,11 @@
                     "endOffset": 13625
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1221,7 +1469,11 @@
                     "endOffset": 13802
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1241,7 +1493,11 @@
                     "endOffset": 13901
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1261,7 +1517,11 @@
                     "endOffset": 14036
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1282,7 +1542,11 @@
                     "endOffset": 14179
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1303,7 +1567,11 @@
                     "endOffset": 14314
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1324,7 +1592,11 @@
                     "endOffset": 14433
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1345,7 +1617,11 @@
                     "endOffset": 14634
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1366,7 +1642,11 @@
                     "endOffset": 14753
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1386,7 +1666,11 @@
                     "endOffset": 14846
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1405,7 +1689,11 @@
                     "endOffset": 14957
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1424,7 +1712,11 @@
                     "endOffset": 15013
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1444,7 +1736,11 @@
                     "endOffset": 15120
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1465,7 +1761,11 @@
                     "endOffset": 15315
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1486,7 +1786,11 @@
                     "endOffset": 15426
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1507,7 +1811,11 @@
                     "endOffset": 15559
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1527,7 +1835,11 @@
                     "endOffset": 15654
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1546,7 +1858,11 @@
                     "endOffset": 15745
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1565,7 +1881,11 @@
                     "endOffset": 15836
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1584,7 +1904,11 @@
                     "endOffset": 15953
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1604,7 +1928,11 @@
                     "endOffset": 16092
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1625,7 +1953,11 @@
                     "endOffset": 16237
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1646,7 +1978,11 @@
                     "endOffset": 16750
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1667,7 +2003,11 @@
                     "endOffset": 17275
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1688,7 +2028,11 @@
                     "endOffset": 17955
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1708,7 +2052,11 @@
                     "endOffset": 18012
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -1727,7 +2075,11 @@
                     "endOffset": 18070
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1747,7 +2099,11 @@
                     "endOffset": 18229
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1768,7 +2124,11 @@
                     "endOffset": 18388
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

@@ -10,7 +10,11 @@
         "spec": "latest",
         "type": "tag"
       },
+<<<<<<< HEAD
       "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp"
+=======
+      "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp"
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
     ]
   ],
   "_from": "nativescript-localstorage@latest",
@@ -45,7 +49,11 @@
   "_shasum": "a2300f966fc69e3bd8ada58a5ba50d7aa327f862",
   "_shrinkwrap": null,
   "_spec": "nativescript-localstorage",
+<<<<<<< HEAD
   "_where": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp",
+=======
+  "_where": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp",
+>>>>>>> refs/remotes/origin/Branch-do-Azeite
   "author": {
     "name": "Nathanael Anderson",
     "email": "nathan@master-technology.com"
