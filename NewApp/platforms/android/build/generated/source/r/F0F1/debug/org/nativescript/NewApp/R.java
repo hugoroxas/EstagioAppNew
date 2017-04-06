@@ -35,7 +35,6 @@ public final class R {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int actionBarDivider=0x7f010046;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -45,7 +44,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarPopupTheme=0x7f010040;
-=======
         public static final int actionBarDivider=0x7f010040;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -55,7 +53,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarPopupTheme=0x7f01003a;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -73,7 +70,6 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int actionBarSize=0x7f010045;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -119,7 +115,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionMenuTextAppearance=0x7f010048;
-=======
         public static final int actionBarSize=0x7f01003f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -165,13 +160,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionMenuTextAppearance=0x7f010042;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int actionMenuTextColor=0x7f010049;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -233,7 +226,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionOverflowMenuStyle=0x7f01003f;
-=======
         public static final int actionMenuTextColor=0x7f010043;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -295,7 +287,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionOverflowMenuStyle=0x7f010039;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -303,11 +294,8 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int actionProviderClass=0x7f0100da;
-=======
         public static final int actionProviderClass=0x7f0100ca;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -315,7 +303,6 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int actionViewClass=0x7f0100d9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -325,7 +312,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogButtonGroupStyle=0x7f01008d;
-=======
         public static final int actionViewClass=0x7f0100c9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -335,7 +321,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogButtonGroupStyle=0x7f010085;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -343,7 +328,6 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int alertDialogCenterButtons=0x7f01008e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -353,7 +337,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogTheme=0x7f01008f;
-=======
         public static final int alertDialogCenterButtons=0x7f010086;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -363,7 +346,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogTheme=0x7f010087;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -371,7 +353,6 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int allowStacking=0x7f0100a5;
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
@@ -381,9 +362,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int alpha=0x7f0100b7;
-=======
         public static final int allowStacking=0x7f01009b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -393,11 +372,8 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int arrowHeadLength=0x7f0100c9;
-=======
         public static final int arrowHeadLength=0x7f0100ba;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -407,19 +383,16 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int arrowShaftLength=0x7f0100ca;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int autoCompleteTextViewStyle=0x7f010094;
-=======
         public static final int arrowShaftLength=0x7f0100bb;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int autoCompleteTextViewStyle=0x7f01008c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -444,11 +417,8 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int backgroundTint=0x7f010138;
-=======
         public static final int backgroundTint=0x7f010120;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -462,11 +432,8 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int backgroundTintMode=0x7f010139;
-=======
         public static final int backgroundTintMode=0x7f010121;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -476,7 +443,6 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int barLength=0x7f0100cb;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -486,9 +452,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int behavior_autoHide=0x7f0100d2;
-=======
         public static final int barLength=0x7f0100bc;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -496,11 +460,8 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int behavior_hideable=0x7f0100a3;
-=======
         public static final int behavior_hideable=0x7f01009a;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -510,13 +471,12 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int behavior_overlapTop=0x7f0100ec;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 =======
         public static final int behavior_overlapTop=0x7f0100df;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
 <p>This may also be a reference to a resource (in the form
@@ -533,7 +493,6 @@ containing a value of this type.
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int behavior_peekHeight=0x7f0100a2;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -543,9 +502,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int behavior_skipCollapsed=0x7f0100a4;
-=======
         public static final int behavior_peekHeight=0x7f010099;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -555,7 +512,6 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int borderWidth=0x7f0100d0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -600,7 +556,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
          */
         public static final int buttonGravity=0x7f01012d;
-=======
         public static final int borderWidth=0x7f0100c1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -634,7 +589,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarStyle=0x7f01005b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -642,19 +596,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int buttonStyle=0x7f010095;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonStyleSmall=0x7f010096;
-=======
         public static final int buttonStyle=0x7f01008d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonStyleSmall=0x7f01008e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -663,11 +614,8 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int buttonTint=0x7f0100b8;
-=======
         public static final int buttonTint=0x7f0100ab;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -681,7 +629,6 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int buttonTintMode=0x7f0100b9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -695,7 +642,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int closeIcon=0x7f0100f1;
-=======
         public static final int buttonTintMode=0x7f0100ac;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -709,7 +655,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int closeIcon=0x7f0100e4;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -721,19 +666,16 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int collapseContentDescription=0x7f01012f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int collapseIcon=0x7f01012e;
-=======
         public static final int collapseContentDescription=0x7f010117;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int collapseIcon=0x7f010116;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -752,7 +694,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
         public static final int collapsedTitleGravity=0x7f0100b2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -767,13 +708,12 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int color=0x7f0100c5;
-=======
         public static final int collapsedTitleGravity=0x7f0100a8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int collapsedTitleTextAppearance=0x7f0100a4;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -782,11 +722,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorAccent=0x7f010084;
 =======
         public static final int color=0x7f0100b6;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -795,11 +735,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorBackgroundFloating=0x7f01008b;
 =======
         public static final int colorAccent=0x7f01007d;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -808,11 +748,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorButtonNormal=0x7f010088;
 =======
         public static final int colorButtonNormal=0x7f010081;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -821,11 +761,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorControlActivated=0x7f010086;
 =======
         public static final int colorControlActivated=0x7f01007f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -834,11 +774,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorControlHighlight=0x7f010087;
 =======
         public static final int colorControlHighlight=0x7f010080;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -847,11 +787,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorControlNormal=0x7f010085;
 =======
         public static final int colorControlNormal=0x7f01007e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -860,11 +800,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorPrimary=0x7f010082;
 =======
         public static final int colorPrimary=0x7f01007b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -873,11 +813,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorPrimaryDark=0x7f010083;
 =======
         public static final int colorPrimaryDark=0x7f01007c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -886,7 +826,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int colorSwitchThumbNormal=0x7f010089;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -898,7 +838,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int commitIcon=0x7f0100e9;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -918,7 +858,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int contentInsetEndWithActions=0x7f01001b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
@@ -932,7 +872,7 @@ containing a value of this type.
         public static final int contentInsetLeft=0x7f010018;
 =======
         public static final int contentInsetLeft=0x7f01001a;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -952,7 +892,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int contentInsetStart=0x7f010016;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
@@ -966,7 +906,7 @@ containing a value of this type.
         public static final int contentInsetStartWithNavigation=0x7f01001a;
 =======
         public static final int contentInsetStart=0x7f010018;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -975,7 +915,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int contentScrim=0x7f0100ad;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -987,7 +927,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int controlBackground=0x7f010083;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -995,11 +935,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int counterEnabled=0x7f01011a;
 =======
         public static final int counterEnabled=0x7f010109;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1007,7 +947,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int counterMaxLength=0x7f01011b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1027,7 +967,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int counterTextAppearance=0x7f01010b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1039,11 +979,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int defaultQueryHint=0x7f0100f0;
 =======
         public static final int defaultQueryHint=0x7f0100e3;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1053,7 +993,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int dialogPreferredPadding=0x7f01005b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1065,7 +1005,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dialogTheme=0x7f010053;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1089,11 +1029,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int dividerHorizontal=0x7f010068;
 =======
         public static final int dividerHorizontal=0x7f010061;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1103,7 +1043,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int dividerPadding=0x7f0100d6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1115,7 +1055,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dividerVertical=0x7f010060;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1125,11 +1065,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int drawableSize=0x7f0100c7;
 =======
         public static final int drawableSize=0x7f0100b8;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1137,11 +1077,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int dropDownListViewStyle=0x7f01007a;
 =======
         public static final int dropDownListViewStyle=0x7f010073;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1151,7 +1091,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int dropdownListPreferredItemHeight=0x7f01005e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1163,13 +1103,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int editTextBackground=0x7f010068;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int editTextColor=0x7f01006e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1181,7 +1121,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int editTextStyle=0x7f010091;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1199,7 +1139,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int errorEnabled=0x7f010118;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1211,7 +1151,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int errorTextAppearance=0x7f010108;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1223,11 +1163,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expanded=0x7f010027;
 =======
         public static final int expanded=0x7f010026;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1246,11 +1186,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleGravity=0x7f0100b3;
 =======
         public static final int expandedTitleGravity=0x7f0100a9;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1260,11 +1200,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleMargin=0x7f0100a6;
 =======
         public static final int expandedTitleMargin=0x7f01009e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1274,11 +1214,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleMarginBottom=0x7f0100aa;
 =======
         public static final int expandedTitleMarginBottom=0x7f0100a2;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1288,11 +1228,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleMarginEnd=0x7f0100a9;
 =======
         public static final int expandedTitleMarginEnd=0x7f0100a1;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1302,11 +1242,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleMarginStart=0x7f0100a7;
 =======
         public static final int expandedTitleMarginStart=0x7f01009f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1316,7 +1256,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int expandedTitleMarginTop=0x7f0100a8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1328,7 +1268,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int expandedTitleTextAppearance=0x7f0100a3;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1340,7 +1280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int fabSize=0x7f0100ce;
 =======
         public static final int fabSize=0x7f0100bf;
@@ -1353,7 +1293,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int fillColor=0x7f010001;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1361,7 +1301,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int foregroundInsidePadding=0x7f0100d3;
 =======
         public static final int fillViewport=0x7f0100d7;
@@ -1373,7 +1313,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int foregroundInsidePadding=0x7f0100c3;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1383,7 +1323,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int gapBetweenBars=0x7f0100c8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1403,7 +1343,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int headerLayout=0x7f0100d1;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1429,11 +1369,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int hintAnimationEnabled=0x7f01011e;
 =======
         public static final int hintAnimationEnabled=0x7f01010d;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1441,7 +1381,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int hintEnabled=0x7f010117;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1461,7 +1401,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int homeAsUpIndicator=0x7f010059;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1477,7 +1417,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int iconifiedByDefault=0x7f0100ee;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1489,7 +1429,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int imageButtonStyle=0x7f010069;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1507,11 +1447,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int insetForeground=0x7f0100eb;
 =======
         public static final int insetForeground=0x7f0100de;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1523,11 +1463,11 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int itemBackground=0x7f0100e0;
 =======
         public static final int itemBackground=0x7f0100cf;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -1536,11 +1476,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int itemIconTint=0x7f0100de;
 =======
         public static final int itemIconTint=0x7f0100cd;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1554,11 +1494,11 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int itemTextAppearance=0x7f0100e1;
 =======
         public static final int itemTextAppearance=0x7f0100d0;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -1567,7 +1507,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int itemTextColor=0x7f0100df;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1587,7 +1527,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int layout=0x7f0100e0;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1595,7 +1535,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layoutManager=0x7f0100e7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1607,7 +1547,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int layout_anchor=0x7f0100b0;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1630,11 +1570,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_anchorGravity=0x7f0100bf;
 =======
         public static final int layout_anchorGravity=0x7f0100b2;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1642,11 +1582,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_behavior=0x7f0100bc;
 =======
         public static final int layout_behavior=0x7f0100af;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1658,11 +1598,11 @@ containing a value of this type.
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_collapseMode=0x7f0100b5;
 =======
         public static final int layout_collapseMode=0x7f01009c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1670,7 +1610,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_collapseParallaxMultiplier=0x7f0100b6;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
@@ -1707,7 +1647,7 @@ containing a value of this type.
         public static final int layout_insetEdge=0x7f0100c0;
 =======
         public static final int layout_collapseParallaxMultiplier=0x7f01009d;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1715,11 +1655,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_keyline=0x7f0100be;
 =======
         public static final int layout_keyline=0x7f0100b1;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1733,7 +1673,7 @@ containing a value of this type.
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int layout_scrollFlags=0x7f01002a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1789,7 +1729,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listPopupWindowStyle=0x7f010074;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1799,11 +1739,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int listPreferredItemHeight=0x7f010075;
 =======
         public static final int listPreferredItemHeight=0x7f01006e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1813,11 +1753,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int listPreferredItemHeightLarge=0x7f010077;
 =======
         public static final int listPreferredItemHeightLarge=0x7f010070;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1827,11 +1767,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int listPreferredItemHeightSmall=0x7f010076;
 =======
         public static final int listPreferredItemHeightSmall=0x7f01006f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1841,11 +1781,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int listPreferredItemPaddingLeft=0x7f010078;
 =======
         public static final int listPreferredItemPaddingLeft=0x7f010071;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1855,11 +1795,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int listPreferredItemPaddingRight=0x7f010079;
 =======
         public static final int listPreferredItemPaddingRight=0x7f010072;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1871,11 +1811,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int logoDescription=0x7f010132;
 =======
         public static final int logoDescription=0x7f01011a;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1885,11 +1825,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int maxActionInlineWidth=0x7f0100fa;
 =======
         public static final int maxActionInlineWidth=0x7f0100ed;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1899,11 +1839,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int maxButtonHeight=0x7f01012c;
 =======
         public static final int maxButtonHeight=0x7f010115;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1911,7 +1851,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int measureWithLargestChild=0x7f0100d4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1923,7 +1863,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int menu=0x7f0100cc;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1935,7 +1875,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int navigationContentDescription=0x7f010131;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -1947,7 +1887,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int navigationIcon=0x7f010118;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1967,7 +1907,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int overlapAnchor=0x7f0100e3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
@@ -1981,7 +1921,7 @@ containing a value of this type.
         public static final int paddingBottomNoButtons=0x7f0100e5;
 =======
         public static final int overlapAnchor=0x7f0100d5;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1991,11 +1931,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int paddingEnd=0x7f010136;
 =======
         public static final int paddingEnd=0x7f01011e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2005,7 +1945,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int paddingStart=0x7f010135;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
@@ -2064,7 +2004,7 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int pointerMargin=0x7f0100d3;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2074,7 +2014,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int panelMenuListWidth=0x7f01007f;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
@@ -2129,7 +2069,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int popupMenuStyle=0x7f010065;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2137,11 +2077,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int popupWindowStyle=0x7f01006d;
 =======
         public static final int popupWindowStyle=0x7f010066;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2149,11 +2089,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int preserveIconSpacing=0x7f0100db;
 =======
         public static final int preserveIconSpacing=0x7f0100cb;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2163,11 +2103,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int pressedTranslationZ=0x7f0100cf;
 =======
         public static final int pressedTranslationZ=0x7f0100c0;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2185,11 +2125,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int queryBackground=0x7f0100f8;
 =======
         public static final int queryBackground=0x7f0100eb;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2197,7 +2137,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int queryHint=0x7f0100ef;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2237,7 +2177,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int ratingBarStyleSmall=0x7f010095;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2245,11 +2185,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int reverseLayout=0x7f0100e9;
 =======
         public static final int reverseLayout=0x7f0100dc;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2258,7 +2198,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int rippleColor=0x7f0100cd;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
@@ -2339,7 +2279,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int selectableItemBackgroundBorderless=0x7f01005e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2353,11 +2293,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int showAsAction=0x7f0100d7;
 =======
         public static final int showAsAction=0x7f0100c7;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2370,11 +2310,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int showDividers=0x7f0100d5;
 =======
         public static final int showDividers=0x7f0100c5;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2382,7 +2322,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int showText=0x7f010105;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -2394,7 +2334,7 @@ containing a value of this type.
         public static final int showTitle=0x7f010026;
 =======
         public static final int showText=0x7f0100f4;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2406,11 +2346,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int spanCount=0x7f0100e8;
 =======
         public static final int spanCount=0x7f0100db;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2418,7 +2358,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int spinBars=0x7f0100c6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2438,7 +2378,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int spinnerStyle=0x7f010097;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2446,7 +2386,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int splitTrack=0x7f010104;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2458,7 +2398,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int srcCompat=0x7f010029;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2466,11 +2406,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int stackFromEnd=0x7f0100ea;
 =======
         public static final int stackFromEnd=0x7f0100dd;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2478,7 +2418,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int state_above_anchor=0x7f0100e4;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -2506,7 +2446,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int statusBarBackground=0x7f0100ae;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2515,7 +2455,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int statusBarScrim=0x7f0100ae;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2540,7 +2480,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int submitBackground=0x7f0100ec;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2552,11 +2492,11 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int subtitleTextAppearance=0x7f010125;
 =======
         public static final int subtitleTextAppearance=0x7f01010f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2565,11 +2505,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int subtitleTextColor=0x7f010134;
 =======
         public static final int subtitleTextColor=0x7f01011c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2577,11 +2517,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int suggestionRowLayout=0x7f0100f7;
 =======
         public static final int suggestionRowLayout=0x7f0100ea;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2591,11 +2531,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int switchMinWidth=0x7f010102;
 =======
         public static final int switchMinWidth=0x7f0100f1;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2605,7 +2545,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int switchPadding=0x7f010103;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2633,7 +2573,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int tabBackground=0x7f0100f8;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2643,11 +2583,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabContentStart=0x7f010108;
 =======
         public static final int tabContentStart=0x7f0100f7;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2658,11 +2598,11 @@ containing a value of this type.
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabGravity=0x7f01010b;
 =======
         public static final int tabGravity=0x7f0100fa;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2671,11 +2611,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabIndicatorColor=0x7f010106;
 =======
         public static final int tabIndicatorColor=0x7f0100f5;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2685,11 +2625,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabIndicatorHeight=0x7f010107;
 =======
         public static final int tabIndicatorHeight=0x7f0100f6;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2699,11 +2639,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabMaxWidth=0x7f01010d;
 =======
         public static final int tabMaxWidth=0x7f0100fc;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2713,11 +2653,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabMinWidth=0x7f01010c;
 =======
         public static final int tabMinWidth=0x7f0100fb;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2728,11 +2668,11 @@ containing a value of this type.
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabMode=0x7f01010a;
 =======
         public static final int tabMode=0x7f0100f9;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2742,11 +2682,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabPadding=0x7f010115;
 =======
         public static final int tabPadding=0x7f010104;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2756,11 +2696,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabPaddingBottom=0x7f010114;
 =======
         public static final int tabPaddingBottom=0x7f010103;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2770,11 +2710,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabPaddingEnd=0x7f010113;
 =======
         public static final int tabPaddingEnd=0x7f010102;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2784,11 +2724,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabPaddingStart=0x7f010111;
 =======
         public static final int tabPaddingStart=0x7f010100;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2798,11 +2738,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabPaddingTop=0x7f010112;
 =======
         public static final int tabPaddingTop=0x7f010101;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2811,7 +2751,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabSelectedTextColor=0x7f010110;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2823,7 +2763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int tabTextAppearance=0x7f0100fd;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2832,16 +2772,16 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int tabTextColor=0x7f01010f;
 =======
         public static final int tabTextColor=0x7f0100fe;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int textAllCaps=0x7f010030;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2897,17 +2837,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceSmallPopupMenu=0x7f010052;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int textColorAlertDialogListItem=0x7f010090;
 =======
         public static final int textColorAlertDialogListItem=0x7f010088;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2916,17 +2856,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int textColorError=0x7f0100c4;
 =======
         public static final int textColorError=0x7f0100b5;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int textColorSearchUrl=0x7f010073;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -2938,7 +2878,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int theme=0x7f01011f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2948,11 +2888,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int thickness=0x7f0100cc;
 =======
         public static final int thickness=0x7f0100bd;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2962,7 +2902,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int thumbTextPadding=0x7f010100;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
@@ -3018,7 +2958,7 @@ containing a value of this type.
         public static final int tickMarkTintMode=0x7f01002f;
 =======
         public static final int thumbTextPadding=0x7f0100ef;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3034,11 +2974,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleEnabled=0x7f0100b4;
 =======
         public static final int titleEnabled=0x7f0100aa;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3048,11 +2988,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleMargin=0x7f010126;
 =======
         public static final int titleMarginBottom=0x7f010114;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3062,11 +3002,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleMarginBottom=0x7f01012a;
 =======
         public static final int titleMarginEnd=0x7f010112;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3076,11 +3016,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleMarginEnd=0x7f010128;
 =======
         public static final int titleMarginStart=0x7f010111;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3090,11 +3030,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleMarginStart=0x7f010127;
 =======
         public static final int titleMarginTop=0x7f010113;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3104,7 +3044,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleMarginTop=0x7f010129;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
@@ -3126,7 +3066,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int titleTextAppearance=0x7f01010e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -3135,11 +3075,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int titleTextColor=0x7f010133;
 =======
         public static final int titleTextColor=0x7f01011b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -3147,7 +3087,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int toolbarId=0x7f0100af;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -3199,7 +3139,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int track=0x7f0100ee;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3207,7 +3147,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int useCompatPadding=0x7f0100d1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -3219,7 +3159,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int voiceIcon=0x7f0100e8;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3227,11 +3167,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowActionBar=0x7f010031;
 =======
         public static final int windowActionBar=0x7f01002b;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3239,11 +3179,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowActionBarOverlay=0x7f010033;
 =======
         public static final int windowActionBarOverlay=0x7f01002d;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3251,11 +3191,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowActionModeOverlay=0x7f010034;
 =======
         public static final int windowActionModeOverlay=0x7f01002e;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3268,11 +3208,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowFixedHeightMajor=0x7f010038;
 =======
         public static final int windowFixedHeightMajor=0x7f010032;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3285,11 +3225,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowFixedHeightMinor=0x7f010036;
 =======
         public static final int windowFixedHeightMinor=0x7f010030;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3302,11 +3242,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowFixedWidthMajor=0x7f010035;
 =======
         public static final int windowFixedWidthMajor=0x7f01002f;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3319,11 +3259,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowFixedWidthMinor=0x7f010037;
 =======
         public static final int windowFixedWidthMinor=0x7f010031;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3336,11 +3276,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowMinWidthMajor=0x7f010039;
 =======
         public static final int windowMinWidthMajor=0x7f010033;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -3353,11 +3293,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowMinWidthMinor=0x7f01003a;
 =======
         public static final int windowMinWidthMinor=0x7f010034;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -3365,11 +3305,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int windowNoTitle=0x7f010032;
 =======
         public static final int windowNoTitle=0x7f01002c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class bool {
         public static final int abc_action_bar_embed_tabs=0x7f090000;
@@ -3379,7 +3319,7 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090004;
     }
     public static final class color {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int abc_background_cache_hint_selector_material_dark=0x7f0b004b;
         public static final int abc_background_cache_hint_selector_material_light=0x7f0b004c;
         public static final int abc_btn_colored_borderless_text_material=0x7f0b004d;
@@ -3576,7 +3516,7 @@ containing a value of this type.
         public static final int switch_thumb_normal_material_light=0x7f0a0050;
         public static final int transparent=0x7f0a0051;
         public static final int white=0x7f0a0052;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material=0x7f07000c;
@@ -3653,7 +3593,7 @@ containing a value of this type.
         public static final int abc_text_size_subtitle_material_toolbar=0x7f070003;
         public static final int abc_text_size_title_material=0x7f070055;
         public static final int abc_text_size_title_material_toolbar=0x7f070004;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int design_appbar_elevation=0x7f070056;
         public static final int design_bottom_navigation_active_item_max_width=0x7f070057;
         public static final int design_bottom_navigation_active_text_size=0x7f070058;
@@ -3762,7 +3702,7 @@ containing a value of this type.
         public static final int notification_large_icon_height=0x7f07006a;
         public static final int notification_large_icon_width=0x7f07006b;
         public static final int notification_subtext_size=0x7f07006c;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -3827,7 +3767,7 @@ containing a value of this type.
         public static final int abc_scrubber_primary_mtrl_alpha=0x7f02003b;
         public static final int abc_scrubber_track_mtrl_alpha=0x7f02003c;
         public static final int abc_seekbar_thumb_material=0x7f02003d;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int abc_seekbar_tick_mark_material=0x7f02003e;
         public static final int abc_seekbar_track_material=0x7f02003f;
         public static final int abc_spinner_mtrl_am_alpha=0x7f020040;
@@ -4228,7 +4168,7 @@ containing a value of this type.
         public static final int view_offset_helper=0x7f0b000a;
         public static final int withText=0x7f0b0037;
         public static final int wrap_content=0x7f0b001a;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0a0001;
@@ -4253,7 +4193,7 @@ containing a value of this type.
         public static final int abc_activity_chooser_view_list_item=0x7f030008;
         public static final int abc_alert_dialog_button_bar_material=0x7f030009;
         public static final int abc_alert_dialog_material=0x7f03000a;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int abc_alert_dialog_title_material=0x7f03000b;
         public static final int abc_dialog_title_material=0x7f03000c;
         public static final int abc_expanded_menu_layout=0x7f03000d;
@@ -4437,7 +4377,7 @@ containing a value of this type.
         public static final int title_activity_kimera=0x7f05001b;
         public static final int trial_message=0x7f05001c;
         public static final int trial_message_caption=0x7f05001d;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0800a5;
@@ -4596,7 +4536,7 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_SeekBar_Discrete=0x7f0800d4;
         public static final int Base_Widget_AppCompat_Spinner=0x7f080084;
         public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f080004;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f080085;
         public static final int Base_Widget_AppCompat_Toolbar=0x7f0800d5;
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080086;
@@ -4810,7 +4750,7 @@ containing a value of this type.
         public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0800f9;
         public static final int Theme_AppCompat=0x7f0800fa;
         public static final int Theme_AppCompat_CompactMenu=0x7f0800fb;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         public static final int Theme_AppCompat_DayNight=0x7f080005;
         public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f080006;
         public static final int Theme_AppCompat_DayNight_Dialog=0x7f080007;
@@ -4818,7 +4758,7 @@ containing a value of this type.
         public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f080009;
         public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f08000a;
         public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f08000b;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int Theme_AppCompat_Dialog=0x7f080119;
         public static final int Theme_AppCompat_Dialog_Alert=0x7f08011a;
         public static final int Theme_AppCompat_Dialog_MinWidth=0x7f08011b;
@@ -5033,7 +4973,7 @@ containing a value of this type.
         public static final int Widget_Design_Snackbar=0x7f080160;
         public static final int Widget_Design_TabLayout=0x7f080001;
         public static final int Widget_Design_TextInputLayout=0x7f080161;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -5103,7 +5043,7 @@ containing a value of this type.
            @see #ActionBar_titleTextStyle
          */
         public static final int[] ActionBar = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f010001, 0x7f010003, 0x7f010004, 0x7f010005,
             0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009,
             0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
@@ -5120,7 +5060,7 @@ containing a value of this type.
             0x7f010014, 0x7f010015, 0x7f010016, 0x7f010017,
             0x7f010018, 0x7f010019, 0x7f01001a, 0x7f01001b,
             0x7f01001c, 0x7f01001d, 0x7f010059
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#background}
@@ -5572,13 +5512,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ActionMode_titleTextStyle
          */
         public static final int[] ActionMode = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f010001, 0x7f010007, 0x7f010008, 0x7f01000c,
             0x7f01000e, 0x7f01001e
 =======
             0x7f010002, 0x7f010009, 0x7f01000a, 0x7f01000e,
             0x7f010010, 0x7f01001e
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#background}
@@ -5711,11 +5651,11 @@ containing a value of this type.
          */
         public static final int[] AlertDialog = {
             0x010100f2, 0x7f010021, 0x7f010022, 0x7f010023,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f010024, 0x7f010025, 0x7f010026
 =======
             0x7f010024, 0x7f010025
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout}
@@ -5802,11 +5742,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #AppBarLayout_expanded
          */
         public static final int[] AppBarLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x010100d4, 0x7f01001c, 0x7f010027
 =======
             0x010100d4, 0x7f01001c, 0x7f010026
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}
@@ -5856,7 +5796,7 @@ containing a value of this type.
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int[] AppBarLayoutStates = {
             0x7f010028, 0x7f010029
         };
@@ -5905,7 +5845,7 @@ containing a value of this type.
 =======
         public static final int[] AppBarLayout_LayoutParams = {
             0x7f010027, 0x7f010028
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#layout_scrollFlags}
@@ -5950,11 +5890,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #AppCompatImageView_srcCompat
          */
         public static final int[] AppCompatImageView = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010119, 0x7f01002c
 =======
             0x01010119, 0x7f010029
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#src}
@@ -6124,11 +6064,11 @@ containing a value of this type.
            @see #AppCompatTextView_textAllCaps
          */
         public static final int[] AppCompatTextView = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010034, 0x7f010030
 =======
             0x01010034, 0x7f01002a
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
@@ -6386,7 +6326,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #AppCompatTheme_windowNoTitle
          */
         public static final int[] AppCompatTheme = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010057, 0x010100ae, 0x7f010031, 0x7f010032,
             0x7f010033, 0x7f010034, 0x7f010035, 0x7f010036,
             0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a,
@@ -6445,7 +6385,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01008d, 0x7f01008e, 0x7f01008f, 0x7f010090,
             0x7f010091, 0x7f010092, 0x7f010093, 0x7f010094,
             0x7f010095, 0x7f010096, 0x7f010097, 0x7f010098
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#actionBarDivider}
@@ -7790,7 +7730,7 @@ containing a value of this type.
            <tr><td><code>{@link #BottomNavigationView_itemTextColor org.nativescript.NewApp:itemTextColor}</code></td><td></td></tr>
            <tr><td><code>{@link #BottomNavigationView_menu org.nativescript.NewApp:menu}</code></td><td></td></tr>
            </table>
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
            @see #BottomNavigationView_itemIconTint
@@ -7806,7 +7746,7 @@ containing a value of this type.
          */
         public static final int[] BottomSheetBehavior_Params = {
             0x7f010099, 0x7f01009a
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#elevation}
@@ -7888,13 +7828,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
            @see #BottomSheetBehavior_Layout_behavior_skipCollapsed
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int[] BottomSheetBehavior_Layout = {
             0x7f0100a2, 0x7f0100a3, 0x7f0100a4
 =======
         public static final int[] ButtonBarLayout = {
             0x7f01009b
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#behavior_hideable}
@@ -7909,7 +7849,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name org.nativescript.NewApp:behavior_hideable
         */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
 =======
         public static final int ButtonBarLayout_allowStacking = 0;
@@ -7928,7 +7868,7 @@ containing a value of this type.
         public static final int[] CollapsingAppBarLayout_LayoutParams = {
             0x7f01009c, 0x7f01009d
         };
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
@@ -8035,7 +7975,7 @@ containing a value of this type.
            @see #CollapsingToolbarLayout_toolbarId
          */
         public static final int[] CollapsingToolbarLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f010003, 0x7f0100a6, 0x7f0100a7, 0x7f0100a8,
             0x7f0100a9, 0x7f0100aa, 0x7f0100ab, 0x7f0100ac,
             0x7f0100ad, 0x7f0100ae, 0x7f0100af, 0x7f0100b0,
@@ -8045,7 +7985,7 @@ containing a value of this type.
             0x7f0100a1, 0x7f0100a2, 0x7f0100a3, 0x7f0100a4,
             0x7f0100a5, 0x7f0100a6, 0x7f0100a7, 0x7f0100a8,
             0x7f0100a9, 0x7f0100aa
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#collapsedTitleGravity}
@@ -8400,11 +8340,11 @@ containing a value of this type.
            @see #CompoundButton_buttonTintMode
          */
         public static final int[] CompoundButton = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010107, 0x7f0100b8, 0x7f0100b9
 =======
             0x01010107, 0x7f0100ab, 0x7f0100ac
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#button}
@@ -8460,11 +8400,11 @@ containing a value of this type.
            @see #CoordinatorLayout_statusBarBackground
          */
         public static final int[] CoordinatorLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100ba, 0x7f0100bb
 =======
             0x7f0100ad, 0x7f0100ae
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#keylines}
@@ -8500,7 +8440,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge org.nativescript.NewApp:layout_insetEdge}</code></td><td></td></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline org.nativescript.NewApp:layout_keyline}</code></td><td></td></tr>
            </table>
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
            @see #CoordinatorLayout_Layout_layout_anchorGravity
@@ -8522,7 +8462,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int[] CoordinatorLayout_LayoutParams = {
             0x010100b3, 0x7f0100af, 0x7f0100b0, 0x7f0100b1,
             0x7f0100b2
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
@@ -8657,11 +8597,11 @@ containing a value of this type.
            @see #DesignTheme_textColorError
          */
         public static final int[] DesignTheme = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100c2, 0x7f0100c3, 0x7f0100c4
 =======
             0x7f0100b3, 0x7f0100b4, 0x7f0100b5
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#bottomSheetDialogTheme}
@@ -8723,13 +8663,13 @@ containing a value of this type.
            @see #DrawerArrowToggle_thickness
          */
         public static final int[] DrawerArrowToggle = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100c5, 0x7f0100c6, 0x7f0100c7, 0x7f0100c8,
             0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc
 =======
             0x7f0100b6, 0x7f0100b7, 0x7f0100b8, 0x7f0100b9,
             0x7f0100ba, 0x7f0100bb, 0x7f0100bc, 0x7f0100bd
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#arrowHeadLength}
@@ -8881,13 +8821,13 @@ containing a value of this type.
            @see #FloatingActionButton_useCompatPadding
          */
         public static final int[] FloatingActionButton = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f01001c, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf,
             0x7f0100d0, 0x7f0100d1, 0x7f010138, 0x7f010139
 =======
             0x7f01001c, 0x7f0100be, 0x7f0100bf, 0x7f0100c0,
             0x7f0100c1, 0x7f0100c2, 0x7f010120, 0x7f010121
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#backgroundTint}
@@ -9061,11 +9001,11 @@ containing a value of this type.
            @see #ForegroundLinearLayout_foregroundInsidePadding
          */
         public static final int[] ForegroundLinearLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010109, 0x01010200, 0x7f0100d3
 =======
             0x01010109, 0x01010200, 0x7f0100c3
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#foreground}
@@ -9121,13 +9061,13 @@ containing a value of this type.
          */
         public static final int[] LinearLayoutCompat = {
             0x010100af, 0x010100c4, 0x01010126, 0x01010127,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010128, 0x7f01000b, 0x7f0100d4, 0x7f0100d5,
             0x7f0100d6
 =======
             0x01010128, 0x7f01000d, 0x7f0100c4, 0x7f0100c5,
             0x7f0100c6
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
@@ -9394,13 +9334,13 @@ containing a value of this type.
             0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
             0x01010194, 0x010101de, 0x010101df, 0x010101e1,
             0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x0101026f, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9,
             0x7f0100da
 =======
             0x0101026f, 0x7f0100c7, 0x7f0100c8, 0x7f0100c9,
             0x7f0100ca
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#actionLayout}
@@ -9566,12 +9506,12 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x0101012f, 0x01010130, 0x01010131, 0x7f0100db,
             0x7f0100dc
 =======
             0x0101012f, 0x01010130, 0x01010131, 0x7f0100cb
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
@@ -9669,13 +9609,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
          */
         public static final int[] NavigationView = {
             0x010100d4, 0x010100dd, 0x0101011f, 0x7f01001c,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100dd, 0x7f0100de, 0x7f0100df, 0x7f0100e0,
             0x7f0100e1, 0x7f0100e2
 =======
             0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf,
             0x7f0100d0, 0x7f0100d1
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}
@@ -9860,11 +9800,11 @@ containing a value of this type.
            @see #PopupWindow_overlapAnchor
          */
         public static final int[] PopupWindow = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010176, 0x010102c9, 0x7f0100e3
 =======
             0x01010176, 0x7f0100d5
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupAnimationStyle}
@@ -9903,11 +9843,11 @@ containing a value of this type.
            @see #PopupWindowBackgroundState_state_above_anchor
          */
         public static final int[] PopupWindowBackgroundState = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100e4
 =======
             0x7f0100d6
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#state_above_anchor}
@@ -9923,17 +9863,17 @@ containing a value of this type.
           @attr name org.nativescript.NewApp:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         /** Attributes that can be used with a RecycleListView.
 =======
         /** Attributes that can be used with a RadScrollView.
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
            <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons org.nativescript.NewApp:paddingBottomNoButtons}</code></td><td></td></tr>
            <tr><td><code>{@link #RecycleListView_paddingTopNoTitle org.nativescript.NewApp:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
@@ -9967,13 +9907,13 @@ in (inches), mm (millimeters).
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
           @attr name org.nativescript.NewApp:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
@@ -10037,7 +9977,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name org.nativescript.NewApp:radScrollViewStyle
         */
         public static final int RadScrollViewTheme_radScrollViewStyle = 0;
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         /** Attributes that can be used with a RecyclerView.
            <p>Includes the following attributes:</p>
            <table>
@@ -10059,13 +9999,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #RecyclerView_stackFromEnd
          */
         public static final int[] RecyclerView = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x010100c4, 0x010100f1, 0x7f0100e7, 0x7f0100e8,
             0x7f0100e9, 0x7f0100ea
 =======
             0x010100c4, 0x7f0100da, 0x7f0100db, 0x7f0100dc,
             0x7f0100dd
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#descendantFocusability}
@@ -10146,11 +10086,11 @@ containing a value of this type.
            @see #ScrimInsetsFrameLayout_insetForeground
          */
         public static final int[] ScrimInsetsFrameLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100eb
 =======
             0x7f0100de
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#insetForeground}
@@ -10174,13 +10114,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
         public static final int[] ScrollingViewBehavior_Layout = {
             0x7f0100ec
 =======
         public static final int[] ScrollingViewBehavior_Params = {
             0x7f0100df
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#behavior_overlapTop}
@@ -10242,7 +10182,7 @@ containing a value of this type.
          */
         public static final int[] SearchView = {
             0x010100da, 0x0101011f, 0x01010220, 0x01010264,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0,
             0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4,
             0x7f0100f5, 0x7f0100f6, 0x7f0100f7, 0x7f0100f8,
@@ -10252,7 +10192,7 @@ containing a value of this type.
             0x7f0100e4, 0x7f0100e5, 0x7f0100e6, 0x7f0100e7,
             0x7f0100e8, 0x7f0100e9, 0x7f0100ea, 0x7f0100eb,
             0x7f0100ec
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -10435,11 +10375,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SnackbarLayout_maxActionInlineWidth
          */
         public static final int[] SnackbarLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x0101011f, 0x7f01001c, 0x7f0100fa
 =======
             0x0101011f, 0x7f01001c, 0x7f0100ed
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
@@ -10572,7 +10512,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SwitchCompat_trackTintMode
          */
         public static final int[] SwitchCompat = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010124, 0x01010125, 0x01010142, 0x7f0100fb,
             0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff,
             0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103,
@@ -10581,7 +10521,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x01010124, 0x01010125, 0x01010142, 0x7f0100ee,
             0x7f0100ef, 0x7f0100f0, 0x7f0100f1, 0x7f0100f2,
             0x7f0100f3, 0x7f0100f4
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOff}
@@ -10845,7 +10785,7 @@ containing a value of this type.
            @see #TabLayout_tabTextColor
          */
         public static final int[] TabLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109,
             0x7f01010a, 0x7f01010b, 0x7f01010c, 0x7f01010d,
             0x7f01010e, 0x7f01010f, 0x7f010110, 0x7f010111,
@@ -10855,7 +10795,7 @@ containing a value of this type.
             0x7f0100f9, 0x7f0100fa, 0x7f0100fb, 0x7f0100fc,
             0x7f0100fd, 0x7f0100fe, 0x7f0100ff, 0x7f010100,
             0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link org.nativescript.NewApp.R.attr#tabBackground}
@@ -11130,13 +11070,13 @@ containing a value of this type.
          */
         public static final int[] TextAppearance = {
             0x01010095, 0x01010096, 0x01010097, 0x01010098,
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x0101009a, 0x01010161, 0x01010162, 0x01010163,
             0x01010164, 0x7f010030
 =======
             0x01010161, 0x01010162, 0x01010163, 0x01010164,
             0x7f01002a
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
@@ -11244,7 +11184,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #TextInputLayout_passwordToggleTintMode
          */
         public static final int[] TextInputLayout = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x0101009a, 0x01010150, 0x7f010116, 0x7f010117,
             0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b,
             0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01011f,
@@ -11253,7 +11193,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x0101009a, 0x01010150, 0x7f010105, 0x7f010106,
             0x7f010107, 0x7f010108, 0x7f010109, 0x7f01010a,
             0x7f01010b, 0x7f01010c, 0x7f01010d
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#hint}
@@ -11517,7 +11457,7 @@ containing a value of this type.
            @see #Toolbar_titleTextColor
          */
         public static final int[] Toolbar = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
             0x7f01000a, 0x7f010016, 0x7f010017, 0x7f010018,
             0x7f010019, 0x7f01001a, 0x7f01001b, 0x7f01001d,
@@ -11534,7 +11474,7 @@ containing a value of this type.
             0x7f010114, 0x7f010115, 0x7f010116, 0x7f010117,
             0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b,
             0x7f01011c
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -11952,13 +11892,13 @@ containing a value of this type.
            @see #View_theme
          */
         public static final int[] View = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x01010000, 0x010100da, 0x7f010135, 0x7f010136,
             0x7f010137
 =======
             0x01010000, 0x010100da, 0x7f01011d, 0x7f01011e,
             0x7f01011f
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -12029,11 +11969,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ViewBackgroundHelper_backgroundTintMode
          */
         public static final int[] ViewBackgroundHelper = {
-<<<<<<< HEAD:NewApp/platforms/android/build/generated/source/r/F0/debug/org/nativescript/NewApp/R.java
+ 
             0x010100d4, 0x7f010138, 0x7f010139
 =======
             0x010100d4, 0x7f010120, 0x7f010121
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd:NewApp/platforms/android/build/generated/source/r/F0F1/debug/org/nativescript/NewApp/R.java
+ 
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}

@@ -48,7 +48,7 @@ android.support.annotation.Dimension
 java.text.AttributedCharacterIterator
 java.text.CharacterIterator
 java.nio.channels.ByteChannel
-=======
+ 
 com.google.gson.annotations.Expose
 com.google.gson.annotations.JsonAdapter
 com.google.gson.annotations.SerializedName
@@ -973,7 +973,7 @@ android.support.v7.widget.FitWindowsViewGroup.OnFitSystemWindowsListener
 android.support.v7.widget.ActivityChooserModel.ActivityChooserModelClient
 android.support.v7.widget.ActionBarOverlayLayout.ActionBarVisibilityCallback
 android.support.v7.widget.PopupMenu.OnMenuItemClickListener
-=======
+ 
 org.apache.http.conn.scheme.SocketFactory
 org.apache.http.conn.scheme.LayeredSocketFactory
 org.apache.http.conn.scheme.HostNameResolver
@@ -1241,7 +1241,7 @@ android.support.transition.Transition.TransitionListener
 android.support.transition.TransitionInterface
 android.support.transition.TransitionInterfaceListener
 android.support.transition.TransitionPort.TransitionListener
-=======
+ 
 android.support.v4.media.MediaBrowserServiceCompatApi23.ItemCallback
 android.support.v4.media.MediaBrowserServiceCompatApi23.ServiceImplApi23
 android.support.v4.media.MediaBrowserCompatApi23.ItemCallback

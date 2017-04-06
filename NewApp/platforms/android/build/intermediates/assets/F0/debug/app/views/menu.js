@@ -4,7 +4,7 @@ var layoutModule = require("ui/layouts/stack-layout");
 var frameModule = require("ui/frame");
 
 var topmost = frameModule.topmost();
-=======
+ 
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
 
 var page;
@@ -19,7 +19,7 @@ exports.principal = function(args) {
 <<<<<<< HEAD
         var topmost = frameModule.topmost();
         topmost.navigate("views/sumarios/sumarios");
-=======
+ 
         alert("BUTTON 1");
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
     })
@@ -56,7 +56,7 @@ exports.principal = function(args) {
     page.content = stackLayout;
 
 <<<<<<< HEAD
-=======
+ 
     // ORA MUITO BOA TARDE
     // ESTOU AQUI A PERDER O MEU TEMPO 
     // A FAZER ESTES COMENTÁRIOS

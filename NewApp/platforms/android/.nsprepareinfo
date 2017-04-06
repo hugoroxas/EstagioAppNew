@@ -5,11 +5,11 @@
 	"release": false,
 	"changesRequireBuild": true,
 	"changesRequireBuildTime": "Thu Apr 06 2017 17:38:44 GMT+0100 (Hora de Verão de GMT)"
-=======
+ 
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-=======
+ 
 >>>>>>> origin/master
 	"time": "Thu Apr 06 2017 16:48:36 GMT+0100 (Hora de Verão de GMT)",
 	"time": "Thu Apr 06 2017 16:02:26 GMT+0100 (Hora de Verão de GMT)",
@@ -18,14 +18,14 @@
 	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Tue Apr 04 2017 09:29:30 GMT+0100 (Hora de Verão de GMT)"
 <<<<<<< HEAD
-=======
+ 
 	"time": "Thu Apr 06 2017 16:49:23 GMT+0100 (Hora de Verão de GMT)",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Wed Apr 05 2017 10:10:37 GMT+0100 (Hora de Verão de GMT)"
 >>>>>>> refs/remotes/origin/LuisFuckingCode
-=======
+ 
 	"time": "Thu Apr 06 2017 10:52:26 GMT+0100 (Hora de Verão de GMT)",
 	"bundle": false,
 	"release": false,

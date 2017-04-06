@@ -2,10 +2,10 @@
     {
 <<<<<<< HEAD
         "outputFile": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-land\\values-land.xml",
-=======
+ 
 <<<<<<< HEAD
         "outputFile": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-land\\values-land.xml",
-=======
+ 
         "outputFile": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
 >>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
@@ -98,14 +98,14 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "endColumn": 61,
                     "endOffset": 112
                 },
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -128,7 +128,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -151,7 +151,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -174,7 +174,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -197,7 +197,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -220,7 +220,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
                     "position": {
@@ -244,7 +244,7 @@
                 "from": {
 <<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\values-land\\values-land.xml",
-=======
+ 
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\values-land\\values-land.xml",
 >>>>>>> refs/remotes/origin/Branch-do-Azeite
 >>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
