@@ -11,7 +11,7 @@ var storage = require("nativescript-localstorage");
 var Observable = require("data/observable").Observable;
 
 var urlJson = "https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_lista_presencas";
-var verifica;
+var verifica = 1;
 var guardarPicancos = [];
 var timePicker = new timePickerModule.TimePicker();
 
@@ -26,12 +26,12 @@ exports.presenca = function(args) {
     var date = new Date();
     var d = date.getDay();
 
-    if (d != storage.getItem("verificaDia")) {
-        storage.removeItem("picancoGuarda");
-        storage.setItem("verificaDia", d);
+    if (d != storage.getItem("form_presenca_verificaDia")) {
+        storage.removeItem("form_presenca_picancoGuarda");
+        storage.setItem("form_presenca_verificaDia", d);
     }
     else {
-        guardarPicancos = storage.getItem("picancoGuarda");
+        guardarPicancos = storage.getItem("form_presenca_picancoGuarda");
     }
     page = args.object;
     page.bindingContext = picar;   
@@ -41,8 +41,9 @@ exports.presenca = function(args) {
     console.info(laibel.text);
     console.info(picar.mensagem);
  
-    storage.setItem("verify", 1);  
-    verifica = storage.getItem("verify");
+    // storage.setItem("form_presenca_verify", 1);  
+    verifica = storage.getItem("form_presenca_verify");
+    console.info(verifica);
     
     if (verifica == 1) {
         requestJson();
@@ -65,8 +66,8 @@ requestJson = function() {
         var sizeFields = Object.keys(r).length;
         var dataFields = r;
 
-        storage.setItem("numObjects", sizeFields);
-        storage.setItem("dataJson", dataFields );
+        storage.setItem("form_presenca_numObjects", sizeFields);
+        storage.setItem("form_presenca_dataJson", dataFields );
 
         console.info(sizeFields);
         console.info(JSON.stringify(dataFields));
@@ -92,14 +93,14 @@ drawFormStorage = function() {
         stackLayout.addChild(gridLayout);
     }    
 
-    var num = storage.getItem("numObjects");
+    var num = storage.getItem("form_presenca_numObjects");
     for(i = 0; i < num; i++) {
         const cont = i;
-        switch (storage.getItem("typeObject" + cont)) {
+        switch (storage.getItem("form_presenca_typeObject" + cont)) {
             case "button":
                 arrayButton[cont] = new buttonModule.Button(num); 
-                arrayButton[cont].text = storage.getItem("textObject" + cont);
-                arrayButton[cont].tap = storage.getItem("btnTap" + cont);         
+                arrayButton[cont].text = storage.getItem("form_presenca_textObject" + cont);
+                arrayButton[cont].tap = storage.getItem("form_presenca_btnTap" + cont);         
                 saveFunction[cont] = arrayButton[cont].tap;
                 arrayButton[cont].on(buttonModule.Button.tapEvent, function() {
                     escolher(saveFunction[cont]);
@@ -110,7 +111,6 @@ drawFormStorage = function() {
                          glayout.GridLayout.setColumn(arrayButton[cont], x);
                      }
                      else {
-                         console.info("Linha 1");
                          glayout.GridLayout.setRow(arrayButton[cont], 1);
                          glayout.GridLayout.setColumn(arrayButton[cont], y);
                          y += 1;    
@@ -153,14 +153,14 @@ drawFormJson = function(size, data) {
     for (i = 0; i < size; i++) {
         switch (data[i].Fields.type) {
             case "button":
-                storage.setItem("btnTap" + i, data[i].Fields.tap);                
+                storage.setItem("form_presenca_btnTap" + i, data[i].Fields.tap);                
                 break; 
         }
 
-        storage.setItem("idObject" + i, data[i].Fields.id);
-        storage.setItem("typeObject" + i, data[i].Fields.type);
-        storage.setItem("textObject" + i, data[i].Fields.text);
-        storage.setItem("verify", 2);
+        storage.setItem("form_presenca_idObject" + i, data[i].Fields.id);
+        storage.setItem("form_presenca_typeObject" + i, data[i].Fields.type);
+        storage.setItem("form_presenca_textObject" + i, data[i].Fields.text);
+        storage.setItem("form_presenca_verify", 2);
     }
 
     drawFormStorage();
@@ -203,7 +203,7 @@ escolher = function(func) {
     }
     
     guardarPicancos.push(picar.mensagem);
-    storage.setItem("picancoGuarda", guardarPicancos);
+    storage.setItem("form_presenca_picancoGuarda", guardarPicancos);
 
     drawFormStorage();
 } 
