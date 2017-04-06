@@ -30,7 +30,7 @@ exports.principal = function(args) {
     var btn4 = new btnModule.Button();
     btn4.text = "Tarefas";
     btn4.on(btnModule.Button.tapEvent, function(){
-        topmost.navigate("views/tarefas-view/tarefas");
+        topmost.navigate("views/AGORA-DAS/AGORA");
     })
 
     var btn5 = new btnModule.Button();
@@ -46,8 +46,5 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
-<<<<<<< HEAD:NewApp/app/views/menu.js
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
-=======
->>>>>>> refs/remotes/origin/YEAH-BOIIIII:NewApp/platforms/android/build/intermediates/assets/F0/debug/app/views/menu-view/menu.js
 }
