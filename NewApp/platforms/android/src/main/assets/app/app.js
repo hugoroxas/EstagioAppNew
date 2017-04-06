@@ -1,4 +1,2 @@
 var applicationModule = require("application");
-applicationModule.start({ moduleName: "views/menu" });
-
-var page;
+applicationModule.start({ moduleName: "views/menu-view/menu" });

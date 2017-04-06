@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <supports-screens
         android:largeScreens="true"
@@ -17,6 +17,10 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
 
     <application
         android:name="com.tns.NativeScriptApplication"
