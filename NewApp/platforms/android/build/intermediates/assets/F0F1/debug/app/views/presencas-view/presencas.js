@@ -2,54 +2,60 @@ var layout = require("ui/layouts/stack-layout");
 var buttonModule = require("ui/button");
 var labelModule = require("ui/label");
 var storage = require("nativescript-localstorage");
+var Observable = require("data/observable").Observable;
+var timePickerModule = require("ui/time-picker");
+var listViewModule = require("ui/list-view");
+var view = require("ui/core/view");
+
+
 
 var urlJson = "https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_lista_presencas";
-var verifica
+var verifica;
 
-exports.presenca = function(args) {
+var timePicker = new timePickerModule.TimePicker();
+
+var user = new Observable({
+    mensagem: "user@domain.com"
+});
+
+exports.pageLoaded = function(args) {
+    var listView = new listViewModule.ListView();
+
+    var cores = ["red", "blue", "green"];
+    listView.items = cores;
+
+    var page = args.object;
+
+    var wtf = view.getViewById(page, "listview");
+    wtf.items = items;
+
+
+}
+
+/*exports.presenca = function(args) {
     page = args.object;
+    page.bindingContext = user;
 
-    localStorage.setItem("verify", 0);
-
-    
-
-
+    laibel = new labelModule.Label();
+    laibel.text = user.mensagem;
+    console.info(laibel.text);
+    console.info(user.mensagem);
+ 
+    localStorage.setItem("verify", 1);  
     verifica = localStorage.getItem("verify");
-    console.info(localStorage.getItem("verify"));
-    console.info(verifica);
     
-    if (verifica == 0) {
+    if (verifica == 1) {
         requestJson();
     }
-    else if (verifica == 1) {
-        console.info("ESTA A USAR A STORAGE CRL");
-        var stackLayout = new layout.StackLayout();
-        var num = storage.getItem("numObjects");
-        
-
-        for(i = 0; i < numObjects; i++) {
-            switch (storage.getItem("typeObject" + i)) {
-                case "button":
-                    btn = new buttonModule.Button();
-                    btn.text = storage.getItem("btnText" + i);
-                    stackLayout.addChild(btn);
-                    break;
-                case "label":
-                    lbl = new labelModue.Label();
-                    lbl.text = storage.getItem("lblText" + i);
-                    stackLayout.addChild(lbl);
-                    break;
-            }
-        }
-         page.content = stackLayout;
+    else if (verifica == 2) {
+        drawFormStorage();
     }
     else {
         console.info(verifica);
-    }
-    
-}
+    }     
+} */
 
-requestJson = function() {
+/*requestJson = function() {
     fetch(urlJson).then(response => {
         return response.json();
     })
@@ -60,55 +66,106 @@ requestJson = function() {
         var dataFields = r;
 
         storage.setItem("numObjects", sizeFields);
+        storage.setItem("dataJson", dataFields );
 
         console.info(sizeFields);
         console.info(JSON.stringify(dataFields));
         
-        drawForm(sizeFields, dataFields);
+        drawFormJson(sizeFields, dataFields);
     });    
 }
 
-verifyStorage = function() {
-    
-   // storage.setItem("Button", "Boa, o storage está a funcionar");
+drawFormStorage = function() {
+    console.info("ESTA A USAR A STORAGE");
+    var stackLayout = new layout.StackLayout();
 
-   // console.info(storage.getItem("Testar"));
+    var num = storage.getItem("numObjects");
+    var arrayButton = new Array(num);
+    var arrayLabel = new Array(num);
+    const saveFunction = new Array(num);
 
+    for(i = 0; i < num; i++) {
+        const cont = i;
+        switch (storage.getItem("typeObject" + cont)) {
+            case "button":
+                arrayButton[cont] = new buttonModule.Button(num); 
+                arrayButton[cont].text = storage.getItem("textObject" + cont);
+                arrayButton[cont].tap = storage.getItem("btnTap" + cont);         
+                saveFunction[cont] = arrayButton[cont].tap;
+
+                arrayButton[i].on(buttonModule.Button.tapEvent, function() {
+                    escolher(saveFunction[cont]);
+                }); 
+
+                stackLayout.addChild(arrayButton[cont]);
+                break;
+            case "label":
+                arrayLabel[cont] = new labelModule.Label();
+                // arrayLabel[cont].text = storage.getItem("textObject" + cont);
+                arrayLabel[cont].text = user.mensagem;
+                stackLayout.addChild(arrayLabel[cont]);
+                break;
+            }
+        }
+    page.content = stackLayout;
 }
 
-drawForm = function(size, data) {
+drawFormJson = function(size, data) {
     var stackLayout = new layout.StackLayout();
-    var arrayButton = new Array(size);
-    var arrayLabel = new Array(size);
-    countButton = 0;
-    var arrayTeste = new Array(size);
+    var arrayButton = new Array();
+    var arrayLabel = new Array();
+    var arrayListView = new Array();
 
     for (i = 0; i < size; i++) {
         switch (data[i].Fields.type) {
             case "button":
                 arrayButton[i] = new buttonModule.Button();
                 arrayButton[i].text = data[i].Fields.text;
-
                 stackLayout.addChild(arrayButton[i]);
-
-                storage.setItem("typeObject" + i, data[i].Fields.type);
-                storage.setItem("btnTap" + i, data[i].Fields.text);
-                storage.setItem("btnText" + i, data[i].Fields.text);           
-                
+                storage.setItem("btnTap" + i, data[i].Fields.tap);                
                 break;
-
             case "label":
                 arrayLabel[i] = new labelModule.Label();
                 arrayLabel[i].text = data[i].Fields.text;
-                stackLayout.addChild(arrayLabel[i]);
-
-                storage.setItem("typeObject" + i, data[i].Fields.type);
-                storage.setItem("lblText" + i, data[i].Fields.text);
+                stackLayout.addChild(arrayLabel[i]);                
+                break;
+            case "listView":
                 break;
         }
+        storage.setItem("idObject" + i, data[i].Fields.id);
+        storage.setItem("typeObject" + i, data[i].Fields.type);
+        storage.setItem("textObject" + i, data[i].Fields.text);     
+        storage.setItem("verify", 2);
+    }
+        
 
-        storage.setItem("verify", 1);
-        // zika();
-        page.content = stackLayout;
-    }    
+        page.content = stackLayout;  
 }
+
+escolher = function(func) {
+    var msg;
+    var d = new Date();
+    var h = d.getHours();
+    var m = d.getMinutes();
+
+    timePicker.hour = h;
+    timePicker.minute = m;
+
+    switch(func) {
+        case "darEntrada":
+            msg = "Muito bem, acabaste de dar entrada às ";     
+            break;
+        case "darSaida":
+            msg = "Muito bem, acabaste de dar saida às ";
+            break;
+        case "iniciarPausa":
+            msg = "Muito bem, acabaste de acabar a pausa às ";
+            break;
+        case "acabarPausa":
+            msg = "Muito bem, acabaste de começar a pausa às ";
+            break;
+    }
+
+    user.set("mensagem", msg + timePicker.hour + ":" + timePicker.minute);
+    drawFormStorage();
+} */
