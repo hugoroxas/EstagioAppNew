@@ -169,7 +169,7 @@ android.transition.Transition.TransitionListener*ftns_modules_tns_core_modules_u
 android.animation.Animator.AnimatorListener*ftns_modules_tns_core_modules_ui_transition_transition_l503_c34__*onAnimationStart,onAnimationRepeat,onAnimationEnd,onAnimationCancel***
 android.webkit.WebViewClient*frnal_ts_helpers_l58_c38__WebViewClientClassInner*shouldOverrideUrlLoading,onPageStarted,onPageFinished,onReceivedError***
 common.WebView*frnal_ts_helpers_l58_c38__WebView*_createUI,_onDetached,_loadUrl,_loadFileOrResource,_loadHttp,_loadData,stopLoading,goBack,goForward,reload***
-<<<<<<< HEAD
+
 view_1.View*frnal_ts_helpers_l58_c38__CheckBox*_createUI,toggle***
 android.widget.CompoundButton.OnCheckedChangeListener*ftns_modules_nativescript_checkbox_checkbox_l177_c50__*owner,onCheckedChanged***
 view_1.View*frnal_ts_helpers_l58_c38__DropDown*_onSelectedIndexPropertyChanged,openedEvent,selectedIndexChangedEvent,itemsProperty,selectedIndexProperty,hintProperty***
@@ -343,10 +343,10 @@ android.animation.Animator.AnimatorListener*ftns_modules_tns_core_modules_ui_tra
 view.View*frnal_ts_helpers_l58_c38__WebView*_onLoadFinished,_onLoadStarted,loadStartedEvent,loadFinishedEvent,navigationTypes,urlProperty,srcProperty***
 android.webkit.WebViewClient*frnal_ts_helpers_l58_c38__WebViewClientClassInner*shouldOverrideUrlLoading,onPageStarted,onPageFinished,onReceivedError***
 common.WebView*frnal_ts_helpers_l58_c38__WebView*_createUI,_onDetached,_loadUrl,_loadFileOrResource,_loadHttp,_loadData,stopLoading,goBack,goForward,reload***
-=======
+
 view.View*frnal_ts_helpers_l58_c38__WebView*_onLoadFinished,_onLoadStarted,loadStartedEvent,loadFinishedEvent,navigationTypes,urlProperty,srcProperty***
 common.TextField*frnal_ts_helpers_l58_c38__TextField*_configureEditText,_onReturnPress***
->>>>>>> refs/remotes/origin/LuisFuckingCode
+
 view_1.View*frnal_ts_helpers_l58_c38__DropDown*_onSelectedIndexPropertyChanged,openedEvent,selectedIndexChangedEvent,itemsProperty,selectedIndexProperty,hintProperty***
 view_1.View*frnal_ts_helpers_l58_c38__CheckBox*_createUI,toggle***
 android.widget.CompoundButton.OnCheckedChangeListener*ftns_modules_nativescript_checkbox_checkbox_l177_c50__*owner,onCheckedChanged***
