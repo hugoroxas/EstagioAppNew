@@ -2,12 +2,12 @@ var frameModule = require("ui/frame");
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
 
-<<<<<<< HEAD
+
 var page;
 // cenas cenas cenas
 
-=======
->>>>>>> refs/remotes/origin/LuisFuckingCode
+
+
 exports.principal = function(args) {
     page = args.object;
     var topmost = frameModule.topmost();

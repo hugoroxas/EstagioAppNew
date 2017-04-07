@@ -1,23 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\logo.png",
