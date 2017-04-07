@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\app.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\nativescript-checkbox\checkbox.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\nativescript-drop-down\drop-down-common.js
@@ -177,7 +175,6 @@ C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\a
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\AGORA-DAS\AGORA.js
->>>>>>> refs/remotes/origin/master
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\login-view\login.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\menu-view\menu.js
 C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\assets\app\views\presencas-view\presencas.js
