@@ -91,8 +91,16 @@ function buttonTapEvent(){
             localStorage.setItem( "loggedUser" , r );
             console.info( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
             var topmost = frameModule.topmost();
-            topmost.navigate("views/menu-view/menu");
-            // navigate to frame blablabla ---
+            var navigationEntry = {
+                moduleName: "views/menu-view/menu",
+                clearHistory: true,
+                transition: {
+                    name: "slide",
+                    duration: 380,
+                    curve: "easeIn"
+                }
+            };
+            topmost.navigate(navigationEntry);
 
         }
 
@@ -318,17 +326,33 @@ exports.load = function(args) {
 
     page = args.object;
     checkVersion();
-    localStorage.removeItem("loggedUser");
 
-    if( localStorage.getItem("sameVersion") == true ){
+    if( localStorage.getItem("loggedUser") == "Zero" ){
 
-        loadLayout(page);
+        if( localStorage.getItem("sameVersion") == true ){
 
-    }
+            loadLayout(page);
 
-    else {
+        } else {
 
-        createLayout(page);
+            createLayout(page);
+
+        }
+
+    } else {
+
+        var topmost = frameModule.topmost();
+        var navigationEntry = {
+            moduleName: "views/menu-view/menu",
+            clearHistory: true,
+            /*transition: {
+                name: "slide",
+                duration: 380,
+                curve: "easeIn"
+            }*/
+        };
+        console.log(localStorage.getItem( "loggedUser" ));
+        topmost.navigate(navigationEntry);
 
     }
 
