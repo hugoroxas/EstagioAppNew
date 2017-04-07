@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
 	"time": "Fri Apr 07 2017 14:25:13 GMT+0100 (Hora de Verão de GMT)",
+=======
+<<<<<<< HEAD
+	"time": "Fri Apr 07 2017 11:00:10 GMT+0100 (Hora de Verão de GMT)",
+>>>>>>> origin/master
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Fri Apr 07 2017 11:00:10 GMT+0100 (Hora de Verão de GMT)"
+=======
+	"time": "Fri Apr 07 2017 14:16:13 GMT+0100 (Hora de Verão de GMT)",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"changesRequireBuildTime": "Fri Apr 07 2017 10:14:41 GMT+0100 (Hora de Verão de GMT)"
+>>>>>>> refs/remotes/origin/LuisFuckingCode
 }
