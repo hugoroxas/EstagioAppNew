@@ -1,0 +1,15 @@
+android {
+    productFlavors {
+        "F0" {
+            dimension "nativescriptsecurestorage"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.orhanobut:hawk:2.0.1'
+}
