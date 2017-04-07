@@ -3,6 +3,7 @@
     "nativescript-drop-down": true,
     "nativescript-localstorage": true,
     "nativescript-radiobutton": true,
+    "nativescript-secure-storage": true,
     "nativescript-sqlite": true,
     "nativescript-toast": true,
     "tns-core-modules": true,

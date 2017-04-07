@@ -14,7 +14,7 @@ var page;
 // ------------------------------------------------------------------------------------------ //
 
 function checkVersion(){
-
+// hole
     http.getString("https://luisfranciscocode.000webhostapp.com/verVersao.php?form=form_login")
     .then(function (r) {
 
@@ -81,7 +81,7 @@ function buttonTapEvent(){
     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text)
     .then(function (r) {
      
-        if(r == "rekt"){
+        if(r == "rekt"){ // Fails log in
 
             toast.makeText("PIN incorrecto , tente de novo").show();
 
@@ -89,9 +89,9 @@ function buttonTapEvent(){
 
             toast.makeText("Seja bem-vindo " + r ).show();
             localStorage.setItem( "loggedUser" , r );
-            console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+            console.info( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
             var topmost = frameModule.topmost();
-            topmost.navigate("views/menu");
+            topmost.navigate("views/menu-view/menu");
             // navigate to frame blablabla ---
 
         }
