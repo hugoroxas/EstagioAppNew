@@ -47,7 +47,6 @@ exports.presenca = function(args) {
         verifica = 1;
     }
 
-    
     console.info(verifica);
     
     if (verifica == 1) {

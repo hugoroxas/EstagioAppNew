@@ -129,7 +129,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     stackLayout.addChild(btn1);
                     btn1.on(btnModule.Button.tapEvent, function(){
                         var topmost = frameModule.topmost();
-                        topmost.navigate("views/menu");
+                        topmost.navigate("views/menu-view/menu");
                     });
                     //localStorage.setItem("btn_voltar_menu", "true");
                     }
@@ -185,7 +185,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     btn1.text = localStorage.getItem("elementoID_text"+i);
                     btn1.on(btnModule.Button.tapEvent, function(){
                         var topmost = frameModule.topmost();
-                        topmost.navigate("views/menu");
+                        topmost.navigate("views/menu-view/menu");
                     });
                     stackLayout.addChild(btn1);
                 }
