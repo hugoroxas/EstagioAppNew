@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -31,7 +31,7 @@
                     "endOffset": 311
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 608
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 713
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 820
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1147
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1365
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1472
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1575
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1694
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2004
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2109
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2230
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2331
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2478
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2619
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2722
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 2841
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 2948
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3051
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3206
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3377
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3526
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3691
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3848
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 3999
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4118
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -661,7 +661,7 @@
                     "endOffset": 4267
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4416
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -702,7 +702,7 @@
                     "endOffset": 4528
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -721,7 +721,7 @@
                     "endOffset": 4675
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -741,7 +741,7 @@
                     "endOffset": 4828
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 4975
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 5050
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -801,7 +801,7 @@
                     "endOffset": 5139
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -820,7 +820,7 @@
                     "endOffset": 5226
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -839,7 +839,7 @@
                     "endOffset": 5327
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -859,7 +859,7 @@
                     "endOffset": 8395
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -880,7 +880,7 @@
                     "endOffset": 8581
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 11661
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -922,7 +922,7 @@
                     "endOffset": 11859
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 11982
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -964,7 +964,7 @@
                     "endOffset": 12105
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -985,7 +985,7 @@
                     "endOffset": 12218
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1006,7 +1006,7 @@
                     "endOffset": 12401
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1027,7 +1027,7 @@
                     "endOffset": 12532
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1048,7 +1048,7 @@
                     "endOffset": 12733
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1068,7 +1068,7 @@
                     "endOffset": 12822
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1087,7 +1087,7 @@
                     "endOffset": 12933
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1106,7 +1106,7 @@
                     "endOffset": 13060
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1125,7 +1125,7 @@
                     "endOffset": 13161
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1144,7 +1144,7 @@
                     "endOffset": 13256
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1163,7 +1163,7 @@
                     "endOffset": 13379
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1182,7 +1182,7 @@
                     "endOffset": 13508
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1201,7 +1201,7 @@
                     "endOffset": 13625
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1221,7 +1221,7 @@
                     "endOffset": 13802
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1241,7 +1241,7 @@
                     "endOffset": 13901
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1261,7 +1261,7 @@
                     "endOffset": 14036
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1282,7 +1282,7 @@
                     "endOffset": 14179
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 14314
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 14433
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 14634
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 14753
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1386,7 +1386,7 @@
                     "endOffset": 14846
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1405,7 +1405,7 @@
                     "endOffset": 14957
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1424,7 +1424,7 @@
                     "endOffset": 15013
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1444,7 +1444,7 @@
                     "endOffset": 15120
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1465,7 +1465,7 @@
                     "endOffset": 15315
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1486,7 +1486,7 @@
                     "endOffset": 15426
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 15559
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1527,7 +1527,7 @@
                     "endOffset": 15654
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1546,7 +1546,7 @@
                     "endOffset": 15745
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1565,7 +1565,7 @@
                     "endOffset": 15836
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1584,7 +1584,7 @@
                     "endOffset": 15953
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1604,7 +1604,7 @@
                     "endOffset": 16092
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1625,7 +1625,7 @@
                     "endOffset": 16237
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 16750
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 17275
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 17955
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1708,7 +1708,7 @@
                     "endOffset": 18012
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -1727,7 +1727,7 @@
                     "endOffset": 18070
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1747,7 +1747,7 @@
                     "endOffset": 18229
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1768,7 +1768,7 @@
                     "endOffset": 18388
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

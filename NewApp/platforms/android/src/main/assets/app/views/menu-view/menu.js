@@ -3,6 +3,7 @@ var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
 
 var page;
+// cenas cenas cenas
 
 exports.principal = function(args) {
     page = args.object;

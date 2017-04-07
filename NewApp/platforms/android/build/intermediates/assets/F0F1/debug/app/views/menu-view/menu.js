@@ -3,6 +3,7 @@ var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
 
 var page;
+// cenas cenas cenas
 
 exports.principal = function(args) {
     page = args.object;
@@ -12,13 +13,13 @@ exports.principal = function(args) {
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
-        alert("BUTTON 1");
+         topmost.navigate("views/sumarios/sumarios");
     })
 
     var btn2 = new btnModule.Button();
     btn2.text = "Presenças";
     btn2.on(btnModule.Button.tapEvent, function(){
-        alert("BUTTON 2");
+         topmost.navigate("views/presencas-view/presencas");
     })
 
     var btn3 = new btnModule.Button();
