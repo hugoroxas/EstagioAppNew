@@ -1,20 +1,4 @@
 {
-<<<<<<< HEAD
-	"prepareTime": "Thu Apr 06 2017 17:38:44 GMT+0100 (Hora de Verão de GMT)",
-	"buildTime": "Thu Apr 06 2017 17:42:01 GMT+0100 (Hora de Verão de GMT)"
-=======
-<<<<<<< HEAD
-	"prepareTime": "Tue Apr 04 2017 09:29:30 GMT+0100 (Hora de Verão de GMT)",
-	"buildTime": "Tue Apr 04 2017 09:32:49 GMT+0100 (Hora de Verão de GMT)"
-=======
-<<<<<<< HEAD
-	"prepareTime": "Wed Apr 05 2017 10:10:37 GMT+0100 (Hora de Verão de GMT)",
-	"buildTime": "Wed Apr 05 2017 10:11:58 GMT+0100 (Hora de Verão de GMT)"
->>>>>>> refs/remotes/origin/LuisFuckingCode
-=======
-	"prepareTime": "Fri Mar 31 2017 14:55:12 GMT+0100 (Hora de Verão de GMT)",
-	"buildTime": "Fri Mar 31 2017 14:56:26 GMT+0100 (Hora de Verão de GMT)"
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> origin/master
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+	"prepareTime": "Thu Apr 06 2017 18:03:04 GMT+0100 (Hora de Verão de GMT)",
+	"buildTime": "Thu Apr 06 2017 18:04:32 GMT+0100 (Hora de Verão de GMT)"
 }

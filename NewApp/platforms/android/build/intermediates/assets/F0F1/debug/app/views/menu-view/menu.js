@@ -1,31 +1,24 @@
+var frameModule = require("ui/frame");
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
-var frameModule = require("ui/frame");
-<<<<<<< HEAD:NewApp/platforms/android/src/main/assets/app/views/menu.js
-
-var topmost = frameModule.topmost();
-=======
->>>>>>> refs/remotes/origin/LuisFuckingCode:NewApp/platforms/android/build/intermediates/assets/F0F1/debug/app/views/menu-view/menu.js
 
 var page;
 
 exports.principal = function(args) {
     page = args.object;
+    var topmost = frameModule.topmost();
 
     var stackLayout = new layoutModule.StackLayout();
-    var topmost = frameModule.topmost();
-    
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
-        var topmost = frameModule.topmost();
-        topmost.navigate("views/sumarios/sumarios");
+        alert("BUTTON 1");
     })
 
     var btn2 = new btnModule.Button();
     btn2.text = "Presenças";
     btn2.on(btnModule.Button.tapEvent, function(){
-        topmost.navigate("views/presencas-view/presencas");
+        alert("BUTTON 2");
     })
 
     var btn3 = new btnModule.Button();
@@ -37,14 +30,13 @@ exports.principal = function(args) {
     var btn4 = new btnModule.Button();
     btn4.text = "Tarefas";
     btn4.on(btnModule.Button.tapEvent, function(){
-        alert("BUTTON 4");
+        topmost.navigate("views/AGORA-DAS/AGORA");
     })
 
     var btn5 = new btnModule.Button();
     btn5.text = "Logout";
     btn5.on(btnModule.Button.tapEvent, function(){
         alert("BUTTON 5");
-        
     })
 
     stackLayout.addChild(btn1);
@@ -54,24 +46,5 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
-<<<<<<< HEAD:NewApp/platforms/android/src/main/assets/app/views/menu.js
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
-=======
-}
-
-readJson = function() {
-    fetch("https://luisfranciscocode.000webhostapp.com/webservice.php?format=json").then(response => { 
-        return response.json();
-     })
-     .then(function (r) {
-        console.info("json chegou");    
-        var dataJson = r;
-        var numDataJson = Object.keys(dataJson).length;
-
-        console.info("Numer JSON: " + numDataJson);
-        console.info(JSON.stringify(dataJson[0].Fields.text)); 
-        console.info("---------------------------");
-
-	}); 
->>>>>>> refs/remotes/origin/LuisFuckingCode:NewApp/platforms/android/build/intermediates/assets/F0F1/debug/app/views/menu-view/menu.js
 }
