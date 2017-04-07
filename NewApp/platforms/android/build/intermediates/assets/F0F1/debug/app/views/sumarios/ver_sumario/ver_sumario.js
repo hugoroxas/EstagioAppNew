@@ -82,7 +82,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
 
                 }else if(jsonfile[i].Fields.type == "Button"){
                     var btn2 = new buttonModule.Button();
-                    localStorage.setItem("elemento3ID_type"+i, "button");
+                    localStorage.setItem("elemento3ID_type"+i, jsonfile[i].Fields.type);
                     var btnid = jsonfile[i].Fields.id;
                     localStorage.setItem("elemento3ID_id"+i, btnid);
                     //var txt_tamanho = txt1.text;
@@ -127,7 +127,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                 }else if(jsonfile[i].Fields.type == "Label"){
                     
                     var lbl_texto_sumario = new labelModule.Label();
-                    localStorage.setItem("elemento3ID_type"+i, "label");
+                    localStorage.setItem("elemento3ID_type"+i, jsonfile[i].Fields.type);
                     var lbl_id = jsonfile[i].Fields.id;
                     localStorage.setItem("elemento3ID_id"+i, lbl_id);
                     
@@ -156,7 +156,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                 for(i=0;i<100;i++){
                 var curr_obj = localStorage.getItem("elemento3ID_type"+i);
                 console.log("ELEMENTOID: " + curr_obj);
-                if(curr_obj == "button"){
+                if(curr_obj == "Button"){
                     /*
                     if(localStorage.getItem("elemento3ID_id"+i) == "confirma_add"){
                     var btn1 = new buttonModule.Button();
@@ -199,16 +199,16 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     stackLayout.addChild(btn1);
                 }
 
-                }else if(curr_obj == "listview"){
+                }else if(curr_obj == "ListView"){
                     var lista1 = new listViewModule.ListView();
                     lista1.items = localStorage.getItem("elemento3ID_items"+i);
                     stackLayout.addChild(lista1);
-                }else if(curr_obj == "textview"){
+                }else if(curr_obj == "TextView"){
                     var txt1 = new textViewModule.TextView();
                     txt1.id = localStorage.getItem("elemento3ID_id"+i);
                     //txt1.items = localStorage.getItem("elemento2ID_items"+i);
                     stackLayout.addChild(txt1);
-                }else if(curr_obj == "label"){
+                }else if(curr_obj == "Label"){
                     var lbl1 = new labelModule.Label();
                     lbl1.id = localStorage.getItem("elemento3ID_id"+i);
                     //lbl1.text = localStorage.getItem("elemento2ID_text"+i);

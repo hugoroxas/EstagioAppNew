@@ -1,6 +1,6 @@
 var applicationModule = require("application");
 
-// testar
-applicationModule.start({ moduleName: "views/login-view/login" });
+// applicationModule.start({ moduleName: "views/login-view/login" });
+applicationModule.start({ moduleName: "views/menu-view/menu" });
 
 var page;
