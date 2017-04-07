@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Administrador\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
