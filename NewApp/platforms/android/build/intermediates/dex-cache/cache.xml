@@ -16,20 +16,6 @@
         <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.orhanobut-hawk-2.0.1_1e284cdf59b6c7cf9d05754a2ab632cc76ac856c.jar" />
     </item>
     <item
-        jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.324-dev-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="6bd19a7b3c1e195aec235623546c9e26257308c9">
-        <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Primitives-2017.1.324-dev-release_5ed6112735e85e4fe223616f7dcdfb75881fa2f0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\Data-2017.1.324-dev-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="757e9792f9a748039f62743c18d073fd33b59c65">
-        <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Data-2017.1.324-dev-release_415d2720aae490ed3ee9bf031b9d472ef27e71bd.jar" />
-    </item>
-    <item
         jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
@@ -56,13 +42,6 @@
         revision="25.0.2"
         sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
         <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_237ac79a54855cb3422ecd154291812dd4d220e7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\Common-2017.1.324-dev-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="0d9abfb3d9e488a64d5cfe523fdb0cc67caf28c1">
-        <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Common-2017.1.324-dev-release_78ee04a4e38807f89d0deb21c31a5dfb82a52cfb.jar" />
     </item>
     <item
         jar="C:\Users\Luís Francisco\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
@@ -105,13 +84,6 @@
         revision="25.0.2"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-23.4.0_af8dc7bb2ddcc17581754bcb3c1718e0573bdafb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\List-2017.1.324-dev-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="0bcae1c3f380680addf84f8da920217e2daa92ed">
-        <dex dex="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-List-2017.1.324-dev-release_a09c136d923c3d98131abb05e0575e170f293bce.jar" />
     </item>
     <item
         jar="C:\Users\Administrador\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"

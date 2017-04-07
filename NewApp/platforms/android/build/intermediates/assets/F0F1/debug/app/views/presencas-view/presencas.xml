@@ -1,7 +1,3 @@
-<Page loaded="pageLoaded">
-   <ListView id="listview" items="{{ myItems }}">
-    <ListView.itemTemplate>
-       <Label text="{{ title || 'Downloading...' }}" textWrap="true" class="title" />
-    </ListView.itemTemplate>
- </ListView>>
+<Page loaded="presenca">
+    <ActionBar title="Presenças"></ActionBar>
 </Page>

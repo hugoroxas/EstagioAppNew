@@ -1,48 +1,49 @@
-var layout = require("ui/layouts/stack-layout");
+
+var slayout = require("ui/layouts/stack-layout");
+var glayout = require("ui/layouts/grid-layout");
+
 var buttonModule = require("ui/button");
 var labelModule = require("ui/label");
-var storage = require("nativescript-localstorage");
-var Observable = require("data/observable").Observable;
 var timePickerModule = require("ui/time-picker");
 var listViewModule = require("ui/list-view");
-var view = require("ui/core/view");
 
-
+var storage = require("nativescript-localstorage");
+var Observable = require("data/observable").Observable;
 
 var urlJson = "https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_lista_presencas";
-var verifica;
-
+var verifica = 1;
+var guardarPicancos = [];
 var timePicker = new timePickerModule.TimePicker();
 
-var user = new Observable({
-    mensagem: "user@domain.com"
+var opcaoMenu = 2;
+
+
+var picar = new Observable({
+    mensagem: ""
 });
 
-exports.pageLoaded = function(args) {
-    var listView = new listViewModule.ListView();
+exports.presenca = function(args) {
+    var date = new Date();
+    var d = date.getDay();
 
-    var cores = ["red", "blue", "green"];
-    listView.items = cores;
-
-    var page = args.object;
-
-    var wtf = view.getViewById(page, "listview");
-    wtf.items = items;
-
-
-}
-
-/*exports.presenca = function(args) {
+    if (d != storage.getItem("form_presenca_verificaDia")) {
+        storage.removeItem("form_presenca_picancoGuarda");
+        storage.setItem("form_presenca_verificaDia", d);
+    }
+    else {
+        guardarPicancos = storage.getItem("form_presenca_picancoGuarda");
+    }
     page = args.object;
-    page.bindingContext = user;
+    page.bindingContext = picar;   
 
     laibel = new labelModule.Label();
-    laibel.text = user.mensagem;
+    laibel.text = picar.mensagem;
     console.info(laibel.text);
-    console.info(user.mensagem);
+    console.info(picar.mensagem);
  
-    localStorage.setItem("verify", 1);  
-    verifica = localStorage.getItem("verify");
+    // storage.setItem("form_presenca_verify", 1);  
+    verifica = storage.getItem("form_presenca_verify");
+    console.info(verifica);
     
     if (verifica == 1) {
         requestJson();
@@ -53,9 +54,9 @@ exports.pageLoaded = function(args) {
     else {
         console.info(verifica);
     }     
-} */
+} 
 
-/*requestJson = function() {
+requestJson = function() {
     fetch(urlJson).then(response => {
         return response.json();
     })
@@ -65,8 +66,8 @@ exports.pageLoaded = function(args) {
         var sizeFields = Object.keys(r).length;
         var dataFields = r;
 
-        storage.setItem("numObjects", sizeFields);
-        storage.setItem("dataJson", dataFields );
+        storage.setItem("form_presenca_numObjects", sizeFields);
+        storage.setItem("form_presenca_dataJson", dataFields );
 
         console.info(sizeFields);
         console.info(JSON.stringify(dataFields));
@@ -77,73 +78,97 @@ exports.pageLoaded = function(args) {
 
 drawFormStorage = function() {
     console.info("ESTA A USAR A STORAGE");
-    var stackLayout = new layout.StackLayout();
+    var stackLayout = new slayout.StackLayout();
+    
+    var arrayButton = new Array();
+    var arrayLabel = new Array();
+    var arrayListView = new Array();
+    const saveFunction = new Array();
 
-    var num = storage.getItem("numObjects");
-    var arrayButton = new Array(num);
-    var arrayLabel = new Array(num);
-    const saveFunction = new Array(num);
+    var x = 0;
+    var y = 0;
 
+    if (opcaoMenu == 2) {
+        var gridLayout = new glayout.GridLayout();
+        stackLayout.addChild(gridLayout);
+    }    
+
+    var num = storage.getItem("form_presenca_numObjects");
     for(i = 0; i < num; i++) {
         const cont = i;
-        switch (storage.getItem("typeObject" + cont)) {
+        switch (storage.getItem("form_presenca_typeObject" + cont)) {
             case "button":
                 arrayButton[cont] = new buttonModule.Button(num); 
-                arrayButton[cont].text = storage.getItem("textObject" + cont);
-                arrayButton[cont].tap = storage.getItem("btnTap" + cont);         
+                arrayButton[cont].text = storage.getItem("form_presenca_textObject" + cont);
+                arrayButton[cont].tap = storage.getItem("form_presenca_btnTap" + cont);         
                 saveFunction[cont] = arrayButton[cont].tap;
-
-                arrayButton[i].on(buttonModule.Button.tapEvent, function() {
+                arrayButton[cont].on(buttonModule.Button.tapEvent, function() {
                     escolher(saveFunction[cont]);
                 }); 
 
-                stackLayout.addChild(arrayButton[cont]);
+                 if (opcaoMenu == 2) {
+                     if (x <= 1) {
+                         glayout.GridLayout.setColumn(arrayButton[cont], x);
+                     }
+                     else {
+                         glayout.GridLayout.setRow(arrayButton[cont], 1);
+                         glayout.GridLayout.setColumn(arrayButton[cont], y);
+                         y += 1;    
+                    }
+                    x += 1;
+
+                    gridLayout.addChild(arrayButton[cont]);
+                    var column = new glayout.ItemSpec(1, glayout.GridUnitType.auto);
+                    var row = new glayout.ItemSpec(1, glayout.GridUnitType.auto);
+                    gridLayout.addColumn(column);
+                    gridLayout.addRow(row);
+                }
+               
+                if (opcaoMenu == 1) {
+                    stackLayout.addChild(arrayButton[cont]);
+                }
+
                 break;
+
             case "label":
                 arrayLabel[cont] = new labelModule.Label();
                 // arrayLabel[cont].text = storage.getItem("textObject" + cont);
-                arrayLabel[cont].text = user.mensagem;
+                arrayLabel[cont].text = "LABEL: " + picar.mensagem;
                 stackLayout.addChild(arrayLabel[cont]);
                 break;
+
+            case "listView":
+                arrayListView[cont] = new listViewModule.ListView();
+                // arrayListView[cont].items = storage.getItem("arrayGuardar");
+                arrayListView[cont].items = guardarPicancos;
+                stackLayout.addChild(arrayListView[cont]);
+                break;
             }
-        }
+    }
+
     page.content = stackLayout;
 }
 
 drawFormJson = function(size, data) {
-    var stackLayout = new layout.StackLayout();
-    var arrayButton = new Array();
-    var arrayLabel = new Array();
-    var arrayListView = new Array();
-
     for (i = 0; i < size; i++) {
         switch (data[i].Fields.type) {
             case "button":
-                arrayButton[i] = new buttonModule.Button();
-                arrayButton[i].text = data[i].Fields.text;
-                stackLayout.addChild(arrayButton[i]);
-                storage.setItem("btnTap" + i, data[i].Fields.tap);                
-                break;
-            case "label":
-                arrayLabel[i] = new labelModule.Label();
-                arrayLabel[i].text = data[i].Fields.text;
-                stackLayout.addChild(arrayLabel[i]);                
-                break;
-            case "listView":
-                break;
+                storage.setItem("form_presenca_btnTap" + i, data[i].Fields.tap);                
+                break; 
         }
-        storage.setItem("idObject" + i, data[i].Fields.id);
-        storage.setItem("typeObject" + i, data[i].Fields.type);
-        storage.setItem("textObject" + i, data[i].Fields.text);     
-        storage.setItem("verify", 2);
-    }
-        
 
-        page.content = stackLayout;  
+        storage.setItem("form_presenca_idObject" + i, data[i].Fields.id);
+        storage.setItem("form_presenca_typeObject" + i, data[i].Fields.type);
+        storage.setItem("form_presenca_textObject" + i, data[i].Fields.text);
+        storage.setItem("form_presenca_verify", 2);
+    }
+
+    drawFormStorage();
 }
 
 escolher = function(func) {
     var msg;
+
     var d = new Date();
     var h = d.getHours();
     var m = d.getMinutes();
@@ -153,19 +178,32 @@ escolher = function(func) {
 
     switch(func) {
         case "darEntrada":
-            msg = "Muito bem, acabaste de dar entrada às ";     
+            msg = "Hora de entrada: ";
             break;
+            
         case "darSaida":
-            msg = "Muito bem, acabaste de dar saida às ";
+            msg = "Hora de saída: ";
             break;
+
         case "iniciarPausa":
-            msg = "Muito bem, acabaste de acabar a pausa às ";
+            msg = "Hora de ínicio de pausa: ";
             break;
+
         case "acabarPausa":
-            msg = "Muito bem, acabaste de começar a pausa às ";
+            msg = "Hora de fim de pausa: ";
             break;
     }
 
-    user.set("mensagem", msg + timePicker.hour + ":" + timePicker.minute);
+    if (m < 10) {
+        // apresenta 0 + o minuto
+        picar.set("mensagem", msg + timePicker.hour + ":0" + timePicker.minute);
+    }
+    else {
+        picar.set("mensagem", msg + timePicker.hour + ":" + timePicker.minute);
+    }
+    
+    guardarPicancos.push(picar.mensagem);
+    storage.setItem("form_presenca_picancoGuarda", guardarPicancos);
+
     drawFormStorage();
-} */
+} 
