@@ -3,6 +3,7 @@ var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
 
 var page;
+// cenas cenas cenas
 
 exports.principal = function(args) {
     page = args.object;
@@ -46,11 +47,5 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
-<<<<<<< HEAD:NewApp/app/views/menu.js
-
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
-
-=======
-    // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
->>>>>>> refs/remotes/origin/master:NewApp/platforms/android/build/intermediates/assets/F0F1/debug/app/views/menu-view/menu.js
 }
