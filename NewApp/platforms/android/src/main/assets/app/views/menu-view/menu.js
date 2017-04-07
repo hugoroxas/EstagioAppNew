@@ -51,7 +51,7 @@ exports.principal = function(args) {
                 curve: "easeIn"
             }
         };
-        localStorage.setItem("loggedUser" , "Zero");
+        localStorage.setItem("loggedUser" , " ");
         topmost.navigate(navigationEntry);
 
     });

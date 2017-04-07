@@ -327,7 +327,7 @@ exports.load = function(args) {
     page = args.object;
     checkVersion();
 
-    if( localStorage.getItem("loggedUser") == "Zero" ){
+    if( localStorage.getItem("loggedUser") == " " ){
 
         if( localStorage.getItem("sameVersion") == true ){
 
