@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
 	"time": "Fri Apr 07 2017 10:45:17 GMT+0100 (Hora de Verão de GMT)",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": true,
 	"changesRequireBuildTime": "Fri Apr 07 2017 10:45:17 GMT+0100 (Hora de Verão de GMT)"
+=======
+	"time": "Fri Apr 07 2017 10:55:04 GMT+0100 (Hora de Verão de GMT)",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"changesRequireBuildTime": "Fri Apr 07 2017 10:45:15 GMT+0100 (Hora de Verão de GMT)"
+>>>>>>> refs/remotes/origin/master
 }
