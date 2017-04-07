@@ -1,14 +1,14 @@
 [
     {
-<<<<<<< HEAD
+ 
         "outputFile": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
         "outputFile": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-ml-rIN\\values-ml-rIN.xml",
  
         "outputFile": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
         "map": [
             {
                 "to": {
@@ -19,15 +19,15 @@
                     "endOffset": 169
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -46,15 +46,15 @@
                     "endOffset": 277
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -73,15 +73,15 @@
                     "endOffset": 400
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -100,15 +100,15 @@
                     "endOffset": 518
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,15 +127,15 @@
                     "endOffset": 633
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -154,15 +154,15 @@
                     "endOffset": 726
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -181,15 +181,15 @@
                     "endOffset": 831
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -208,15 +208,15 @@
                     "endOffset": 963
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -235,15 +235,15 @@
                     "endOffset": 1040
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -262,15 +262,15 @@
                     "endOffset": 1116
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -289,15 +289,15 @@
                     "endOffset": 1198
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -316,15 +316,15 @@
                     "endOffset": 1309
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -343,15 +343,15 @@
                     "endOffset": 1415
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -370,15 +370,15 @@
                     "endOffset": 1513
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -404,8 +404,8 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -431,8 +431,8 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -458,8 +458,8 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -485,8 +485,8 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -512,8 +512,8 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -565,10 +565,10 @@
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ml-rIN\\values-ml-rIN.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
+ 
                     "position": {
                         "startLine": 21,
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
                         "startColumn": 4,
                         "startOffset": 2154,
                         "endColumn": 100,

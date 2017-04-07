@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-<<<<<<< HEAD
+ 
 ADDED from C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:3:2-35
@@ -396,7 +396,7 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Miguel\Document
 	android:name
 		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:26:9-47
  
-<<<<<<< HEAD
+ 
 ADDED from C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from C:\Users\user\Desktop\app1\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:3:2-35
@@ -662,5 +662,5 @@ activity#com.tns.ErrorReportActivity
 ADDED from C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:42:3-57
 	android:name
 		ADDED from C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\src\main\AndroidManifest.xml:42:13-55
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 

@@ -1,6 +1,6 @@
 [
     {
-<<<<<<< HEAD
+ 
         "merged": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color\\abc_tint_spinner.xml",
         "source": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color\\abc_tint_spinner.xml"
     },
@@ -88,7 +88,7 @@
         "merged": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\color\\abc_tint_btn_checkable.xml"
  
-<<<<<<< HEAD
+ 
         "merged": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
@@ -158,7 +158,7 @@
     {
         "merged": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
     }
 ]

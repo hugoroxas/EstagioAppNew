@@ -1,14 +1,14 @@
 [
     {
-<<<<<<< HEAD
+ 
         "outputFile": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
         "outputFile": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-kk-rKZ\\values-kk-rKZ.xml",
  
         "outputFile": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
         "map": [
             {
                 "to": {
@@ -19,15 +19,15 @@
                     "endOffset": 162
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -46,15 +46,15 @@
                     "endOffset": 270
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -73,15 +73,15 @@
                     "endOffset": 393
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -100,15 +100,15 @@
                     "endOffset": 496
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,15 +127,15 @@
                     "endOffset": 606
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -154,15 +154,15 @@
                     "endOffset": 691
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -181,15 +181,15 @@
                     "endOffset": 797
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -208,15 +208,15 @@
                     "endOffset": 916
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -235,15 +235,15 @@
                     "endOffset": 997
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -262,15 +262,15 @@
                     "endOffset": 1077
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -289,15 +289,15 @@
                     "endOffset": 1158
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -316,15 +316,15 @@
                     "endOffset": 1261
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -343,15 +343,15 @@
                     "endOffset": 1366
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -370,15 +370,15 @@
                     "endOffset": 1464
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -397,15 +397,15 @@
                     "endOffset": 1571
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -424,15 +424,15 @@
                     "endOffset": 1680
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -451,15 +451,15 @@
                     "endOffset": 1780
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -478,15 +478,15 @@
                     "endOffset": 1895
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -505,15 +505,15 @@
                     "endOffset": 1994
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -528,7 +528,7 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1999,
-<<<<<<< HEAD
+ 
                     "endColumn": 80,
                     "endOffset": 2075
                 },
@@ -558,12 +558,12 @@
                     "endOffset": 2095
                 },
                 "from": {
-<<<<<<< HEAD
+ 
                     "file": "C:\\Users\\user\\Desktop\\app1\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
  
                     "file": "C:\\Users\\Hugo\\Documents\\GitHub\\EstagioAppNew\\NewApp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
->>>>>>> refs/remotes/origin/Branch-do-Azeite
->>>>>>> b7215b69aec7e11fa67e132e9eb14e1ab52dc7cd
+ 
+ 
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

@@ -1,11 +1,11 @@
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
-<<<<<<< HEAD
+ 
 var frameModule = require("ui/frame");
 
 var topmost = frameModule.topmost();
  
->>>>>>> refs/remotes/origin/Branch-do-Azeite
+ 
 
 var page;
 
@@ -16,12 +16,12 @@ exports.principal = function(args) {
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
-<<<<<<< HEAD
+ 
         var topmost = frameModule.topmost();
         topmost.navigate("views/sumarios/sumarios");
  
         alert("BUTTON 1");
->>>>>>> refs/remotes/origin/Branch-do-Azeite
+ 
     })
 
     var btn2 = new btnModule.Button();
@@ -55,7 +55,7 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
     page.content = stackLayout;
 
-<<<<<<< HEAD
+ 
  
     // ORA MUITO BOA TARDE
     // ESTOU AQUI A PERDER O MEU TEMPO 
@@ -66,5 +66,5 @@ exports.principal = function(args) {
     // RECKT OKEH
 
     // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
->>>>>>> refs/remotes/origin/Branch-do-Azeite
+ 
 }
