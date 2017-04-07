@@ -94,7 +94,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     //alert("asdfghjk");
                     //amount_btn = amount_btn+1;
                     var btn1 = new buttonModule.Button();
-                    localStorage.setItem("elementoID_type"+i, "button");
+                    localStorage.setItem("elementoID_type"+i, jsonfile[i].Fields.type);
                     var btnid = jsonfile[i].Fields.id;
                     localStorage.setItem("elementoID_id"+i, btnid);
                     //alert("ADICIONAR SUMARIO BTN");
@@ -185,7 +185,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     btn1.text = localStorage.getItem("elementoID_text"+i);
                     btn1.on(btnModule.Button.tapEvent, function(){
                         var topmost = frameModule.topmost();
-                        topmost.navigate("views/menu");
+                        topmost.navigate("views/menu-view/menu");
                     });
                     stackLayout.addChild(btn1);
                 }
