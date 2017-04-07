@@ -17,7 +17,6 @@ var timePicker = new timePickerModule.TimePicker();
 
 var opcaoMenu = 2;
 
-
 var picar = new Observable({
     mensagem: ""
 });
@@ -33,6 +32,7 @@ exports.presenca = function(args) {
     else {
         guardarPicancos = storage.getItem("form_presenca_picancoGuarda");
     }
+
     page = args.object;
     page.bindingContext = picar;   
 
@@ -43,11 +43,13 @@ exports.presenca = function(args) {
  
     verifica = storage.getItem("form_presenca_verify");
 
-    if (verifica != 1 || verifica != 2) {
+    console.info("VERIFICA ANTES DA CONDIÇÃO: " + verifica);
+
+    if (verifica != 1 && verifica != 2) {
         verifica = 1;
     }
 
-    console.info(verifica);
+    console.info("DEPOIS: " + verifica);
     
     if (verifica == 1) {
         requestJson();
@@ -92,6 +94,9 @@ drawFormStorage = function() {
     var x = 0;
     var y = 0;
 
+    opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
+    console.info(opcaoMenu);
+
     if (opcaoMenu == 2) {
         var gridLayout = new glayout.GridLayout();
         stackLayout.addChild(gridLayout);
@@ -131,7 +136,6 @@ drawFormStorage = function() {
                 if (opcaoMenu == 1) {
                     stackLayout.addChild(arrayButton[cont]);
                 }
-
                 break;
 
             case "label":
@@ -154,6 +158,7 @@ drawFormStorage = function() {
 }
 
 drawFormJson = function(size, data) {
+    console.info("veio ao json???»?");
     for (i = 0; i < size; i++) {
         switch (data[i].Fields.type) {
             case "button":
