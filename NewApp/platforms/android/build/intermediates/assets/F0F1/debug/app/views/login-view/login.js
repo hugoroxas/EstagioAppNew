@@ -89,9 +89,9 @@ function buttonTapEvent(){
 
             toast.makeText("Seja bem-vindo " + r ).show();
             localStorage.setItem( "loggedUser" , r );
-            console.log( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+            console.info( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
             var topmost = frameModule.topmost();
-            topmost.navigate("views/menu");
+            topmost.navigate("views/menu-view/menu");
             // navigate to frame blablabla ---
 
         }

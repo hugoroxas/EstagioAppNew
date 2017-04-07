@@ -11,7 +11,7 @@ var storage = require("nativescript-localstorage");
 var Observable = require("data/observable").Observable;
 
 var urlJson = "https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_lista_presencas";
-var verifica = 1;
+var verifica;
 var guardarPicancos = [];
 var timePicker = new timePickerModule.TimePicker();
 
@@ -41,8 +41,13 @@ exports.presenca = function(args) {
     console.info(laibel.text);
     console.info(picar.mensagem);
  
-    // storage.setItem("form_presenca_verify", 1);  
     verifica = storage.getItem("form_presenca_verify");
+
+    if (verifica != 1 || verifica != 2) {
+        verifica = 1;
+    }
+
+    
     console.info(verifica);
     
     if (verifica == 1) {
