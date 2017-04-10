@@ -10,17 +10,17 @@
             
             <Label height="10px"/>
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 1" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 1" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
             
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 2" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 2" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 3" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 3" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
@@ -28,17 +28,17 @@
 
             <Label height="10px"/>
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 1" className="btnOp" width="90px" />
+                <Button text="Alterar Orientation" className="btnOp" onTap="changeLayout" />
             </StackLayout>
             <Label height="10px"/>
         
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 2" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 2" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 3" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 3" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
@@ -46,17 +46,17 @@
 
             <Label height="10px"/>
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 1" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 1" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
             
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 2" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 2" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
             <StackLayout orientation="horizontal" >
-                <Button text="OPÇÃO 3" className="btnOp" width="90px" />
+                <Button text="OPÇÃO 3" className="btnOp" />
             </StackLayout>
             <Label height="10px"/>
 
@@ -64,7 +64,7 @@
 
             <Label height="10px"/>
             <StackLayout orientation="horizontal" >
-                <Button text="Clear LocalStorage" className="btnOp" onTap="limpeza" width="150px" />
+                <Button text="Clear LocalStorage" className="btnOp" onTap="limpeza" />
             </StackLayout>
             <Label height="10px"/>
 

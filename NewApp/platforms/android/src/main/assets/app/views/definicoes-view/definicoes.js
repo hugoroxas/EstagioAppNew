@@ -25,49 +25,35 @@ exports.limpeza = function(){
 
 }
 
-exports.definicoes = function(args) {
-    /*page = args.object;
+exports.changeLayout = function(){
 
-    var layout = new layoutModule.StackLayout();
-    var btnPresencas = new buttonModule.Button();
-    var lblPresencas = new labelModule.Label();
-    var lblActualizacoes = new labelModule.Label();
-    var lblPresencas2 = new labelModule.Label();
     var opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
-    
-    lblPresencas.className = "teste";
-    lblPresencas.text = "Layout";
-    lbl2Presencas.text = "Layout - Presenças";
-    
-    lblActualizacoes.text = "Atualizações";
-    lblActualizacoes.className = "teste";
+    var texto = "";
 
-    btnActualizacoes.text = storage.getItem("form_definicoes_btnText");
-    btnActualizacoes.className = "bbutton";
-    btnPresencas.on(buttonModule.Button.tapEvent, function(){
-        if (opcaoMenu != 1 && opcaoMenu != 2) {
-            storage.setItem("form_presenca_opcaoMenu", 1);
-        }
-
-        if (opcaoMenu == 1) {
-            opcaoMenu = 2;
-            btn.text = "Layout - Horizontal";
-        }
-        else if (opcaoMenu == 2) {
-            opcaoMenu = 1;
-            btn.text = "Layout - Vertical";
-        }     
+    if (opcaoMenu != 1 && opcaoMenu != 2) {
         
-        console.info(opcaoMenu);
-        storage.setItem("form_presenca_opcaoMenu", opcaoMenu);
-        storage.setItem("form_definicoes_btnText", btnPresencas.text)
-    })
+        storage.setItem("form_presenca_opcaoMenu", 1);
+
+    }
+
+    if (opcaoMenu == 1) {
+
+       opcaoMenu = 2;
+       texto = "Layout - Horizontal";
+
+    } else if (opcaoMenu == 2) {
+        
+        opcaoMenu = 1;
+        texto = "Layout - Vertical";
     
-    layout.addChild(lblPresencas);
-    layout.addChild(lblPresencas2);
-    layout.addChild(btnPresencas);
-    layout.addChild(lblPresencas1);
+    }     
+        
+    console.info(opcaoMenu);
+    storage.setItem("form_presenca_opcaoMenu", opcaoMenu);
+    storage.setItem("form_definicoes_btnText", texto)
+
+}
+
+exports.definicoes = function(args) {
     
-    page.content = layout;
-*/
 }

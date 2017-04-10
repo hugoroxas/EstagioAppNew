@@ -250,6 +250,7 @@ function createLayout(page){
                 case "textbox": fieldsArray[i] = new textFieldModule.TextField();
                                 fieldsArray[i].secure = true;
                                 fieldsArray[i].hint = "Inserir Pin";
+                                fieldsArray[i].keyboardType = "number";
                 break;
 
                 case "image":  fieldsArray[i] = new imageModule.Image();
