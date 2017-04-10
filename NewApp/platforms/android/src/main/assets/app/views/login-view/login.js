@@ -153,6 +153,7 @@ function loadLayout(){
             break;
 
             case "textbox": fieldsArray[i] = new textFieldModule.TextField();
+                            fieldsArray[i].keyboardType = "number";
                             fieldsArray[i].secure = true;
                             fieldsArray[i].hint = "Inserir Pin";
             break;
