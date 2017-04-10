@@ -345,11 +345,6 @@ exports.load = function(args) {
         var navigationEntry = {
             moduleName: "views/menu-view/menu",
             clearHistory: true,
-            /*transition: {
-                name: "slide",
-                duration: 380,
-                curve: "easeIn"
-            }*/
         };
         console.log(localStorage.getItem( "loggedUser" ));
         topmost.navigate(navigationEntry);

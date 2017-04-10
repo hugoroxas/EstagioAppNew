@@ -46,7 +46,7 @@ exports.principal = function(args) {
             moduleName: "views/login-view/login",
             clearHistory: true,
             transition: {
-                name: "slide",
+                name: "slideRight",
                 duration: 380,
                 curve: "easeIn"
             }
