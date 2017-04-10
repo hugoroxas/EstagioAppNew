@@ -78,18 +78,23 @@ function createRows(newGridLayout , arrayRow){
 
 function buttonTapEvent(){
 
+    page.getViewById("btn1").isEnabled = false;
+
     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text)
     .then(function (r) {
      
         if(r == "rekt"){ // Fails log in
 
             toast.makeText("PIN incorrecto , tente de novo").show();
+            page.getViewById("btn1").isEnabled = true;
 
         } else {
-
+            
+            page.getViewById("btn1").isEnabled = true;
             toast.makeText("Seja bem-vindo " + r ).show();
             localStorage.setItem( "loggedUser" , r );
             console.info( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+            
             var topmost = frameModule.topmost();
             var navigationEntry = {
                 moduleName: "views/menu-view/menu",
@@ -107,6 +112,7 @@ function buttonTapEvent(){
     }, function (e) {
                                     
         toast.makeText("Sem acesso a internet").show();
+        page.getViewById("btn1").isEnabled = true;
 
     });
 

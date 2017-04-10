@@ -69,7 +69,7 @@
             <Label height="10px"/>
 
             <StackLayout orientation="horizontal" >
-                <Button text="Clear LocalStorage" className="btnOp" onTap="changeAppTextSize" />
+                <Button text="Change TextSize" className="btnOp" onTap="changeAppTextSize" />
             </StackLayout>
             <Label height="10px"/>
 
