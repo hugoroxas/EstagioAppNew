@@ -4,25 +4,33 @@ var layoutModule = require("ui/layouts/stack-layout");
 
 var storage = require("nativescript-localstorage");
 
+exports.limpeza = function(){
+
+    console.log("limpinho");
+    localStorage.clear();
+
+}
+
 exports.definicoes = function(args) {
-    page = args.object;
+    /*page = args.object;
 
     var layout = new layoutModule.StackLayout();
-    var btn = new buttonModule.Button();
-    var lbl = new labelModule.Label();
-    var lbl1 = new labelModule.Label();
-    var lbl2 = new labelModule.Label();
+    var btnPresencas = new buttonModule.Button();
+    var lblPresencas = new labelModule.Label();
+    var lblActualizacoes = new labelModule.Label();
+    var lblPresencas2 = new labelModule.Label();
     var opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
     
-    lbl.className = "teste";
-    lbl.text = "Layout";
-    lbl2.text = "Layout - Presenças";
+    lblPresencas.className = "teste";
+    lblPresencas.text = "Layout";
+    lbl2Presencas.text = "Layout - Presenças";
     
-    lbl1.text = "Atualizações";
-    lbl1.className = "teste";
+    lblActualizacoes.text = "Atualizações";
+    lblActualizacoes.className = "teste";
 
-    btn.text = storage.getItem("form_definicoes_btnText");
-    btn.on(buttonModule.Button.tapEvent, function(){
+    btnActualizacoes.text = storage.getItem("form_definicoes_btnText");
+    btnActualizacoes.className = "bbutton";
+    btnPresencas.on(buttonModule.Button.tapEvent, function(){
         if (opcaoMenu != 1 && opcaoMenu != 2) {
             storage.setItem("form_presenca_opcaoMenu", 1);
         }
@@ -38,13 +46,14 @@ exports.definicoes = function(args) {
         
         console.info(opcaoMenu);
         storage.setItem("form_presenca_opcaoMenu", opcaoMenu);
-        storage.setItem("form_definicoes_btnText", btn.text)
+        storage.setItem("form_definicoes_btnText", btnPresencas.text)
     })
     
-    layout.addChild(lbl);
-    layout.addChild(lbl2);
-    layout.addChild(btn);
-    layout.addChild(lbl1);
+    layout.addChild(lblPresencas);
+    layout.addChild(lblPresencas2);
+    layout.addChild(btnPresencas);
+    layout.addChild(lblPresencas1);
     
     page.content = layout;
+*/
 }

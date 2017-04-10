@@ -4,6 +4,19 @@
     margin-left: 3px;
 }
 
-Label {
+.linhaHorizontal {
+    height: 1px;
+    width: 100%;
+    border: 2;
+    border-width: 100%;
+    border-style: solid;
+    border-color: black;
     margin-left: 3px;
+}
+
+.btnOp {
+
+    float: left;
+    margin-left: 10px;
+
 }
