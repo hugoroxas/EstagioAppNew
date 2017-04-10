@@ -54,6 +54,12 @@ exports.changeLayout = function(){
 
 }
 
+exports.changeAppTextSize = function(){
+
+    // FAZ ISTO !!!!
+
+}
+
 exports.definicoes = function(args) {
     
 }
