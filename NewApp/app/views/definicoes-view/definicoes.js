@@ -1,13 +1,27 @@
 var buttonModule = require("ui/button");
 var labelModule = require("ui/label");
 var layoutModule = require("ui/layouts/stack-layout");
-
+var dialogs = require("ui/dialogs");
 var storage = require("nativescript-localstorage");
 
 exports.limpeza = function(){
 
-    console.log("limpinho");
-    localStorage.clear();
+    dialogs.confirm({
+            title: "Log Out",
+            message: "Tem certeza que quer apagar os dados da localstorage?",
+            okButtonText: "OK",
+            cancelButtonText: "CANCEL"
+
+        }).then(function (result) {
+            
+            if( result == true ){
+
+                console.log("limpinho");
+                localStorage.clear();
+
+            }
+
+        });
 
 }
 
