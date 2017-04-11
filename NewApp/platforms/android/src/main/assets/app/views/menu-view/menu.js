@@ -4,9 +4,6 @@ var layoutModule = require("ui/layouts/stack-layout");
 var localStorage = require("nativescript-localstorage");
 var dialogs = require("ui/dialogs");
 var page;
-// cenas cenas cenas
-
-
 
 exports.principal = function(args) {
     page = args.object;
@@ -29,6 +26,7 @@ exports.principal = function(args) {
     btn3.text = "Definições";
     btn3.on(btnModule.Button.tapEvent, function(){
         topmost.navigate("views/definicoes-view/definicoes");
+        topmost.end("views/menu-view/menu");
     })
 
     var btn4 = new btnModule.Button();
@@ -48,7 +46,7 @@ exports.principal = function(args) {
             cancelButtonText: "CANCEL"
 
         }).then(function (result) {
-            
+
             if( result == true ){
 
                 var topmost = frameModule.topmost();

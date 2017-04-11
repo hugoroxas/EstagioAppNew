@@ -27,12 +27,12 @@ exports.limpeza = function(){
 
 exports.changeLayout = function(){
 
-    var opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
+    var opcaoMenu = localStorage.getItem("form_presenca_opcaoMenu");
     var texto = "";
 
     if (opcaoMenu != 1 && opcaoMenu != 2) {
         
-        storage.setItem("form_presenca_opcaoMenu", 1);
+        localStorage.setItem("form_presenca_opcaoMenu", 1);
 
     }
 
@@ -49,8 +49,8 @@ exports.changeLayout = function(){
     }     
         
     console.info(opcaoMenu);
-    storage.setItem("form_presenca_opcaoMenu", opcaoMenu);
-    storage.setItem("form_definicoes_btnText", texto)
+    localStorage.setItem("form_presenca_opcaoMenu", opcaoMenu);
+    localStorage.setItem("form_definicoes_btnText", texto)
 
 }
 

@@ -31,7 +31,7 @@ exports.presenca = function(args) {
         console.info("if picanco");
     }
     else {
-        guardarPicancos = localStorage.getItem("form_presenca_picancoGuarda");
+        guardarPicancos.items = localStorage.getItem("form_presenca_picancoGuarda");
         console.info("else picanco");
     }
 
