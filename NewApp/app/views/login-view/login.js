@@ -334,7 +334,7 @@ exports.load = function(args) {
 
     page = args.object;
     checkVersion();
-
+        
     if( localStorage.getItem("loggedUser") == " " ){
 
         if( localStorage.getItem("sameVersion") == true ){
@@ -349,12 +349,13 @@ exports.load = function(args) {
 
     } else {
 
+        console.log(localStorage.getItem( "refreshMenu" ));
+
         var topmost = frameModule.topmost();
         var navigationEntry = {
             moduleName: "views/menu-view/menu",
             clearHistory: true,
         };
-        console.log(localStorage.getItem( "loggedUser" ));
         topmost.navigate(navigationEntry);
 
     }

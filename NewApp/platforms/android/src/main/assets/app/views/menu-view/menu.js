@@ -6,31 +6,50 @@ var dialogs = require("ui/dialogs");
 var page;
 
 exports.principal = function(args) {
+    
     page = args.object;
     var topmost = frameModule.topmost();
+
+    if( localStorage.getItem("refreshMenu") == true ){
+
+        localStorage.setItem( "refreshMenu" , false );
+
+        var topmost = frameModule.topmost();
+        var navigationEntry = {
+            moduleName: "views/menu-view/menu",
+            clearHistory: true,
+        };
+        console.log(localStorage.getItem( "loggedUser" ));
+        topmost.navigate(navigationEntry);
+
+    } else{
 
     var stackLayout = new layoutModule.StackLayout();
     var btn1 = new btnModule.Button();
     btn1.text = "Sumários";
     btn1.on(btnModule.Button.tapEvent, function(){
+         localStorage.setItem( "refreshMenu" , true );
          topmost.navigate("views/sumarios/sumarios");
     })
 
     var btn2 = new btnModule.Button();
     btn2.text = "Presenças";
     btn2.on(btnModule.Button.tapEvent, function(){
+         localStorage.setItem( "refreshMenu" , true );
          topmost.navigate("views/presencas-view/presencas");
     })
 
     var btn3 = new btnModule.Button();
     btn3.text = "Definições";
     btn3.on(btnModule.Button.tapEvent, function(){
+        localStorage.setItem( "refreshMenu" , true );
         topmost.navigate("views/definicoes-view/definicoes");
     })
 
     var btn4 = new btnModule.Button();
     btn4.text = "Tarefas";
     btn4.on(btnModule.Button.tapEvent, function(){
+        localStorage.setItem( "refreshMenu" , true );
         topmost.navigate("views/AGORA-DAS/AGORA");
     })
 
@@ -74,4 +93,7 @@ exports.principal = function(args) {
     stackLayout.addChild(btn5);
 
     page.content = stackLayout;
+
+    }
+
 }

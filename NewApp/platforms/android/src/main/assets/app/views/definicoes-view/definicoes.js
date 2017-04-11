@@ -7,7 +7,7 @@ var localStorage = require("nativescript-localstorage");
 exports.limpeza = function(){
 
     dialogs.confirm({
-            title: "Log Out",
+            title: "Clean LocalStorage",
             message: "Tem certeza que quer apagar os dados da localstorage?",
             okButtonText: "OK",
             cancelButtonText: "CANCEL"
@@ -16,8 +16,8 @@ exports.limpeza = function(){
             
             if( result == true ){
 
-                console.log("limpinho");
                 localStorage.clear();
+                localStorage.setItem("refreshIt" , true );
 
             }
 
