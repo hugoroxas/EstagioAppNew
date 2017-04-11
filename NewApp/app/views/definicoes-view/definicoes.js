@@ -23,8 +23,8 @@ exports.definicoes = function(args) {
 
     btn.text = storage.getItem("form_definicoes_btnText");
     btn.on(buttonModule.Button.tapEvent, function(){
-        if (opcaoMenu != 1 && opcaoMenu != 2) {
-            storage.setItem("form_presenca_opcaoMenu", 1);
+        if (opcaoMenu == null) {
+            storage.setItem("form_presenca_opcaoMenu", 2);
         }
 
         if (opcaoMenu == 1) {
