@@ -26,7 +26,6 @@ exports.principal = function(args) {
     btn3.text = "Definições";
     btn3.on(btnModule.Button.tapEvent, function(){
         topmost.navigate("views/definicoes-view/definicoes");
-        topmost.end("views/menu-view/menu");
     })
 
     var btn4 = new btnModule.Button();
