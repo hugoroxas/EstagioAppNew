@@ -8,6 +8,7 @@ var localStorage = require("nativescript-localstorage");
 var Sqlite = require("nativescript-sqlite");
 var labelModule = require("ui/label");
 var scrollViewModule = require("ui/scroll-view");
+//var floatingBtnModule = require("nativescript-floatingactionbutton").Fab;
 
 var topmost = frameModule.topmost();
 
@@ -33,6 +34,16 @@ exports.principal = function(args) {
 var scrollfinal = new scrollViewModule.ScrollView();
 scrollfinal.height = 600;
 scrollfinal.orientation = "vertical";
+
+var checkclearstorage = localStorage.getItem("refreshIt");
+
+console.log("AE CARA: " + checkclearstorage);
+
+if(checkclearstorage == true){
+    localStorage.setItem("refreshIt", false);
+    topmost.navigate("views/sumarios/sumarios");
+
+}
 
 if(formexists != "true"){
 
@@ -123,7 +134,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     //localStorage.setItem("btn_adicionarsumario_tap", jsonfile[i].Fields.height);
                     //localStorage.setItem("btn_adicionar_sumario", "true");
                 }else if(btnid == "btn_voltar_menu"){
-                    //localStorage.setItem("btnid", jsonfile[i].Fields.id);
+                    /*//localStorage.setItem("btnid", jsonfile[i].Fields.id);
                     //lista1.id = jsonfile[i].id;
                     btn1.text = jsonfile[i].Fields.text;
                     localStorage.setItem("elementoID_text"+i, jsonfile[i].Fields.text);
@@ -133,6 +144,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         topmost.navigate("views/menu-view/menu");
                     });
                     //localStorage.setItem("btn_voltar_menu", "true");
+                    */
                     }
                     console.log(jsonfile[i].Fields.tap);
                     //localStorage.setItem("amount_btn", amount_btn);
@@ -188,6 +200,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     stackLayout.addChild(btn1);
                     //alert("2");
                 }else if(localStorage.getItem("elementoID_id"+i) == "btn_voltar_menu"){
+                    /*
                     var btn1 = new buttonModule.Button();
                     btn1.text = localStorage.getItem("elementoID_text"+i);
                     btn1.on(btnModule.Button.tapEvent, function(){
@@ -197,6 +210,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     stackLayout.addChild(btn1);
                     //alert("3");
                     //123
+                    */
                 }
 
                 }else if(curr_obj == "ListView"){

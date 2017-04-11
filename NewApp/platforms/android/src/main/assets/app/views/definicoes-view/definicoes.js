@@ -3,6 +3,7 @@ var labelModule = require("ui/label");
 var layoutModule = require("ui/layouts/stack-layout");
 var dialogs = require("ui/dialogs");
 var localStorage = require("nativescript-localstorage");
+var toast = require("nativescript-toast");
 
 exports.limpeza = function(){
 
@@ -18,6 +19,7 @@ exports.limpeza = function(){
 
                 localStorage.clear();
                 localStorage.setItem("refreshIt" , true );
+                toast.makeText("Dados da localstorage foram limpos").show();
 
             }
 
