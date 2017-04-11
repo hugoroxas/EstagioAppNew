@@ -6,12 +6,10 @@ var dialogs = require("ui/dialogs");
 var page;
 
 exports.principal = function(args) {
-    
     page = args.object;
     var topmost = frameModule.topmost();
 
     if( localStorage.getItem("refreshMenu") == true ){
-
         localStorage.setItem( "refreshMenu" , false );
 
         var topmost = frameModule.topmost();
@@ -21,52 +19,67 @@ exports.principal = function(args) {
         };
         console.log(localStorage.getItem( "loggedUser" ));
         topmost.navigate(navigationEntry);
+    } 
+    else {
+        var stackLayout = new layoutModule.StackLayout();
+        
+        btn = new Array();
+        const textButton = new Array();
+        const caminhoButton = new Array();
 
-    } else{
+        for (i = 0; i <= 4; i++) {
+            const cont = i;
+            switch (i) {
+            case 0:
+                textButton[0] = "Sumários";
+                caminhoButton[0] = "views/sumarios/sumarios";
+                break;
+            case 1:
+                textButton[1] = "Presenças";
+                caminhoButton[1] = "views/presencas-view/presencas";
+                break;
+            case 2:
+                textButton[2] = "Definições";
+                caminhoButton[2] = "views/definicoes-view/definicoes";
+                break;
+            case 3:
+                textButton[3] = "Tarefas";
+                caminhoButton[3] = "views/AGORA-DAS/AGORA";
+                break;
+            case 4:
+                textButton[4] = "Logout";
+                caminhoButton[4] = "views/login-view/login";
+                break;
+            }
+            
+            btn[cont] = new btnModule.Button();
+            btn[cont].text = textButton[i];
+            btn[cont].on(btnModule.Button.tapEvent, function() {
+                localStorage.setItem( "refreshMenu" , true );
 
-    var stackLayout = new layoutModule.StackLayout();
-    var btn1 = new btnModule.Button();
-    btn1.text = "Sumários";
-    btn1.on(btnModule.Button.tapEvent, function(){
-         localStorage.setItem( "refreshMenu" , true );
-         topmost.navigate("views/sumarios/sumarios");
-    })
+                if (cont < 4) {
+                    topmost.navigate(caminhoButton[cont]);
+                }
+                else {
+                    functionLogout();
+                }                
+            });
 
-    var btn2 = new btnModule.Button();
-    btn2.text = "Presenças";
-    btn2.on(btnModule.Button.tapEvent, function(){
-         localStorage.setItem( "refreshMenu" , true );
-         topmost.navigate("views/presencas-view/presencas");
-    })
+            stackLayout.addChild(btn[cont]);
+        }  
+        page.content = stackLayout; 
+    }
+}
 
-    var btn3 = new btnModule.Button();
-    btn3.text = "Definições";
-    btn3.on(btnModule.Button.tapEvent, function(){
-        localStorage.setItem( "refreshMenu" , true );
-        topmost.navigate("views/definicoes-view/definicoes");
-    })
-
-    var btn4 = new btnModule.Button();
-    btn4.text = "Tarefas";
-    btn4.on(btnModule.Button.tapEvent, function(){
-        localStorage.setItem( "refreshMenu" , true );
-        topmost.navigate("views/AGORA-DAS/AGORA");
-    })
-
-    var btn5 = new btnModule.Button();
-    btn5.text = "Logout";
-    btn5.on(btnModule.Button.tapEvent, function(){
-
-        dialogs.confirm({
-            title: "Log Out",
-            message: "Tem certeza que quer fazer logout?",
-            okButtonText: "OK",
-            cancelButtonText: "CANCEL"
+functionLogout = function() {
+    dialogs.confirm({
+        title: "Log Out",
+        message: "Tem certeza que quer fazer logout?",
+        okButtonText: "OK",
+        cancelButtonText: "CANCEL"
 
         }).then(function (result) {
-
             if( result == true ){
-
                 var topmost = frameModule.topmost();
                 var navigationEntry = {
                     moduleName: "views/login-view/login",
@@ -76,24 +89,9 @@ exports.principal = function(args) {
                         duration: 380,
                         curve: "easeIn"
                     }
-        };
-        localStorage.setItem("loggedUser" , " ");
-        topmost.navigate(navigationEntry);
-
+                };
+                localStorage.setItem("loggedUser" , " ");
+                topmost.navigate(navigationEntry); 
             }
-
         });
-
-    });
-
-    stackLayout.addChild(btn1);
-    stackLayout.addChild(btn2);
-    stackLayout.addChild(btn3);
-    stackLayout.addChild(btn4);
-    stackLayout.addChild(btn5);
-
-    page.content = stackLayout;
-
-    }
-
 }

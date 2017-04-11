@@ -119,7 +119,7 @@ drawFormStorage = function() {
         const cont = i;
         switch (localStorage.getItem("form_presenca_typeObject" + cont)) {
             case "button":
-                arrayButton[cont] = new buttonModule.Button(num); 
+                arrayButton[cont] = new buttonModule.Button(); 
                 arrayButton[cont].text = localStorage.getItem("form_presenca_textObject" + cont);
                 arrayButton[cont].tap = localStorage.getItem("form_presenca_btnTap" + cont);         
                 saveFunction[cont] = arrayButton[cont].tap;

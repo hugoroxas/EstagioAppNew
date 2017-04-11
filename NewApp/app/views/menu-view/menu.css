@@ -1,0 +1,16 @@
+ActionBar {
+    background-color:  #3C5AFD;
+    color: white; 
+}
+
+Button {
+    background-color: #3C5AFD;
+    color: white;   
+    height: 100px;
+    width: auto;
+    margin:left;
+}   
+
+StackLayout {
+    vertical-align: center;
+}

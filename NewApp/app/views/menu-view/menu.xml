@@ -1,2 +1,3 @@
 <Page loaded="principal">
+    <ActionBar title="Menu Principal"></ActionBar>
 </Page>
