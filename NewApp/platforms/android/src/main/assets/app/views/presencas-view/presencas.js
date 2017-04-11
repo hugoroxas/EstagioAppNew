@@ -25,14 +25,12 @@ exports.presenca = function(args) {
     var date = new Date();
     var d = date.getDay();
 
-    if (storage.getItem("form_presenca_verificaDia") == null || storage.getItem("form_presenca_verificaDia") != d) {
+    if (d != storage.getItem("form_presenca_verificaDia")) {
         storage.removeItem("form_presenca_picancoGuarda");
         storage.setItem("form_presenca_verificaDia", d);
-        console.info("if picanco");
     }
     else {
         guardarPicancos = storage.getItem("form_presenca_picancoGuarda");
-        console.info("else picanco");
     }
 
     page = args.object;
@@ -47,7 +45,7 @@ exports.presenca = function(args) {
 
     console.info("VERIFICA ANTES DA CONDIÇÃO: " + verifica);
 
-    if (verifica == null) {
+    if (verifica != 1 && verifica != 2) {
         verifica = 1;
     }
 
@@ -60,7 +58,6 @@ exports.presenca = function(args) {
         drawFormStorage();
     }
     else {
-        console.info("nao fez request nem storage");
         console.info(verifica);
     }     
 } 
@@ -97,17 +94,8 @@ drawFormStorage = function() {
     var x = 0;
     var y = 0;
 
-    
     opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
-    console.info("confirma menu: " + opcaoMenu);
-
-
-    if (opcaoMenu == null) {
-        storage.setItem("form_presenca_opcaoMenu", 2);
-        opcaoMenu = 2;
-    }
-
-    console.info("confirma menu again: " + opcaoMenu);
+    console.info(opcaoMenu);
 
     if (opcaoMenu == 2) {
         var gridLayout = new glayout.GridLayout();
@@ -163,7 +151,6 @@ drawFormStorage = function() {
                 arrayListView[cont].items = guardarPicancos;
                 stackLayout.addChild(arrayListView[cont]);
                 break;
-                // compila
             }
     }
 
