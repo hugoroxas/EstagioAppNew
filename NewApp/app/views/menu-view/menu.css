@@ -14,3 +14,8 @@ Button {
 StackLayout {
     vertical-align: center;
 }
+
+GridLayout {
+    vertical-align: center;
+    horizontal-align: center;
+}

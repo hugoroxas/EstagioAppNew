@@ -72,6 +72,13 @@
                 <Button text="Change TextSize" className="btnOp" onTap="changeAppTextSize" />
             </StackLayout>
             <Label height="10px"/>
+        
+        <Label text="Definições" className="teste" /> <Label text="" className="linhaHorizontal" />
+            <Label height="10px"/>
+            <StackLayout orientation="horizontal" >
+                <Button text="Mudar Layout" className="btnOp" onTap="mudarLayoutMenu" />
+            </StackLayout>
+            <Label height="10px"/>
 
     </StackLayout>
 

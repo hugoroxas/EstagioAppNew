@@ -63,5 +63,26 @@ exports.changeAppTextSize = function(){
 }
 
 exports.definicoes = function(args) {
-    
+   
 }
+
+exports.mudarLayoutMenu = function() {
+     var mudarLayout = localStorage.getItem("form_menu_layout");
+    console.info("declaraçao: " + mudarLayout);
+
+    if (mudarLayout == null) {
+        localStorage.setItem("form_menu_layout", 1);
+        mudarLayout = localStorage.getItem("form_menu_layout");
+    }
+    if (mudarLayout == 1) {
+        mudarLayout = 2;
+    }
+    else if (mudarLayout == 2) {
+        mudarLayout = 1;
+    }
+
+    localStorage.setItem("form_menu_layout", mudarLayout);
+    console.info(mudarLayout);
+}
+
+
