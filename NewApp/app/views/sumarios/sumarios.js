@@ -62,7 +62,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     var scroll1 = new scrollViewModule.ScrollView();
                     localStorage.setItem("elementoID_type"+i, jsonfile[i].Fields.type);
                     localStorage.setItem("elementoID_id"+i, jsonfile[i].Fields.id);
-                    scroll1.height = 500;
+                    scroll1.height = 200;
                     scroll1.id = jsonfile[i].Fields.id;
                     //var kap = new labelModule.Label();
                     //kap.text = "GNAHEI";
@@ -72,11 +72,12 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     console.log("GANHEI2");
                     //stackLayout.addChild(scroll1);
                     console.log("GANHEI3");
+                    //alert("1");
 
                 }else if(jsonfile[i].Fields.type == "ListView"){
                     var lista1 = new listViewModule.ListView();
-                    localStorage.setItem("elementoID_type"+i, "listview");
-                    localStorage.setItem("elementoID_id"+i, "lista_sumarios");
+                    localStorage.setItem("elementoID_type"+i, jsonfile[i].Fields.type);
+                    localStorage.setItem("elementoID_id"+i, jsonfile[i].Fields.id);
                     //lista1.id = jsonfile[i].id;
                     lista1.items = "";
                     
@@ -84,17 +85,17 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     
                     //localStorage.setItem("listview_sumarios_array1", ['Dia 1: Trabalhei bué','Dia 2: Trabalhei ainda mais','Dia 3: Fui despedido']);
                     lista1.items = [];
-                    lista1.id = "lista_sumarios";
+                    lista1.id = jsonfile[i].Fields.id;
                     localStorage.setItem("elementoID_items"+i, lista1.items);
                     stackLayout.addChild(lista1);
-
+                    
                     
 
                 }else if(jsonfile[i].Fields.type == "Button"){
                     //alert("asdfghjk");
                     //amount_btn = amount_btn+1;
                     var btn1 = new buttonModule.Button();
-                    localStorage.setItem("elementoID_type"+i, "button");
+                    localStorage.setItem("elementoID_type"+i, jsonfile[i].Fields.type);
                     var btnid = jsonfile[i].Fields.id;
                     localStorage.setItem("elementoID_id"+i, btnid);
                     //alert("ADICIONAR SUMARIO BTN");
@@ -141,6 +142,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             localStorage.setItem("form_existe", "true");
             formexists = localStorage.getItem("form_existe");
             console.log("SET2");
+            topmost.navigate("views/sumarios/sumarios");
             //alert("SET2");
             //var layout2 = new layoutModule.StackLayout();
             //localStorage.setItem("pag_sumarios", stackLayout);
@@ -150,6 +152,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             console.log(e);
             alert("Error: "+ e);
         });
+        
 
         }else{
             
@@ -158,7 +161,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                 console.log("ELEMENTOID: " + curr_obj);
                 if(curr_obj == "ScrollView"){
                     var scroll1 = new scrollViewModule.ScrollView();
-                    scroll1.height = 500;
+                    scroll1.height = 200;
                     scroll1.id = localStorage.getItem("elementoID_id"+i);
                     var kap = new labelModule.Label();
                     kap.text = "GNAHEI";
@@ -168,9 +171,12 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                     console.log("GANHEI2");
                     //stackLayout.addChild(scroll1);
                     console.log("GANHEI3");
+                    //alert("1");
 
-                }else if(curr_obj == "button"){
+                }else if(curr_obj == "Button"){
+                    //alert("BUTTON");
                     if(localStorage.getItem("elementoID_id"+i) == "adicionarsumario"){
+                    //alert("CREATE");
                     var btn1 = new buttonModule.Button();
                     btn1.text = localStorage.getItem("elementoID_text"+i);
                     btn1.width = localStorage.getItem("elementoID_width"+i);
@@ -180,6 +186,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         topmost.navigate("views/sumarios/criarnovo/criarnovo");
                     });
                     stackLayout.addChild(btn1);
+                    //alert("2");
                 }else if(localStorage.getItem("elementoID_id"+i) == "btn_voltar_menu"){
                     var btn1 = new buttonModule.Button();
                     btn1.text = localStorage.getItem("elementoID_text"+i);
@@ -188,13 +195,16 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                         topmost.navigate("views/menu-view/menu");
                     });
                     stackLayout.addChild(btn1);
+                    //alert("3");
+                    //123
                 }
 
-                }else if(curr_obj == "listview"){
+                }else if(curr_obj == "ListView"){
                     var lista1 = new listViewModule.ListView();
                     lista1.id = localStorage.getItem("elementoID_id"+i);
                     lista1.items = localStorage.getItem("elementoID_items"+i);
                     stackLayout.addChild(lista1);
+                    //alert("listview");
                 }
             }
             scrollfinal.content = stackLayout;
@@ -208,8 +218,8 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             var tamanho = jsonfile2.length;
             //conteudo = JSON.parse(r);
             //alert("TEXTO_SUMARIO: " + teste123);
-            page.getViewById("lista_sumarios").items = [];
-            page.getViewById("lista_sumarios").rowHeight = 150;
+            page.getViewById("listasumarios").items = [];
+            page.getViewById("listasumarios").rowHeight = 150;
             
             //page.getViewById("lista_sumarios").textWrap = true;
             //page.getViewById("lista_sumarios").items = [teste123[0].Fields.dia_sumario +": "+ teste123[0].Fields.texto_sumario];
@@ -218,7 +228,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
                 //var lbl_meu = new labelModule.Label();
                 //lbl_meu.text = "123";
                 var txtfinal = jsonfile2[i].Fields.texto_sumario.replace(/_/g," ");
-                page.getViewById("lista_sumarios").items.push(jsonfile2[i].Fields.dia_sumario +": "+ txtfinal);
+                page.getViewById("listasumarios").items.push(jsonfile2[i].Fields.dia_sumario +": "+ txtfinal);
                 //alert("AQU2");
                 
                 //alert("AQUI3");
@@ -227,7 +237,7 @@ http.getJSON("https://luisfranciscocode.000webhostapp.com/webservice.php?format=
             }
             
 
-            page.getViewById("lista_sumarios").on(listViewModule.ListView.itemTapEvent, function(args = listViewModule.itemEventData){
+            page.getViewById("listasumarios").on(listViewModule.ListView.itemTapEvent, function(args = listViewModule.itemEventData){
                 var tappedItemIndex = args.index;
                 console.log(tappedItemIndex);
                 var tappedItemView = args.view;

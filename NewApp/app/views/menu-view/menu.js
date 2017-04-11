@@ -1,6 +1,9 @@
 var frameModule = require("ui/frame");
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
+var localStorage = require("nativescript-localstorage");
+var dialogs = require("ui/dialogs");
+var page;
 
 exports.principal = function(args) {
     page = args.object;
@@ -34,8 +37,35 @@ exports.principal = function(args) {
     var btn5 = new btnModule.Button();
     btn5.text = "Logout";
     btn5.on(btnModule.Button.tapEvent, function(){
-        alert("BUTTON 5");
-    })
+
+        dialogs.confirm({
+            title: "Log Out",
+            message: "Tem certeza que quer fazer logout?",
+            okButtonText: "OK",
+            cancelButtonText: "CANCEL"
+
+        }).then(function (result) {
+
+            if( result == true ){
+
+                var topmost = frameModule.topmost();
+                var navigationEntry = {
+                    moduleName: "views/login-view/login",
+                    clearHistory: true,
+                    transition: {
+                        name: "slideRight",
+                        duration: 380,
+                        curve: "easeIn"
+                    }
+        };
+        localStorage.setItem("loggedUser" , " ");
+        topmost.navigate(navigationEntry);
+
+            }
+
+        });
+
+    });
 
     stackLayout.addChild(btn1);
     stackLayout.addChild(btn2);

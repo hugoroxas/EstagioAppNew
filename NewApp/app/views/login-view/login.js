@@ -78,27 +78,41 @@ function createRows(newGridLayout , arrayRow){
 
 function buttonTapEvent(){
 
+    page.getViewById("btn1").isEnabled = false;
+
     http.getString("https://luisfranciscocode.000webhostapp.com/fazerLogin.php?pin=" + page.getViewById(localStorage.getItem("form_login_idObject")[1]).text)
     .then(function (r) {
      
         if(r == "rekt"){ // Fails log in
 
             toast.makeText("PIN incorrecto , tente de novo").show();
+            page.getViewById("btn1").isEnabled = true;
 
         } else {
-
+            
+            page.getViewById("btn1").isEnabled = true;
             toast.makeText("Seja bem-vindo " + r ).show();
             localStorage.setItem( "loggedUser" , r );
             console.info( "O utilizador que iniciou a sessao é " + localStorage.getItem("loggedUser"));
+            
             var topmost = frameModule.topmost();
-            topmost.navigate("views/menu-view/menu");
-            // navigate to frame blablabla ---
+            var navigationEntry = {
+                moduleName: "views/menu-view/menu",
+                clearHistory: true,
+                transition: {
+                    name: "slide",
+                    duration: 380,
+                    curve: "easeIn"
+                }
+            };
+            topmost.navigate(navigationEntry);
 
         }
 
     }, function (e) {
                                     
         toast.makeText("Sem acesso a internet").show();
+        page.getViewById("btn1").isEnabled = true;
 
     });
 
@@ -145,6 +159,7 @@ function loadLayout(){
             break;
 
             case "textbox": fieldsArray[i] = new textFieldModule.TextField();
+                            fieldsArray[i].keyboardType = "number";
                             fieldsArray[i].secure = true;
                             fieldsArray[i].hint = "Inserir Pin";
             break;
@@ -241,6 +256,7 @@ function createLayout(page){
                 case "textbox": fieldsArray[i] = new textFieldModule.TextField();
                                 fieldsArray[i].secure = true;
                                 fieldsArray[i].hint = "Inserir Pin";
+                                fieldsArray[i].keyboardType = "number";
                 break;
 
                 case "image":  fieldsArray[i] = new imageModule.Image();
@@ -318,17 +334,28 @@ exports.load = function(args) {
 
     page = args.object;
     checkVersion();
-    localStorage.removeItem("loggedUser");
 
-    if( localStorage.getItem("sameVersion") == true ){
+    if( localStorage.getItem("loggedUser") == " " ){
 
-        loadLayout(page);
+        if( localStorage.getItem("sameVersion") == true ){
 
-    }
+            loadLayout(page);
 
-    else {
+        } else {
 
-        createLayout(page);
+            createLayout(page);
+
+        }
+
+    } else {
+
+        var topmost = frameModule.topmost();
+        var navigationEntry = {
+            moduleName: "views/menu-view/menu",
+            clearHistory: true,
+        };
+        console.log(localStorage.getItem( "loggedUser" ));
+        topmost.navigate(navigationEntry);
 
     }
 

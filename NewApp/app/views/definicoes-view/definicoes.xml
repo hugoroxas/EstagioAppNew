@@ -1,3 +1,80 @@
 <Page loaded="definicoes">
+
+<ScrollView orientation="vertical" >
+
     <ActionBar title="Definições"></ActionBar>
+
+    <StackLayout>
+
+        <Label text="Sumários" className="teste" /> <Label text="" className="linhaHorizontal" />
+            
+            <Label height="10px"/>
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 1" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+            
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 2" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 3" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+        <Label text="Presenças" className="teste" /> <Label text="" className="linhaHorizontal" />
+
+            <Label height="10px"/>
+            <StackLayout orientation="horizontal" >
+                <Button text="Alterar Orientation" className="btnOp" onTap="changeLayout" />
+            </StackLayout>
+            <Label height="10px"/>
+        
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 2" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 3" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+        <Label text="Tarefas" className="teste" /> <Label text="" className="linhaHorizontal" />
+
+            <Label height="10px"/>
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 1" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+            
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 2" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+            <StackLayout orientation="horizontal" >
+                <Button text="OPÇÃO 3" className="btnOp" />
+            </StackLayout>
+            <Label height="10px"/>
+
+        <Label text="Overall" className="teste" /> <Label text="" className="linhaHorizontal" />
+
+            <Label height="10px"/>
+            <StackLayout orientation="horizontal" >
+                <Button text="Clear LocalStorage" className="btnOp" onTap="limpeza" />
+            </StackLayout>
+            <Label height="10px"/>
+
+            <StackLayout orientation="horizontal" >
+                <Button text="Change TextSize" className="btnOp" onTap="changeAppTextSize" />
+            </StackLayout>
+            <Label height="10px"/>
+
+    </StackLayout>
+
+</ScrollView>
+
 </Page>

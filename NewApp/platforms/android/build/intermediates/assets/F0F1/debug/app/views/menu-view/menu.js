@@ -2,7 +2,11 @@ var frameModule = require("ui/frame");
 var btnModule = require("ui/button");
 var layoutModule = require("ui/layouts/stack-layout");
 
+
 var page;
+// cenas cenas cenas
+
+
 
 exports.principal = function(args) {
     page = args.object;
@@ -24,7 +28,7 @@ exports.principal = function(args) {
     var btn3 = new btnModule.Button();
     btn3.text = "Definições";
     btn3.on(btnModule.Button.tapEvent, function(){
-        alert("BUTTON 3");
+        topmost.navigate("views/definicoes-view/definicoes");
     })
 
     var btn4 = new btnModule.Button();
@@ -44,7 +48,6 @@ exports.principal = function(args) {
     stackLayout.addChild(btn3);
     stackLayout.addChild(btn4);
     stackLayout.addChild(btn5);
-    page.content = stackLayout;
 
-    // https://luisfranciscocode.000webhostapp.com/webservice.php?format=json
+    page.content = stackLayout;
 }
