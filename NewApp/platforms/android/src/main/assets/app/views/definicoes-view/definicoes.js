@@ -2,7 +2,7 @@ var buttonModule = require("ui/button");
 var labelModule = require("ui/label");
 var layoutModule = require("ui/layouts/stack-layout");
 var dialogs = require("ui/dialogs");
-var storage = require("nativescript-localstorage");
+var localStorage = require("nativescript-localstorage");
 
 exports.limpeza = function(){
 

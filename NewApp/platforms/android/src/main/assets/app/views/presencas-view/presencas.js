@@ -62,7 +62,9 @@ exports.presenca = function(args) {
     else {
         console.info("nao fez request nem storage");
         console.info(verifica);
-    }     
+    }  
+
+    console.info("guardar picas:" + guardarPicancos);
 } 
 
 requestJson = function() {
@@ -96,11 +98,9 @@ drawFormStorage = function() {
 
     var x = 0;
     var y = 0;
-
     
     opcaoMenu = localStorage.getItem("form_presenca_opcaoMenu");
     console.info("confirma menu: " + opcaoMenu);
-
 
     if (opcaoMenu == null || opcaoMenu == "") {
         localStorage.setItem("form_presenca_opcaoMenu", 2);
