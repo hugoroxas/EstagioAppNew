@@ -7,7 +7,7 @@ var labelModule = require("ui/label");
 var timePickerModule = require("ui/time-picker");
 var listViewModule = require("ui/list-view");
 
-var storage = require("nativescript-localstorage");
+var localStorage = require("nativescript-localstorage");
 var Observable = require("data/observable").Observable;
 
 var urlJson = "https://luisfranciscocode.000webhostapp.com/webservice.php?format=json&&form=form_lista_presencas";
@@ -25,13 +25,13 @@ exports.presenca = function(args) {
     var date = new Date();
     var d = date.getDay();
 
-    if (storage.getItem("form_presenca_verificaDia") == null || storage.getItem("form_presenca_verificaDia") != d) {
-        storage.removeItem("form_presenca_picancoGuarda");
-        storage.setItem("form_presenca_verificaDia", d);
+    if (localStorage.getItem("form_presenca_verificaDia") == null || localStorage.getItem("form_presenca_verificaDia") != d || localStorage.getItem("form_presenca_verificaDia") == "") {
+        localStorage.removeItem("form_presenca_picancoGuarda");
+        localStorage.setItem("form_presenca_verificaDia", d);
         console.info("if picanco");
     }
     else {
-        guardarPicancos = storage.getItem("form_presenca_picancoGuarda");
+        guardarPicancos = localStorage.getItem("form_presenca_picancoGuarda");
         console.info("else picanco");
     }
 
@@ -43,11 +43,11 @@ exports.presenca = function(args) {
     console.info(laibel.text);
     console.info(picar.mensagem);
  
-    verifica = storage.getItem("form_presenca_verify");
+    verifica = localStorage.getItem("form_presenca_verify");
 
     console.info("VERIFICA ANTES DA CONDIÇÃO: " + verifica);
 
-    if (verifica == null) {
+    if (verifica == null || verifica == "") {
         verifica = 1;
     }
 
@@ -75,8 +75,8 @@ requestJson = function() {
         var sizeFields = Object.keys(r).length;
         var dataFields = r;
 
-        storage.setItem("form_presenca_numObjects", sizeFields);
-        storage.setItem("form_presenca_dataJson", dataFields );
+        localStorage.setItem("form_presenca_numObjects", sizeFields);
+        localStorage.setItem("form_presenca_dataJson", dataFields );
 
         console.info(sizeFields);
         console.info(JSON.stringify(dataFields));
@@ -98,12 +98,12 @@ drawFormStorage = function() {
     var y = 0;
 
     
-    opcaoMenu = storage.getItem("form_presenca_opcaoMenu");
+    opcaoMenu = localStorage.getItem("form_presenca_opcaoMenu");
     console.info("confirma menu: " + opcaoMenu);
 
 
-    if (opcaoMenu == null) {
-        storage.setItem("form_presenca_opcaoMenu", 2);
+    if (opcaoMenu == null || opcaoMenu == "") {
+        localStorage.setItem("form_presenca_opcaoMenu", 2);
         opcaoMenu = 2;
     }
 
@@ -114,14 +114,14 @@ drawFormStorage = function() {
         stackLayout.addChild(gridLayout);
     }    
 
-    var num = storage.getItem("form_presenca_numObjects");
+    var num = localStorage.getItem("form_presenca_numObjects");
     for(i = 0; i < num; i++) {
         const cont = i;
-        switch (storage.getItem("form_presenca_typeObject" + cont)) {
+        switch (localStorage.getItem("form_presenca_typeObject" + cont)) {
             case "button":
                 arrayButton[cont] = new buttonModule.Button(num); 
-                arrayButton[cont].text = storage.getItem("form_presenca_textObject" + cont);
-                arrayButton[cont].tap = storage.getItem("form_presenca_btnTap" + cont);         
+                arrayButton[cont].text = localStorage.getItem("form_presenca_textObject" + cont);
+                arrayButton[cont].tap = localStorage.getItem("form_presenca_btnTap" + cont);         
                 saveFunction[cont] = arrayButton[cont].tap;
                 arrayButton[cont].on(buttonModule.Button.tapEvent, function() {
                     escolher(saveFunction[cont]);
@@ -174,14 +174,14 @@ drawFormJson = function(size, data) {
     for (i = 0; i < size; i++) {
         switch (data[i].Fields.type) {
             case "button":
-                storage.setItem("form_presenca_btnTap" + i, data[i].Fields.tap);                
+                localStorage.setItem("form_presenca_btnTap" + i, data[i].Fields.tap);                
                 break; 
         }
 
-        storage.setItem("form_presenca_idObject" + i, data[i].Fields.id);
-        storage.setItem("form_presenca_typeObject" + i, data[i].Fields.type);
-        storage.setItem("form_presenca_textObject" + i, data[i].Fields.text);
-        storage.setItem("form_presenca_verify", 2);
+        localStorage.setItem("form_presenca_idObject" + i, data[i].Fields.id);
+        localStorage.setItem("form_presenca_typeObject" + i, data[i].Fields.type);
+        localStorage.setItem("form_presenca_textObject" + i, data[i].Fields.text);
+        localStorage.setItem("form_presenca_verify", 2);
     }
 
     drawFormStorage();
@@ -224,7 +224,7 @@ escolher = function(func) {
     }
     
     guardarPicancos.push(picar.mensagem);
-    storage.setItem("form_presenca_picancoGuarda", guardarPicancos);
+    localStorage.setItem("form_presenca_picancoGuarda", guardarPicancos);
 
     drawFormStorage();
 } 
