@@ -2,102 +2,137 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\classes.jar"
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="632bf39700c28ba66c117628dab343126ef89551">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\NewApp-runtime-unspecified_606a7ccc4e778a83fbea56b14dc591c8bd0e9151.jar" />
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-animated-vector-drawable-25.3.0_78c202a9cad4a1dcb638fd0aa594177ad695ef24.jar" />
     </item>
     <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-23.4.0_d591bb214defa58fcc805bcd28181d7c6d1b979f.jar" />
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-appcompat-v7-25.3.0_b5103e444fffcf45e27d38569bc2dc5f6b21f0ab.jar" />
     </item>
     <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.orhanobut\hawk\2.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.orhanobut-hawk-2.0.1_7986eb9a122b01fc2d7780c4a223c745df39fca2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_10e8a56dbe2f6ce0e6ef2a209f0c699732cdf766.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-23.4.0_4de803b8219289e8119c82985457840396d0ce3d.jar" />
-    </item>
-    <item
-        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-23.4.0_4bc2f5f4c52b7856b2e2adeb931a4ded186ea1c6.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-23.4.0_17a060d10b4dcf53ad0d5e99ef9a26d88e846d37.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-23.4.0_05d6d20b909a614981a00e042d4e782eecb91c4f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.facebook.conceal\conceal\1.1.3\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.conceal-conceal-1.1.3_d9485d158c6e7240dd990a0a427e9eaa64fe58fd.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\gson-2.4_2dd3bbcf82b92a4060adaca88c1eef627f550931.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-23.4.0_866373896e77f8c7e697c801c00d3165cad66bcf.jar" />
-    </item>
-    <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\libs\binding-generator.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_0f213cb60fa8ecd336d05bc779a133347e6e66a6.jar" />
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\binding-generator_be2fdd1286f4a8de3a4e32ed546dbf67f5780a61.jar" />
     </item>
     <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-23.4.0_aed7bc5ce13f9439316d7d374a40c5e8fe6de140.jar" />
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-widgets-release_a508488bc9810d3638973498177271ada6da3638.jar" />
     </item>
     <item
-        jar="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\Hugo\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-23.4.0_d6c2287a47820ab75af96f81b573e3b1ebbb5463.jar" />
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-recyclerview-v7-25.3.0_24459d8782b6be80a8877036ec4067fe10cb8117.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-transition-25.3.0_0d1d84b6792d0dc9b9166a2ae169e3a4fb5189d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-media-compat-25.3.0_4535a62f233063793d7465f3ee89239ed8eadec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\NewApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\NewApp-runtime-unspecified_f837a6fde565092c26c94a6775e5eb95c3be8813.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-25.3.0_4da40339cc4dc54cee8afb14e329dab6db7a2f9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.facebook.conceal\conceal\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.conceal-conceal-1.1.3_978bbdd4dd1a13e12c7767f3e0e2a44cc0e87ddc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-vector-drawable-25.3.0_1a1402450d1798d325389b7c983a742de41874b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-v4-25.3.0_78f108fc391e98c256992ca6c1d714fcb7e0af7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-design-25.3.0_839462394bcd7847aa8e99260dac82716c241240.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-compat-25.3.0_42eb9587985882b4b5377e48bf4d3fe2f077ecbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.orhanobut\hawk\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.orhanobut-hawk-2.0.1_d323b8af897c2b46be29c920b07a84eb203e39ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-utils-25.3.0_6b9cd81ff386c735f48f24ad79a8be1cca464925.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-fragment-25.3.0_1b2c879361777eefaa8efeadd2940bba4decd652.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\gson-2.4_f90cd066172e0d18baceaf5bee6dc644e34da4b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Miguel\Documents\GitHub\EstagioAppNew\NewApp\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-ui-25.3.0_4828cbce0c1ec8d494a623db14ef3681f0b83af4.jar" />
     </item>
 
 </items>

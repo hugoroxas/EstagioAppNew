@@ -3,3 +3,10 @@ ListView{
     color: black;
     text-align: center;
 }
+floatingactionbutton {
+    height: 70;
+    width: 70;
+    margin: 15;
+    background-color: #ff4081;
+    vertical-align: bottom; 
+}

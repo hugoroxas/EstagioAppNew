@@ -1,3 +1,12 @@
-<Page loaded="listLoad">
-
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="listLoad"
+      xmlns:FAB="nativescript-floatingactionbutton">
+    <Page.actionBar>
+        <ActionBar title="Native FAB" backgroundColor="#3F51B5" color="#fff" />
+    </Page.actionBar>
+            <FAB:fab tap="fabTap"
+                     row="1"
+                     icon="res://ic_add_white"
+                     rippleColor="#f1f1f1"
+                     class="fab-button" 
+                     id="fapbutton" />
 </Page>

@@ -1,0 +1,136 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-floatingactionbutton",
+        "scope": null,
+        "escapedName": "nativescript-floatingactionbutton",
+        "name": "nativescript-floatingactionbutton",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp"
+    ]
+  ],
+  "_from": "nativescript-floatingactionbutton@latest",
+  "_id": "nativescript-floatingactionbutton@2.2.7",
+  "_inCache": true,
+  "_location": "/nativescript-floatingactionbutton",
+  "_nodeVersion": "5.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-floatingactionbutton-2.2.7.tgz_1480954166987_0.861712550278753"
+  },
+  "_npmUser": {
+    "name": "bradmartin",
+    "email": "bradmartin0905@gmail.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-floatingactionbutton",
+    "scope": null,
+    "escapedName": "nativescript-floatingactionbutton",
+    "name": "nativescript-floatingactionbutton",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-floatingactionbutton/-/nativescript-floatingactionbutton-2.2.7.tgz",
+  "_shasum": "69ef6a7f3ec81930563156b4218c79a8540b6425",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-floatingactionbutton",
+  "_where": "C:\\Users\\Miguel\\Documents\\GitHub\\EstagioAppNew\\NewApp",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradmartin0905@gmail.com",
+    "url": "https://github.com/bradmartin"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-floatingactionbutton/issues"
+  },
+  "contributors": [
+    {
+      "name": "Lázaro Danillo",
+      "url": "https://github.com/lazaromenezes"
+    },
+    {
+      "name": "Steve McNiven-Scott",
+      "url": "https://github.com/sitefinitysteve"
+    },
+    {
+      "name": "Nathanael Anderson",
+      "url": "https://github.com/NathanaelA"
+    },
+    {
+      "name": "Gabriel Marinho",
+      "url": "https://github.com/gabrielbiga"
+    }
+  ],
+  "dependencies": {},
+  "description": "A NativeScript plugin for Material Design Floating Action Button.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "69ef6a7f3ec81930563156b4218c79a8540b6425",
+    "tarball": "https://registry.npmjs.org/nativescript-floatingactionbutton/-/nativescript-floatingactionbutton-2.2.7.tgz"
+  },
+  "gitHead": "e60755b46970e75ff8eb1da659c59c17b69b5b52",
+  "homepage": "https://github.com/bradmartin/nativescript-floatingactionbutton",
+  "keywords": [
+    "NativeScript",
+    "native",
+    "javascript",
+    "material design",
+    "FAB",
+    "floating-action-button",
+    "android",
+    "ios",
+    "bradmartin",
+    "Thorum"
+  ],
+  "license": "Apache-2.0",
+  "main": "fab",
+  "maintainers": [
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    },
+    {
+      "name": "gabrielbiga",
+      "email": "gabrielbiga@me.com"
+    },
+    {
+      "name": "lazaromenezes",
+      "email": "lazarodm@gmail.com"
+    },
+    {
+      "name": "nathanaela",
+      "email": "nathan@master-technology.com"
+    },
+    {
+      "name": "sitefinitysteve",
+      "email": "steve@sitefinitysteve.com"
+    }
+  ],
+  "name": "nativescript-floatingactionbutton",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.0",
+      "ios": "1.5.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-floatingactionbutton.git"
+  },
+  "scripts": {},
+  "version": "2.2.7"
+}

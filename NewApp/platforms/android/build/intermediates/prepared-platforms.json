@@ -1,6 +1,7 @@
 {
     "nativescript-checkbox": true,
     "nativescript-drop-down": true,
+    "nativescript-floatingactionbutton": true,
     "nativescript-localstorage": true,
     "nativescript-radiobutton": true,
     "nativescript-secure-storage": true,

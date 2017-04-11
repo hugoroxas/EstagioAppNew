@@ -56,9 +56,6 @@ exports.listLoad = function(args){
                     tarefasList.items = array_dados;
                     newStackLayout.addChild(tarefasList);
                     break;
-                case "button":
-                    button.text = "adicionar";
-                    break;
                 default:
                     break;
             }
@@ -72,7 +69,11 @@ exports.listLoad = function(args){
                 }}
             topmost.navigate(navigationOptions);
         });
+        var fapp = page.getViewById("fapbutton");
+
+
         page.content = newStackLayout;
+        page.content.append(fapp);
     }, function (e) {
         console.log(e);
        });

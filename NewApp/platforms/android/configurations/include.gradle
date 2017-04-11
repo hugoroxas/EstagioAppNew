@@ -1,4 +1,4 @@
 
 android {
-    flavorDimensions "nativescriptsecurestorage", "tnscoremoduleswidgets"
+    flavorDimensions "nativescriptfloatingactionbutton", "nativescriptsecurestorage", "tnscoremoduleswidgets"
 }
